@@ -1,0 +1,2800 @@
+{
+  "nodes": [
+    {
+      "name": "I Am Legend",
+      "size": 585349010,
+      "keywords": [
+        "saving the world",
+        "lost civilisation",
+        "post-apocalyptic",
+        "dystopia",
+        "matter of life and death",
+        "alone",
+        "helplessness",
+        "virus",
+        "pandemic"
+      ],
+      "user_rating": 6.9,
+      "votes": 4853,
+      "release_year": 2007,
+      "overview": "Robert Neville is a scientist who was unable to stop the spread of the terrible virus that was incurable and man-made. Immune, Neville is now the last human survivor in what is left of New York City and perhaps the world. For three years, Neville has faithfully sent out daily radio messages, desperate to find any other survivors who might be out there. But he is not alone.",
+      "runtime": 101
+    },
+    {
+      "name": "World War Z",
+      "size": 531865000,
+      "keywords": [
+        "dystopia",
+        "apocalypse",
+        "zombie",
+        "nuclear weapons",
+        "multiple perspectives",
+        "zombie apocalypse"
+      ],
+      "user_rating": 6.7,
+      "votes": 5560,
+      "release_year": 2013,
+      "overview": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
+      "runtime": 116
+    },
+    {
+      "name": "Jaws",
+      "size": 470654000,
+      "keywords": [
+        "fishing",
+        "atlantic ocean",
+        "bathing",
+        "shipwreck",
+        "police chief",
+        "ferry boat",
+        "dying and death",
+        "dolly zoom",
+        "shark",
+        "great white shark",
+        "animal horror"
+      ],
+      "user_rating": 7.5,
+      "votes": 2542,
+      "release_year": 1975,
+      "overview": "An insatiable great white shark terrorizes the townspeople of Amity Island, The police chief, an oceanographer and a grizzled shark hunter seek to destroy the bloodthirsty beast.",
+      "runtime": 124
+    },
+    {
+      "name": "The Exorcist",
+      "size": 441306145,
+      "keywords": [
+        "exorcism",
+        "holy water",
+        "religion and supernatural",
+        "vomit",
+        "christian",
+        "possession",
+        "profanity",
+        "priest",
+        "ouija board",
+        "satan",
+        "paranormal phenomena",
+        "girl",
+        "demon",
+        "strong language",
+        "disturbed child",
+        "crisis of faith",
+        "sfx"
+      ],
+      "user_rating": 7.5,
+      "votes": 2005,
+      "release_year": 1973,
+      "overview": "12-year-old Regan MacNeil begins to adapt an explicit new personality as strange events befall the local area of Georgetown. Her mother becomes torn between science and superstition in a desperate bid to save her daughter, and ultimately turns to her last hope: Father Damien Karras, a troubled priest who is struggling with his own faith.",
+      "runtime": 122
+    },
+    {
+      "name": "The Conjuring 2",
+      "size": 320170008,
+      "keywords": [
+        "london england",
+        "england",
+        "1970s",
+        "spirit",
+        "single mother",
+        "demon",
+        "paranormal investigation",
+        "demonic possession",
+        "valak",
+        "annabelle"
+      ],
+      "user_rating": 7,
+      "votes": 1949,
+      "release_year": 2016,
+      "overview": "Lorraine and Ed Warren travel to north London to help a single mother raising four children alone in a house plagued by malicious spirits.",
+      "runtime": 134
+    },
+    {
+      "name": "The Conjuring",
+      "size": 318000141,
+      "keywords": [
+        "sister sister relationship",
+        "exorcism",
+        "rhode island",
+        "based on true story",
+        "farmhouse",
+        "paranormal investigation",
+        "ghost",
+        "supernatural power",
+        "paranormal investigator",
+        "annabelle"
+      ],
+      "user_rating": 7.4,
+      "votes": 3092,
+      "release_year": 2013,
+      "overview": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse. Forced to confront a powerful entity, the Warrens find themselves caught in the most terrifying case of their lives.",
+      "runtime": 112
+    },
+    {
+      "name": "Resident Evil: Afterlife",
+      "size": 300228084,
+      "keywords": [
+        "post-apocalyptic",
+        "dystopia",
+        "undead",
+        "biohazard",
+        "evil corporation",
+        "resident evil",
+        "zombie",
+        "based on video game",
+        "duringcreditsstinger",
+        "3d"
+      ],
+      "user_rating": 5.8,
+      "votes": 1363,
+      "release_year": 2010,
+      "overview": "In a world ravaged by a virus infection, turning its victims into the Undead, Alice continues on her journey to find survivors and lead them to safety. Her deadly battle with the Umbrella Corporation reaches new heights, but Alice gets some unexpected help from an old friend. A new lead that promises a safe haven from the Undead takes them to Los Angeles, but when they arrive the city is overrun by thousands of Undead - and Alice and her comrades are about to step into a deadly trap.",
+      "runtime": 97
+    },
+    {
+      "name": "Annabelle",
+      "size": 255273813,
+      "keywords": [
+        "prequel",
+        "evil doll",
+        "killer doll",
+        "spin off",
+        "doll",
+        "demonic possession",
+        "killer toys",
+        "toy comes to life"
+      ],
+      "user_rating": 5.6,
+      "votes": 1517,
+      "release_year": 2014,
+      "overview": "John Form has found the perfect gift for his expectant wife, Mia - a beautiful, rare vintage doll in a pure white wedding dress. But Mia's delight with Annabelle doesn't last long. On one horrific night, their home is invaded by members of a satanic cult, who violently attack the couple. Spilled blood and terror are not all they leave behind. The cultists have conjured an entity so malevolent that nothing they did will compare to the sinister conduit to the damned that is now... Annabelle.",
+      "runtime": 99
+    },
+    {
+      "name": "The Blair Witch Project",
+      "size": 248000000,
+      "keywords": [
+        "witch",
+        "voodoo",
+        "legend",
+        "sorcery",
+        "maryland",
+        "forest",
+        "footage",
+        "horror",
+        "true",
+        "student",
+        "lost",
+        "found footage",
+        "film"
+      ],
+      "user_rating": 6.3,
+      "votes": 1055,
+      "release_year": 1999,
+      "overview": "In October of 1994 three student filmmakers disappeared in the woods near Burkittsville, Maryland, while shooting a documentary. A year later their footage was found.",
+      "runtime": 81
+    },
+    {
+      "name": "Resident Evil: Retribution",
+      "size": 240159255,
+      "keywords": [
+        "mutant",
+        "dystopia",
+        "sequel",
+        "conspiracy",
+        "tokyo japan",
+        "zombie",
+        "based on video game",
+        "moscow",
+        "hand to hand combat",
+        "virus",
+        "plague",
+        "pandemic",
+        "mega corporation"
+      ],
+      "user_rating": 5.6,
+      "votes": 1600,
+      "release_year": 2012,
+      "overview": "The Umbrella Corporation’s deadly T-virus continues to ravage the Earth, transforming the global population into legions of the flesh eating Undead. The human race’s last and only hope, Alice, awakens in the heart of Umbrella’s most clandestine operations facility and unveils more of her mysterious past as she delves further into the complex. Without a safe haven, Alice continues to hunt those responsible for the outbreak; a chase that takes her from Tokyo to New York, Washington, D.C. and Moscow, culminating in a mind-blowing revelation that will force her to rethink everything that she once thought to be true. Aided by new found allies and familiar friends, Alice must fight to survive long enough to escape a hostile world on the brink of oblivion. The countdown has begun.",
+      "runtime": 95
+    },
+    {
+      "name": "Ghost Rider",
+      "size": 228738393,
+      "keywords": [
+        "mephisto",
+        "religion and supernatural",
+        "dying and death",
+        "devil's son",
+        "ghost world",
+        "stunts",
+        "flame",
+        "based on comic book"
+      ],
+      "user_rating": 5.2,
+      "votes": 1712,
+      "release_year": 2007,
+      "overview": "In order to save his dying father, young stunt cyclist, Johnny Blaze sells his soul to Mephistopheles and sadly parts from the pure-hearted, Roxanne Simpson, the love of his life. Years later, Johnny's path crosses again with Roxanne, now a go-getting reporter, and also with Mephistopheles, who offers to release Johnny's soul if Johnny becomes the fabled, fiery 'Ghost Rider'.",
+      "runtime": 114
+    },
+    {
+      "name": "Hansel & Gretel: Witch Hunters",
+      "size": 224803475,
+      "keywords": [
+        "witch",
+        "black magic",
+        "steampunk",
+        "good vs evil",
+        "troll",
+        "extreme violence",
+        "violence",
+        "witchcraft",
+        "evil",
+        "witch hunt",
+        "witch hunter",
+        "evil witch",
+        "duringcreditsstinger",
+        "hansel and gretel",
+        "guns",
+        "3d"
+      ],
+      "user_rating": 5.7,
+      "votes": 3239,
+      "release_year": 2013,
+      "overview": "After getting a taste for blood as children, Hansel and Gretel have become the ultimate vigilantes, hell-bent on retribution. Now, unbeknownst to them, Hansel and Gretel have become the hunted, and must face an evil far greater than witches... their past.",
+      "runtime": 88
+    },
+    {
+      "name": "Interview with the Vampire",
+      "size": 223664608,
+      "keywords": [
+        "paris",
+        "san francisco",
+        "vampire",
+        "plantation",
+        "pity",
+        "bite",
+        "fang vamp"
+      ],
+      "user_rating": 7.2,
+      "votes": 1516,
+      "release_year": 1994,
+      "overview": "A vampire relates his epic life story of love, betrayal, loneliness, and dark hunger to an over-curious reporter.",
+      "runtime": 123
+    },
+    {
+      "name": "Dracula",
+      "size": 215862692,
+      "keywords": [
+        "adultery",
+        "maze",
+        "vampire",
+        "bite",
+        "remake",
+        "rough sex",
+        "wake",
+        "religious conflict",
+        "bestiality",
+        "correspondence",
+        "vampire sex",
+        "autonomous shadow",
+        "vlad",
+        "fang vamp"
+      ],
+      "user_rating": 7.1,
+      "votes": 1056,
+      "release_year": 1992,
+      "overview": "When Dracula leaves the captive Jonathan Harker and Transylvania for London in search of Mina Harker -- the spitting image of Dracula's long-dead wife, Elisabeta -- obsessed vampire hunter Dr. Van Helsing sets out to end the madness.",
+      "runtime": 128
+    },
+    {
+      "name": "Dracula Untold",
+      "size": 215529201,
+      "keywords": [
+        "vampire",
+        "dracula",
+        "bite",
+        "battle",
+        "15th century",
+        "ottoman empire",
+        "vlad",
+        "fang vamp",
+        "tepes"
+      ],
+      "user_rating": 6.2,
+      "votes": 2389,
+      "release_year": 2014,
+      "overview": "Vlad Tepes is a great hero, but when he learns the Sultan is preparing for battle and needs to form an army of 1,000 boys, including Vlad's son, he vows to find a way to protect his family. Vlad turns to dark forces in order to get the power to destroy his enemies and agrees to go from hero to monster as he's turned into the mythological vampire Dracula.",
+      "runtime": 92
+    },
+    {
+      "name": "End of Days",
+      "size": 211989043,
+      "keywords": [
+        "christianity",
+        "sex",
+        "new year's eve",
+        "pastor",
+        "nudity",
+        "mephisto",
+        "nightmare",
+        "bible",
+        "satanist",
+        "faith",
+        "ex-cop",
+        "anti-christ",
+        "millenium",
+        "atheist",
+        "suspense",
+        "priest",
+        "hospital",
+        "train",
+        "new york city",
+        "explosion",
+        "church",
+        "violence",
+        "devil",
+        "woman in jeopardy",
+        "satanic",
+        "flashback",
+        "stigmata"
+      ],
+      "user_rating": 5.5,
+      "votes": 482,
+      "release_year": 1999,
+      "overview": "On December 28th, 1999, the citizens of New York City are getting ready for the turn of the millennium. However, the Devil decides to crash the party by coming to the city, inhabiting a man's body, and searching for his chosen bride, a 20-year-old woman named Christine York. The world will end, and the only hope lies within an atheist called Jericho Cane.",
+      "runtime": 121
+    },
+    {
+      "name": "Red Dragon",
+      "size": 209196298,
+      "keywords": [
+        "psychopath",
+        "serial killer",
+        "fbi agent"
+      ],
+      "user_rating": 6.7,
+      "votes": 1115,
+      "release_year": 2002,
+      "overview": "Former FBI Agent Will Graham, who was once almost killed by the savage Hannibal 'The Cannibal' Lecter, now has no choice but to face him again, as it seems Lecter is the only one who can help Graham track down a new serial killer.",
+      "runtime": 124
+    },
+    {
+      "name": "Paranormal Activity 3",
+      "size": 205703818,
+      "keywords": [
+        "witch",
+        "sister sister relationship",
+        "sequel",
+        "prequel",
+        "haunting",
+        "found footage"
+      ],
+      "user_rating": 5.9,
+      "votes": 669,
+      "release_year": 2011,
+      "overview": "In 1988, evil begins to terrorize young sisters Katie and Kristi for the first time when an invisible entity resides in their home.",
+      "runtime": 83
+    },
+    {
+      "name": "Paranormal Activity",
+      "size": 193355800,
+      "keywords": [
+        "haunting",
+        "psychic",
+        "entity",
+        "demonic possession",
+        "found footage"
+      ],
+      "user_rating": 5.9,
+      "votes": 1316,
+      "release_year": 2007,
+      "overview": "After a young, middle class couple moves into a suburban 'starter' tract house, they become increasingly disturbed by a presence that may or may not be somehow demonic but is certainly most active in the middle of the night. Especially when they sleep. Or try to.",
+      "runtime": 86
+    },
+    {
+      "name": "The Addams Family",
+      "size": 191502426,
+      "keywords": [
+        "dead wish",
+        "vampire",
+        "black humor",
+        "uncle",
+        "eccentric",
+        "werewolf",
+        "macabre",
+        "loan shark",
+        "accountant"
+      ],
+      "user_rating": 6.7,
+      "votes": 848,
+      "release_year": 1991,
+      "overview": "Uncle Fester has been missing for 25 years. An evil doctor finds out and introduces a fake Fester in an attempt to get the Adams Family's money. The youngest daughter has some doubts about the new uncle Fester, but the fake uncle adapts very well to the strange family. Can the doctor carry out her evil plans and take over the Adams Family's fortune?",
+      "runtime": 99
+    },
+    {
+      "name": "Jaws 2",
+      "size": 187884007,
+      "keywords": [
+        "mayor",
+        "island",
+        "police chief",
+        "sailing",
+        "boat accident",
+        "dying and death",
+        "panic",
+        "current",
+        "aggression by animal",
+        "sequel",
+        "rescue",
+        "teenager",
+        "shark",
+        "great white shark",
+        "high-tension current",
+        "tourism"
+      ],
+      "user_rating": 5.9,
+      "votes": 406,
+      "release_year": 1978,
+      "overview": "Police chief Brody must protect the citizens of Amity after a second monstrous shark begins terrorizing the waters.",
+      "runtime": 116
+    },
+    {
+      "name": "The Final Destination",
+      "size": 186167139,
+      "keywords": [
+        "car race",
+        "dying and death",
+        "plan",
+        "stock-car-race",
+        "car crash",
+        "premonition",
+        "gore",
+        "vision"
+      ],
+      "user_rating": 5.4,
+      "votes": 831,
+      "release_year": 2009,
+      "overview": "After a young man's premonition of a deadly race-car crash helps saves the lives of his peers, Death sets out to collect those who evaded their end.",
+      "runtime": 82
+    },
+    {
+      "name": "The Grudge",
+      "size": 183474602,
+      "keywords": [
+        "male nudity",
+        "nurse",
+        "japanese",
+        "house",
+        "remake",
+        "curse",
+        "old woman",
+        "catatonia",
+        "ghost child",
+        "remake of japanese film"
+      ],
+      "user_rating": 5.8,
+      "votes": 865,
+      "release_year": 2004,
+      "overview": "American nurse, Karen Davis moves to Tokyo and encounters a vengeful supernatural spirit known as The Grudge that often possesses its victims. When a series of horrifying and mysterious deaths occur – with the spirit passing its curse onto each victim - Karen must find away to break the spell before she becomes the spirit's next victim.",
+      "runtime": 92
+    },
+    {
+      "name": "Aliens",
+      "size": 183316455,
+      "keywords": [
+        "android",
+        "extraterrestrial technology",
+        "space marine",
+        "spaceman",
+        "cryogenics",
+        "vacuum",
+        "space colony",
+        "warrior woman",
+        "settler",
+        "space travel",
+        "colony",
+        "alien",
+        "xenomorph"
+      ],
+      "user_rating": 7.7,
+      "votes": 3220,
+      "release_year": 1986,
+      "overview": "When Ripley's lifepod is found by a salvage crew over 50 years later, she finds that terra-formers are on the very planet they found the alien species. When the company sends a family of colonists out to investigate her story, all contact is lost with the planet and colonists. They enlist Ripley and the colonial marines to return and search for answers.",
+      "runtime": 137
+    },
+    {
+      "name": "Paranormal Activity 2",
+      "size": 177512032,
+      "keywords": [
+        "ouija board",
+        "haunting",
+        "demonic possession",
+        "found footage",
+        "duringcreditsstinger"
+      ],
+      "user_rating": 5.7,
+      "votes": 722,
+      "release_year": 2010,
+      "overview": "Just as Dan and Kristi welcome a newborn baby into their home, a demonic presence begins terrorizing them, tearing apart their perfect world and turning it into an inescapable nightmare. Security cameras capture the torment, making every minute horrifyingly real.",
+      "runtime": 91
+    },
+    {
+      "name": "Scream",
+      "size": 173046663,
+      "keywords": [
+        "halloween",
+        "gore",
+        "serial killer",
+        "slasher",
+        "tabloid",
+        "news reporter",
+        "self-referential",
+        "meta film"
+      ],
+      "user_rating": 7,
+      "votes": 1476,
+      "release_year": 1996,
+      "overview": "A killer known as Ghostface begins killing off teenagers, and as the body count begins rising, one girl and her friends find themselves contemplating the 'rules' of horror films as they find themselves living in a real-life one.",
+      "runtime": 111
+    },
+    {
+      "name": "Scream 2",
+      "size": 172363301,
+      "keywords": [
+        "film festivals",
+        "slaughter",
+        "slasher"
+      ],
+      "user_rating": 6.1,
+      "votes": 840,
+      "release_year": 1997,
+      "overview": "Two years after the terrifying events that occurred in Woodsboro, Sidney is now attending Windsor College in Cincinnati, and Gale Weathers' best selling book on Sidney's life has now been made into a major motion picture. When two college students are killed in a theatre while watching the new film 'Stab', Sidney knows deep down that history is repeating itself.",
+      "runtime": 120
+    },
+    {
+      "name": "Saw III",
+      "size": 163876815,
+      "keywords": [
+        "brain tumor",
+        "nudity",
+        "suffocation",
+        "mutilation",
+        "severed foot",
+        "famous theme",
+        "shot in the face"
+      ],
+      "user_rating": 6.1,
+      "votes": 1071,
+      "release_year": 2006,
+      "overview": "Jigsaw has disappeared. Along with his new apprentice Amanda, the puppet-master behind the cruel, intricate games that have terrified a community and baffled police has once again eluded capture and vanished. While city detective scramble to locate him, Doctor Lynn Denlon and Jeff Reinhart are unaware that they are about to become the latest pawns on his vicious chessboard.",
+      "runtime": 108
+    },
+    {
+      "name": "Alien: Resurrection",
+      "size": 162000000,
+      "keywords": [
+        "android",
+        "mercenary",
+        "dystopia",
+        "sequel",
+        "alien",
+        "betrayal",
+        "impalement",
+        "cloning",
+        "scientist",
+        "flamethrower",
+        "disembowelment",
+        "smuggler",
+        "gene manipulation",
+        "man in wheelchair",
+        "breeding",
+        "genetic engineering",
+        "regeneration",
+        "xenomorph",
+        "alien queen",
+        "explosive decompression",
+        "swimming underwater"
+      ],
+      "user_rating": 5.9,
+      "votes": 1365,
+      "release_year": 1997,
+      "overview": "Two hundred years after Lt. Ripley died, a group of scientists clone her, hoping to breed the ultimate weapon. But the new Ripley is full of surprises … as are the new aliens. Ripley must team with a band of smugglers to keep the creatures from reaching Earth.",
+      "runtime": 109
+    },
+    {
+      "name": "Scream 3",
+      "size": 161834276,
+      "keywords": [
+        "mask",
+        "metal detector",
+        "film director",
+        "ex-cop",
+        "reporter",
+        "slasher",
+        "scream",
+        "series of murders"
+      ],
+      "user_rating": 5.7,
+      "votes": 736,
+      "release_year": 2000,
+      "overview": "A murdering spree begins to happen again, this time its targeted toward the original Woodsboro survivors and those associated with the movie inside a movie, 'Stab 3'. Sydney must face the demons of her past to stop the killer.",
+      "runtime": 116
+    },
+    {
+      "name": "The Ring Two",
+      "size": 161451538,
+      "keywords": [
+        "nun",
+        "based on novel",
+        "bath tub",
+        "nightmare",
+        "son",
+        "sequel",
+        "remake",
+        "vision",
+        "good vs evil",
+        "woman reporter",
+        "mental institution",
+        "videotape",
+        "evil child"
+      ],
+      "user_rating": 5.4,
+      "votes": 632,
+      "release_year": 2005,
+      "overview": "Rachel Keller must prevent evil Samara from taking possession of her son's soul.",
+      "runtime": 110
+    },
+    {
+      "name": "Underworld: Awakening",
+      "size": 160112671,
+      "keywords": [
+        "vampire",
+        "daughter",
+        "hybrid",
+        "child vampire",
+        "werewolf",
+        "imax",
+        "lab experiment",
+        "werewolf child",
+        "fang vamp"
+      ],
+      "user_rating": 6.1,
+      "votes": 1862,
+      "release_year": 2012,
+      "overview": "After being held in a coma-like state for fifteen years, vampire Selene learns that she has a fourteen-year-old vampire/Lycan hybrid daughter named Nissa, and when she finds her, they must stop BioCom from creating super Lycans that will kill them all.",
+      "runtime": 88
+    },
+    {
+      "name": "Alien³",
+      "size": 159773545,
+      "keywords": [
+        "prison",
+        "android",
+        "spacecraft",
+        "space marine",
+        "imprisonment",
+        "space colony",
+        "space travel",
+        "rottweiler",
+        "dystopia",
+        "sequel",
+        "alien",
+        "redemption",
+        "outer space",
+        "planet",
+        "shaved head",
+        "crash landing",
+        "impregnation",
+        "penal colony",
+        "furnace",
+        "suspended animation",
+        "xenomorph"
+      ],
+      "user_rating": 6.2,
+      "votes": 1633,
+      "release_year": 1992,
+      "overview": "After escaping with Newt and Hicks from the alien planet, Ripley crash lands on Fiorina 161, a prison planet and host to a correctional facility. Unfortunately, although Newt and Hicks do not survive the crash, a more unwelcome visitor does. The prison does not allow weapons of any kind, and with aid being a long time away, the prisoners must simply survive in any way they can.",
+      "runtime": 114
+    },
+    {
+      "name": "Goosebumps",
+      "size": 158162788,
+      "keywords": [
+        "based on novel",
+        "magic",
+        "fantasy",
+        "werewolf",
+        "family",
+        "ventriloquist dummy",
+        "book comes to life",
+        "3d"
+      ],
+      "user_rating": 6.2,
+      "votes": 995,
+      "release_year": 2015,
+      "overview": "A teenager teams up with the daughter of young adult horror author R.L. Stine after the writer's imaginary demons are set free on the town of Madison, Delaware.",
+      "runtime": 103
+    },
+    {
+      "name": "Final Destination 5",
+      "size": 157887643,
+      "keywords": [
+        "premonition",
+        "death by accident",
+        "crash",
+        "end is here",
+        "duringcreditsstinger",
+        "3d"
+      ],
+      "user_rating": 5.9,
+      "votes": 866,
+      "release_year": 2011,
+      "overview": "In this fifth installment, Death is just as omnipresent as ever, and is unleashed after one man’s premonition saves a group of coworkers from a terrifying suspension bridge collapse. But this group of unsuspecting souls was never supposed to survive, and, in a terrifying race against time, the ill-fated group frantically tries to discover a way to escape Death’s sinister agenda.",
+      "runtime": 92
+    },
+    {
+      "name": "What Lies Beneath",
+      "size": 155464351,
+      "keywords": [
+        "secret",
+        "haunted house",
+        "ouija board",
+        "haunting",
+        "missing girl",
+        "ghost"
+      ],
+      "user_rating": 6.3,
+      "votes": 488,
+      "release_year": 2000,
+      "overview": "When Claire Spencer starts hearing ghostly voices and seeing spooky images, she wonders if an otherworldly spirit is trying to contact her. All the while, her husband tries to reassure her by telling her it's all in her head. But as Claire investigates, she discovers that the man she loves might know more than he's letting on.",
+      "runtime": 130
+    },
+    {
+      "name": "Blade II",
+      "size": 155010032,
+      "keywords": [
+        "katana",
+        "mutation",
+        "vampire",
+        "silver",
+        "superhero",
+        "tragic villain",
+        "broken neck",
+        "lasersight",
+        "violence",
+        "exploding body",
+        "blade",
+        "subjective camera",
+        "torso cut in half",
+        "reaper",
+        "broken wrist",
+        "razor blade",
+        "shot through a door",
+        "sword duel",
+        "burnt face"
+      ],
+      "user_rating": 6.2,
+      "votes": 1528,
+      "release_year": 2002,
+      "overview": "A rare mutation has occurred within the vampire community - The Reaper. A vampire so consumed with an insatiable bloodlust that they prey on vampires as well as humans, transforming victims who are unlucky enough to survive into Reapers themselves. Blade is asked by the Vampire Nation for his help in preventing a nightmare plague that would wipe out both humans and vampires.",
+      "runtime": 117
+    },
+    {
+      "name": "Gremlins",
+      "size": 153083102,
+      "keywords": [
+        "holiday",
+        "monster",
+        "small town",
+        "department store",
+        "bars and restaurants",
+        "human animal relationship",
+        "pet",
+        "sunlight",
+        "chain saw",
+        "salesperson",
+        "midnight",
+        "fur",
+        "banking",
+        "puppet",
+        "skunk",
+        "kids and family",
+        "gremlin",
+        "ymca"
+      ],
+      "user_rating": 6.9,
+      "votes": 1596,
+      "release_year": 1984,
+      "overview": "When Billy Peltzer is given a strange but adorable pet named Gizmo for Christmas, he inadvertently breaks the three important rules of caring for a Mogwai, and unleashes a horde of mischievous gremlins on a small town.",
+      "runtime": 106
+    },
+    {
+      "name": "The Devil's Advocate",
+      "size": 152944660,
+      "keywords": [
+        "child abuse",
+        "southern usa",
+        "obsession",
+        "subway",
+        "nudity",
+        "bible",
+        "seduction",
+        "hallucination",
+        "ambition",
+        "devil's son",
+        "marriage crisis",
+        "pact with the devil",
+        "crooked lawyer",
+        "evil spirit",
+        "satan",
+        "religion",
+        "lust",
+        "courtroom",
+        "temptation",
+        "law firm",
+        "manhattan, new york city",
+        "seven deadly sins",
+        "ethics",
+        "gainesville florida"
+      ],
+      "user_rating": 7.2,
+      "votes": 1374,
+      "release_year": 1997,
+      "overview": "A hotshot lawyer gets more than he bargained for when he learns his new boss is Lucifer himself.",
+      "runtime": 144
+    },
+    {
+      "name": "Saw II",
+      "size": 152925093,
+      "keywords": [
+        "riddle",
+        "serial killer"
+      ],
+      "user_rating": 6.3,
+      "votes": 1251,
+      "release_year": 2005,
+      "overview": "When a new murder victim is discovered with all the signs of Jigsaw's hand, Detective Eric Matthews begins a full investigation and apprehends Jigsaw with little effort. But for Jigsaw, getting caught is just another part of his plan. Eight more of his victims are already fighting for their lives and now it's time for Matthews to join the game...",
+      "runtime": 92
+    },
+    {
+      "name": "Resident Evil: Extinction",
+      "size": 148412065,
+      "keywords": [
+        "clone",
+        "mutant",
+        "post-apocalyptic",
+        "dystopia",
+        "conspiracy",
+        "evil corporation",
+        "zombie",
+        "based on video game"
+      ],
+      "user_rating": 6.1,
+      "votes": 1292,
+      "release_year": 2007,
+      "overview": "Years after the Racoon City catastrophe, survivors travel across the Nevada desert, hoping to make it to Alaska. Alice joins the caravan and their fight against hordes of zombies and the evil Umbrella Corp.",
+      "runtime": 94
+    },
+    {
+      "name": "Mama",
+      "size": 146497771,
+      "keywords": [
+        "supernatural horror"
+      ],
+      "user_rating": 6,
+      "votes": 1401,
+      "release_year": 2013,
+      "overview": "Guillermo del Toro presents Mama, a supernatural thriller that tells the haunting tale of two little girls who disappeared into the woods the day that their parents were killed. When they are rescued years later and begin a new life, they find that someone or something still wants to come tuck them in at night.",
+      "runtime": 100
+    },
+    {
+      "name": "The Exorcism of Emily Rose",
+      "size": 144216468,
+      "keywords": [
+        "epilepsy",
+        "possession",
+        "teenage girl",
+        "spirit",
+        "umbrella",
+        "cross",
+        "prosecutor",
+        "catholicism",
+        "negligent homicide",
+        "archdiocese",
+        "agnostic",
+        "malnutrition",
+        "burning",
+        "psychotic epileptic disorder"
+      ],
+      "user_rating": 6.3,
+      "votes": 659,
+      "release_year": 2005,
+      "overview": "When a younger girl called Emily Rose (Carpenter) dies, everyone puts blame on the exorcism which was performed on her by Father Moore (Wilkinson) prior to her death. The priest is arrested on suspicion of murder. The trail begins with lawyer Erin Bruner (Linney) representing Moore, but it is not going to be easy, as no one wants to believe what Father Moore says is true.",
+      "runtime": 122
+    },
+    {
+      "name": "Paranormal Activity 4",
+      "size": 142817992,
+      "keywords": [
+        "garage",
+        "poltergeist",
+        "webcam",
+        "imaginary friend",
+        "bathtub",
+        "tricycle",
+        "found footage",
+        "laptop computer",
+        "videotape",
+        "evil child",
+        "levitation",
+        "aftercreditsstinger",
+        "neighbor neighbor relationship",
+        "adopted child"
+      ],
+      "user_rating": 5.2,
+      "votes": 563,
+      "release_year": 2012,
+      "overview": "It has been five years since the disappearance of Katie and Hunter, and a suburban family witness strange events in their neighborhood when a woman and a mysterious child move in.",
+      "runtime": 95
+    },
+    {
+      "name": "Gothika",
+      "size": 141591324,
+      "keywords": [
+        "amnesia",
+        "mental institution",
+        "patient",
+        "trust",
+        "false accusations",
+        "medication",
+        "gothic",
+        "mental illness"
+      ],
+      "user_rating": 5.8,
+      "votes": 629,
+      "release_year": 2003,
+      "overview": "After a car crash, a criminal psychologist (Halle Berry) comes to, only to find that she's a patient in the same mental institution that currently employs her. It seems she's been accused of murdering her husband -- but she has no memory of committing the crime. As she tries to regain her memory and convince her co-workers of her innocence, a vengeful spirit uses her as an earthly pawn, which further convinces everyone of her guilt.",
+      "runtime": 98
+    },
+    {
+      "name": "Saw IV",
+      "size": 139352633,
+      "keywords": [
+        "ice",
+        "victim",
+        "pain",
+        "games",
+        "psychopath",
+        "blood",
+        "electric chair",
+        "doctor",
+        "torture",
+        "violence",
+        "police officer",
+        "fbi agent",
+        "female corpse"
+      ],
+      "user_rating": 5.9,
+      "votes": 903,
+      "release_year": 2007,
+      "overview": "Jigsaw and his apprentice Amanda are dead. Now, upon the news of Detective Kerry's murder, two seasoned FBI profilers, Agent Strahm and Agent Perez, arrive in the terrified community to assist the veteran Detective Hoffman in sifting through Jigsaw's latest grisly remains and piecing together the puzzle. However, when SWAT Commander Rigg is abducted and thrust into a game, the last officer untouched by Jigsaw has but ninety minutes to overcome a series of demented traps and save an old friend...or face the deadly consequences.",
+      "runtime": 93
+    },
+    {
+      "name": "Anaconda",
+      "size": 136885767,
+      "keywords": [
+        "amazon",
+        "jungle",
+        "anaconda",
+        "film crew",
+        "killer snake",
+        "river boat",
+        "amazon river",
+        "animal horror"
+      ],
+      "user_rating": 4.7,
+      "votes": 610,
+      "release_year": 1997,
+      "overview": "A \"National Geographic\" film crew is taken hostage by an insane hunter, who takes them along on his quest to capture the world's largest - and deadliest - snake.",
+      "runtime": 89
+    },
+    {
+      "name": "Saw: The Final Chapter",
+      "size": 136150434,
+      "keywords": [
+        "survivor",
+        "violence",
+        "self help guru",
+        "tricycle",
+        "prosthetic arm",
+        "pig mask",
+        "3d"
+      ],
+      "user_rating": 5.8,
+      "votes": 730,
+      "release_year": 2010,
+      "overview": "As a deadly battle rages over Jigsaw's brutal legacy, a group of Jigsaw survivors gathers to seek the support of self-help guru and fellow survivor Bobby Dagen, a man whose own dark secrets unleash a new wave of terror.",
+      "runtime": 90
+    },
+    {
+      "name": "Blade",
+      "size": 131183530,
+      "keywords": [
+        "suicide",
+        "hero",
+        "vampire",
+        "bite",
+        "fistfight",
+        "supernatural",
+        "vampire hunter",
+        "superhero",
+        "rivalry",
+        "tragic hero",
+        "good vs evil",
+        "one man army",
+        "extreme violence",
+        "martial arts master",
+        "scientist",
+        "violence",
+        "disarming someone",
+        "blade",
+        "machine gun",
+        "english subtitles in original",
+        "hypodermic needle",
+        "microscope",
+        "secret headquarters",
+        "bullet dodging",
+        "bullet time",
+        "kicked in the groin",
+        "x rayed skeleton",
+        "mouth guard",
+        "escapade",
+        "imaginary",
+        "deadly",
+        "master warrior",
+        "supernatural ability",
+        "fang vamp"
+      ],
+      "user_rating": 6.5,
+      "votes": 1905,
+      "release_year": 1998,
+      "overview": "When Blade's mother was bitten by a vampire during pregnancy, she did not know that she gave her son a special gift while dying: All the good vampire attributes in combination with the best human skills. Blade and his mentor Whistler battle an evil vampire rebel (Deacon Frost) who plans to take over the outdated vampire council, capture Blade and resurrect voracious blood god La Magra.",
+      "runtime": 120
+    },
+    {
+      "name": "Resident Evil: Apocalypse",
+      "size": 129394835,
+      "keywords": [
+        "martial arts",
+        "mutant",
+        "dystopia",
+        "rescue",
+        "conspiracy",
+        "evil corporation",
+        "zombie",
+        "based on video game"
+      ],
+      "user_rating": 6.1,
+      "votes": 1267,
+      "release_year": 2004,
+      "overview": "As the city is locked down under quarantine, Alice joins a small band of elite soldiers, enlisted to rescue the missing daughter of the creator of the mutating T-virus. It's a heart-pounding race against time as the group faces off against hordes of blood- thirsty zombies, stealthy Lickers, mutant canines and the most sinister foe yet.",
+      "runtime": 94
+    },
+    {
+      "name": "Blade: Trinity",
+      "size": 128905366,
+      "keywords": [
+        "fbi",
+        "dracula",
+        "fistfight",
+        "vampire hunter",
+        "superhero",
+        "based on comic book",
+        "martial arts master",
+        "motorcycle",
+        "katana sword",
+        "blade",
+        "loss of friend",
+        "super villain",
+        "vampire slayer",
+        "fast motion scene",
+        "female vampire"
+      ],
+      "user_rating": 5.7,
+      "votes": 1252,
+      "release_year": 2004,
+      "overview": "For years, Blade has fought against the vampires in the cover of the night. But now, after falling into the crosshairs of the FBI, he is forced out into the daylight, where he is driven to join forces with a clan of human vampire hunters he never knew existed - The Nightstalkers. Together with Abigail and Hannibal, two deftly trained Nightstalkers, Blade follows a trail of blood to the ancient creature that is also hunting him, the original vampire, Dracula.",
+      "runtime": 123
+    },
+    {
+      "name": "The Woman in Black",
+      "size": 127730736,
+      "keywords": [
+        "london england",
+        "secret",
+        "remake",
+        "revenge",
+        "lawyer",
+        "photograph",
+        "gothic horror",
+        "hammer horror",
+        "estate",
+        "ghost",
+        "supernatural power"
+      ],
+      "user_rating": 6.1,
+      "votes": 1206,
+      "release_year": 2012,
+      "overview": "The story follows a young lawyer, Arthur Kipps, who is ordered to travel to a remote village and sort out a recently deceased client’s papers. As he works alone in the client’s isolated house, Kipps begins to uncover tragic secrets, his unease growing when he glimpses a mysterious woman dressed only in black. Receiving only silence from the locals, Kipps is forced to uncover the true identity of the Woman in Black on his own, leading to a desperate race against time when he discovers her true identity.",
+      "runtime": 95
+    },
+    {
+      "name": "I Know What You Did Last Summer",
+      "size": 125586134,
+      "keywords": [
+        "secret",
+        "blackmail",
+        "fisherman",
+        "police",
+        "high school",
+        "cover-up",
+        "friends",
+        "revenge",
+        "murder",
+        "pageant",
+        "slasher",
+        "teenager",
+        "killer"
+      ],
+      "user_rating": 5.6,
+      "votes": 687,
+      "release_year": 1997,
+      "overview": "As they celebrate their high school graduation, four friends are involved in a hit-and-run accident when their car hits and apparently kills a pedestrian on an isolated roadway. They dispose of the body and vow to keep the incident a secret, a year later somebody starts sending them letters bearing the warning \"I Know What You Did Last Summer.\"",
+      "runtime": 100
+    },
+    {
+      "name": "Hide and Seek",
+      "size": 122644820,
+      "keywords": [
+        "house",
+        "imaginary friend",
+        "suspense",
+        "loss of wife"
+      ],
+      "user_rating": 6.1,
+      "votes": 440,
+      "release_year": 2005,
+      "overview": "David Callaway tries to piece together his life in the wake of his wife's suicide and has been left to raise his nine-year-old daughter, Emily on his own. David is at first amused to discover that Emily has created an imaginary friend named 'Charlie', but it isn't long before 'Charlie' develops a sinister and violent side, and as David struggles with his daughter's growing emotional problems, he comes to the frightening realisation that 'Charlie' isn't just a figment of Emily's imagination.",
+      "runtime": 101
+    },
+    {
+      "name": "Poltergeist",
+      "size": 122200000,
+      "keywords": [
+        "medium",
+        "ghostbuster",
+        "poltergeist",
+        "haunted house",
+        "dying and death",
+        "family relationships",
+        "good vs evil",
+        "paranormal phenomena",
+        "power of goodness",
+        "parent-child bond",
+        "haunted"
+      ],
+      "user_rating": 7,
+      "votes": 794,
+      "release_year": 1982,
+      "overview": "Steve Freeling lives with his wife, Diane, and their three children, Dana, Robbie, and Carol Anne, in Southern California where he sells houses for the company that built the neighborhood. It starts with just a few odd occurrences, such as broken dishes and furniture moving around by itself. However, when he realizes that something truly evil haunts his home, Steve calls in a team of parapsychologists led by Dr. Lesh to help before it's too late.",
+      "runtime": 114
+    },
+    {
+      "name": "The Shallows",
+      "size": 119100758,
+      "keywords": [
+        "mexico",
+        "beach",
+        "surfer",
+        "island",
+        "survival",
+        "young woman",
+        "shark",
+        "great white shark",
+        "trapped",
+        "animal attack",
+        "animal horror",
+        "prey"
+      ],
+      "user_rating": 6.2,
+      "votes": 1567,
+      "release_year": 2016,
+      "overview": "An injured surfer stranded on a buoy needs to get back to shore, but the great white shark stalking her might have other ideas.",
+      "runtime": 86
+    },
+    {
+      "name": "The Purge: Election Year",
+      "size": 118587880,
+      "keywords": [
+        "dystopia",
+        "sequel",
+        "legalized murder"
+      ],
+      "user_rating": 6.1,
+      "votes": 1306,
+      "release_year": 2016,
+      "overview": "Two years after choosing not to kill the man who killed his son, former police sergeant Leo Barnes has become head of security for Senator Charlene Roan, the front runner in the next Presidential election due to her vow to eliminate the Purge. On the night of what should be the final Purge, a betrayal from within the government forces Barnes and Roan out onto the street where they must fight to survive the night.",
+      "runtime": 105
+    },
+    {
+      "name": "Final Destination 3",
+      "size": 117719158,
+      "keywords": [
+        "beheading",
+        "dying and death",
+        "stroke of fate"
+      ],
+      "user_rating": 5.8,
+      "votes": 974,
+      "release_year": 2006,
+      "overview": "A student's premonition of a deadly rollercoaster ride saves her life and a lucky few, but not from death itself – which seeks out those who escaped their fate.",
+      "runtime": 93
+    },
+    {
+      "name": "Warm Bodies",
+      "size": 116980662,
+      "keywords": [
+        "post-apocalyptic",
+        "dystopia",
+        "zombie",
+        "zombie apocalypse",
+        "interspecies romance",
+        "based on young adult novel"
+      ],
+      "user_rating": 6.4,
+      "votes": 2652,
+      "release_year": 2013,
+      "overview": "After a zombie becomes involved with the girlfriend of one of his victims, their romance sets in motion a sequence of events that might transform the entire lifeless world.",
+      "runtime": 97
+    },
+    {
+      "name": "Freddy vs. Jason",
+      "size": 114908830,
+      "keywords": [
+        "murder",
+        "marijuana",
+        "teenager",
+        "bad dream"
+      ],
+      "user_rating": 5.8,
+      "votes": 594,
+      "release_year": 2003,
+      "overview": "Evil dream-demon Freddy Krueger devises a plan to manipulate the unstoppable Jason Vorhees into hacking up the teenagers of Elm Street in an effort to make people remember the name Freddy Krueger, thus freeing him from limbo.",
+      "runtime": 97
+    },
+    {
+      "name": "Saw V",
+      "size": 113857533,
+      "keywords": [
+        "blood splatter",
+        "serial killer",
+        "pig mask",
+        "nazi",
+        "jigsaw",
+        "swastika tattoo"
+      ],
+      "user_rating": 5.9,
+      "votes": 820,
+      "release_year": 2008,
+      "overview": "Detective Hoffman is seemingly the last person alive to carry on the Jigsaw legacy. But when his secret is threatened, he must go on the hunt to eliminate all the loose ends.",
+      "runtime": 92
+    },
+    {
+      "name": "Species",
+      "size": 113374103,
+      "keywords": [
+        "telepathy",
+        "dna",
+        "paranoia",
+        "genetics",
+        "instinct",
+        "femme fatale",
+        "alien",
+        "on the run",
+        "decapitation",
+        "sexual attraction",
+        "los angeles",
+        "cocoon",
+        "genetic engineering",
+        "scientists",
+        "alien dna"
+      ],
+      "user_rating": 5.5,
+      "votes": 453,
+      "release_year": 1995,
+      "overview": "In 1993, the Search for Extra Terrestrial Intelligence Project receives a transmission detailing an alien DNA structure, along with instructions on how to splice it with human DNA. The result is Sil, a sensual but deadly creature who can change from a beautiful woman to an armour-plated killing machine in the blink of an eye.",
+      "runtime": 108
+    },
+    {
+      "name": "Abraham Lincoln: Vampire Hunter",
+      "size": 112265139,
+      "keywords": [
+        "usa president",
+        "vampire",
+        "steam locomotive",
+        "american civil war",
+        "19th century",
+        "abraham lincoln",
+        "3d"
+      ],
+      "user_rating": 5.5,
+      "votes": 1269,
+      "release_year": 2012,
+      "overview": "President Lincoln's mother is killed by a supernatural creature, which fuels his passion to crush vampires and their slave-owning helpers.",
+      "runtime": 94
+    },
+    {
+      "name": "The Purge: Anarchy",
+      "size": 108782847,
+      "keywords": [
+        "bus",
+        "assault rifle",
+        "sniper",
+        "machete",
+        "dystopia",
+        "psychopath",
+        "sequel",
+        "revenge",
+        "murder",
+        "survival",
+        "motorcycle",
+        "violence",
+        "one day",
+        "masked man",
+        "apartment",
+        "death",
+        "survival horror",
+        "gatling gun"
+      ],
+      "user_rating": 6.6,
+      "votes": 1954,
+      "release_year": 2014,
+      "overview": "Three groups of people are trying to survive Purge Night, when their stories intertwine and are left stranded in The Purge trying to survive the chaos and violence that occurs.",
+      "runtime": 104
+    },
+    {
+      "name": "The Amityville Horror",
+      "size": 108047131,
+      "keywords": [
+        "holy water",
+        "long island",
+        "remake",
+        "family dinner",
+        "paranormal",
+        "violence",
+        "wood chopping",
+        "backwards",
+        "tortured to death",
+        "moving in",
+        "based on supposedly true story"
+      ],
+      "user_rating": 6,
+      "votes": 588,
+      "release_year": 2005,
+      "overview": "A family is terrorized by demonic forces after moving into a home that was the site of a grisly mass-murder.",
+      "runtime": 90
+    },
+    {
+      "name": "Alien",
+      "size": 104931801,
+      "keywords": [
+        "android",
+        "countdown",
+        "space marine",
+        "space suit",
+        "beheading",
+        "dystopia",
+        "biology",
+        "cowardice",
+        "spaceship",
+        "space",
+        "alien",
+        "female protagonist",
+        "outer space",
+        "parasite",
+        "h. r. giger",
+        "xenomorph"
+      ],
+      "user_rating": 7.9,
+      "votes": 4470,
+      "release_year": 1979,
+      "overview": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.",
+      "runtime": 117
+    },
+    {
+      "name": "Insidious: Chapter 3",
+      "size": 104303851,
+      "keywords": [
+        "sequel"
+      ],
+      "user_rating": 6.2,
+      "votes": 983,
+      "release_year": 2015,
+      "overview": "A twisted new tale of terror begins for a teenage girl and her family, predating the haunting of the Lambert family in the earlier movies and revealing more mysteries of the otherworldly realm The Further.",
+      "runtime": 97
+    },
+    {
+      "name": "The Cell",
+      "size": 104155843,
+      "keywords": [
+        "drowning",
+        "therapist",
+        "virtual reality",
+        "serial killer",
+        "psychopathy",
+        "fbi agent"
+      ],
+      "user_rating": 6,
+      "votes": 436,
+      "release_year": 2000,
+      "overview": "A psychotherapist journeys inside a comatose serial killer in the hopes of saving his latest victim.",
+      "runtime": 107
+    },
+    {
+      "name": "Saw",
+      "size": 103911669,
+      "keywords": [
+        "shotgun",
+        "based on short film",
+        "sadist",
+        "pistol",
+        "chained",
+        "bludgeoning",
+        "game of death"
+      ],
+      "user_rating": 7.2,
+      "votes": 2184,
+      "release_year": 2004,
+      "overview": "Obsessed with teaching his victims the value of life, a deranged, sadistic serial killer abducts the morally wayward. Once captured, they must face impossible choices in a horrific game of survival. The victims must fight to win their lives back, or die trying...",
+      "runtime": 103
+    },
+    {
+      "name": "Ouija",
+      "size": 103590271,
+      "keywords": [
+        "death of a friend",
+        "swimming pool",
+        "ouija",
+        "ouija board",
+        "teenager",
+        "based on board game",
+        "ghost",
+        "spiritualism",
+        "supernatural horror"
+      ],
+      "user_rating": 4.9,
+      "votes": 983,
+      "release_year": 2014,
+      "overview": "A group of friends must confront their most terrifying fears when they awaken the dark powers of an ancient spirit board.",
+      "runtime": 89
+    },
+    {
+      "name": "Resident Evil",
+      "size": 102984862,
+      "keywords": [
+        "undercover",
+        "mutant",
+        "dystopia",
+        "conspiracy",
+        "zombie",
+        "based on video game"
+      ],
+      "user_rating": 6.4,
+      "votes": 2065,
+      "release_year": 2002,
+      "overview": "When a virus leaks from a top-secret facility, turning all resident researchers into ravenous zombies and their lab animals into mutated hounds from hell, the government sends in an elite military task force to contain the outbreak. Alice and Rain are charged with leading the mission. But they only have three hours before the pathogen becomes airborne and infects the world.",
+      "runtime": 100
+    },
+    {
+      "name": "Zombieland",
+      "size": 102391382,
+      "keywords": [
+        "washington d.c.",
+        "sister sister relationship",
+        "post-apocalyptic",
+        "road trip",
+        "blood splatter",
+        "parody",
+        "survival",
+        "zombie",
+        "violence",
+        "survival horror",
+        "amusement park",
+        "twinkie",
+        "body count",
+        "zombification",
+        "disposing of a dead body",
+        "bitten on the arm",
+        "loner",
+        "aftercreditsstinger",
+        "zombie apocalypse",
+        "fear of clowns"
+      ],
+      "user_rating": 7.2,
+      "votes": 3550,
+      "release_year": 2009,
+      "overview": "Columbus has made a habit of running from what scares him. Tallahassee doesn't have fears. If he did, he'd kick their ever-living ass. In a world overrun by zombies, these two are perfectly evolved survivors. But now, they're about to stare down the most terrifying prospect of all: each other.",
+      "runtime": 88
+    },
+    {
+      "name": "Dawn of the Dead",
+      "size": 102356381,
+      "keywords": [
+        "refugee",
+        "mass murder",
+        "habor",
+        "car journey",
+        "department store",
+        "blackout",
+        "bus ride",
+        "pregnancy and birth",
+        "dying and death",
+        "bite",
+        "to shoot dead",
+        "lorry",
+        "munition",
+        "basement garage",
+        "guard",
+        "zombie",
+        "dog",
+        "car",
+        "duringcreditsstinger"
+      ],
+      "user_rating": 6.8,
+      "votes": 1016,
+      "release_year": 2004,
+      "overview": "A group of surviving people take refuge in a shopping center after the world has been over taken over by aggressive, flesh-eating zombies. A remake of the 1978 zombie film of the same name.",
+      "runtime": 101
+    },
+    {
+      "name": "The Devil Inside",
+      "size": 101758490,
+      "keywords": [
+        "rome",
+        "exorcism",
+        "death",
+        "demonic possession",
+        "found footage"
+      ],
+      "user_rating": 4.6,
+      "votes": 262,
+      "release_year": 2012,
+      "overview": "In Italy, a woman becomes involved in a series of unauthorized exorcisms during her mission to discover what happened to her mother, who allegedly murdered three people during her own exorcism.",
+      "runtime": 83
+    },
+    {
+      "name": "My Bloody Valentine",
+      "size": 100734718,
+      "keywords": [
+        "sheriff",
+        "miner",
+        "delusion",
+        "head injury",
+        "remake",
+        "slaughter",
+        "blood",
+        "aftercreditsstinger",
+        "3d"
+      ],
+      "user_rating": 5.3,
+      "votes": 299,
+      "release_year": 2009,
+      "overview": "Ten years ago, a tragedy changed the town of Harmony forever. Tom Hanniger, an inexperienced coal miner, caused an accident in the tunnels that trapped and killed five men and sent the only survivor, Harry Warden, into a permanent coma. But Harry Warden wanted revenge. Exactly one year later, on Valentine’s Day, he woke up…and brutally murdered twenty-two people with a pickaxe before being killed.",
+      "runtime": 101
+    },
+    {
+      "name": "The Visit",
+      "size": 98450062,
+      "keywords": [
+        "rap music",
+        "pennsylvania",
+        "brother sister relationship",
+        "farm",
+        "grandparents",
+        "murder",
+        "children",
+        "independent film",
+        "farmhouse",
+        "single mother",
+        "violence",
+        "oven",
+        "found footage",
+        "hide and seek",
+        "diaper"
+      ],
+      "user_rating": 6,
+      "votes": 1360,
+      "release_year": 2015,
+      "overview": "The terrifying story of a brother and sister who are sent to their grandparents' remote Pennsylvania farm for a weeklong trip. Once the children discover that the elderly couple is involved in something deeply disturbing, they see their chances of getting back home are growing smaller every day.",
+      "runtime": 94
+    },
+    {
+      "name": "Silent Hill",
+      "size": 97607453,
+      "keywords": [
+        "monster",
+        "mother role",
+        "burning of witches",
+        "fog",
+        "suffering",
+        "darkness",
+        "sadism",
+        "supernatural",
+        "revenge",
+        "surrealism",
+        "gore",
+        "survival",
+        "good vs evil",
+        "blood",
+        "another dimension",
+        "torture",
+        "creature",
+        "violence",
+        "demon",
+        "witch burning",
+        "based on video game",
+        "dismemberment",
+        "religious fanatic",
+        "ghost town",
+        "sleepwalking"
+      ],
+      "user_rating": 6.3,
+      "votes": 1067,
+      "release_year": 2006,
+      "overview": "The eerie and deserted ghost town of Silent Hill draws a young mother desperate to find a cure for her only child's illness. Unable to accept the doctor's diagnosis that her daughter should be permanently institutionalized for psychiatric care, Rose flees with her child, heading for the abandoned town in search of answers – and ignoring the protests of her husband. It's soon clear this place is unlike anywhere she's ever been. It's smothered by fog, inhabited by a variety of strange beings and periodically overcome by a living 'darkness' that literally transforms everything it touches. As Rose searches for her little girl, she begins to learn the history of the strange town and realizes that her daughter is just a pawn in a larger game.",
+      "runtime": 125
+    },
+    {
+      "name": "Evil Dead",
+      "size": 97542952,
+      "keywords": [
+        "remake",
+        "demon",
+        "necronomicon",
+        "duringcreditsstinger"
+      ],
+      "user_rating": 6.4,
+      "votes": 1723,
+      "release_year": 2013,
+      "overview": "Evil Dead, the fourth installment of the Evil Dead franchise, serving as both a reboot and as a loose continuation of the series, features Mia, a young woman struggling with sobriety, heads to a remote cabin with a group of friends where the discovery of a Book of the Dead unwittingly summon up dormant demons which possess the youngsters one by one.",
+      "runtime": 91
+    },
+    {
+      "name": "Scream 4",
+      "size": 97138686,
+      "keywords": [
+        "sheriff",
+        "book",
+        "knife",
+        "horror",
+        "rescue",
+        "author",
+        "masked killer",
+        "hospital",
+        "corpse"
+      ],
+      "user_rating": 6.1,
+      "votes": 902,
+      "release_year": 2011,
+      "overview": "Sidney Prescott, now the author of a self-help book, returns home to Woodsboro on the last stop of her book tour. There she reconnects with Sheriff Dewey and Gale, who are now married, as well as her cousin Jill and her Aunt Kate. Unfortunately, Sidney's appearance also brings about the return of Ghostface, putting Sidney, Gale, and Dewey, along with Jill, her friends, and the whole town of Woodsboro in danger.",
+      "runtime": 111
+    },
+    {
+      "name": "Insidious",
+      "size": 97009150,
+      "keywords": [
+        "medium",
+        "evil spirit",
+        "house warming",
+        "aftercreditsstinger"
+      ],
+      "user_rating": 6.8,
+      "votes": 1737,
+      "release_year": 2010,
+      "overview": "A family discovers that dark spirits have invaded their home after their son inexplicably falls into an endless sleep. When they reach out to a professional for help, they learn things are a lot more personal than they thought.",
+      "runtime": 103
+    },
+    {
+      "name": "The Rite",
+      "size": 96047633,
+      "keywords": [
+        "vatican",
+        "violinist",
+        "hospital",
+        "miscarriage",
+        "exorcist",
+        "roman catholic",
+        "seminary",
+        "limp",
+        "toad",
+        "clergy",
+        "formalin",
+        "walking cane"
+      ],
+      "user_rating": 5.8,
+      "votes": 556,
+      "release_year": 2011,
+      "overview": "Seminary student Michael Kovak (Colin O'Donoghue) reluctantly attends exorcism school at the Vatican. While he’s in Rome, Michael meets an unorthodox priest, Father Lucas (Anthony Hopkins), who introduces him to the darker side of his faith, uncovering the devil’s reach even to one of the holiest places on Earth.",
+      "runtime": 114
+    },
+    {
+      "name": "1408",
+      "size": 94679598,
+      "keywords": [
+        "suicide",
+        "new york",
+        "hotel",
+        "fire",
+        "hotel room",
+        "wife husband relationship",
+        "suicide attempt",
+        "window",
+        "door",
+        "haunted house",
+        "research",
+        "ghost world",
+        "painting",
+        "telephone",
+        "loss of daughter",
+        "blood"
+      ],
+      "user_rating": 6.5,
+      "votes": 1343,
+      "release_year": 2007,
+      "overview": "A man who specializes in debunking paranormal occurrences checks into the fabled room 1408 in the Dolphin Hotel. Soon after settling in, he confronts genuine terror.",
+      "runtime": 104
+    },
+    {
+      "name": "The Skeleton Key",
+      "size": 91974818,
+      "keywords": [
+        "nurse",
+        "secret",
+        "dream",
+        "fight",
+        "kidnapping",
+        "new orleans",
+        "key",
+        "plantation",
+        "voodoo",
+        "party",
+        "lawyer",
+        "blood",
+        "violence",
+        "mirror",
+        "attic",
+        "occult"
+      ],
+      "user_rating": 6.4,
+      "votes": 573,
+      "release_year": 2005,
+      "overview": "A hospice nurse working at a spooky New Orleans plantation home finds herself entangled in a mystery involving the house's dark past.",
+      "runtime": 104
+    },
+    {
+      "name": "White Noise",
+      "size": 91196419,
+      "keywords": [
+        "wheelchair",
+        "time",
+        "voice",
+        "inspector",
+        "supernatural",
+        "loss",
+        "remote control",
+        "lifting person in air",
+        "paranormal phenomena",
+        "death",
+        "waterfront",
+        "audio cassette",
+        "logbook",
+        "electronic voice phenomena",
+        "near miss",
+        "bedridden"
+      ],
+      "user_rating": 5.6,
+      "votes": 261,
+      "release_year": 2005,
+      "overview": "An architect's desire to speak with his wife from beyond the grave using EVP (Electronic Voice Phenomenon), becomes an obsession with supernatural repercussions.",
+      "runtime": 101
+    },
+    {
+      "name": "The Haunting",
+      "size": 91188905,
+      "keywords": [
+        "based on novel",
+        "trauma",
+        "castle",
+        "haunted house",
+        "insomnia",
+        "bone",
+        "poster",
+        "painting",
+        "remake",
+        "haunting",
+        "child labor",
+        "audio recording",
+        "spiral staircase",
+        "evil",
+        "loner",
+        "researcher",
+        "insomniac",
+        "paranormal activity",
+        "logbook",
+        " strange noise",
+        "spook",
+        "cherub"
+      ],
+      "user_rating": 5.2,
+      "votes": 369,
+      "release_year": 1999,
+      "overview": "Dr. David Marrow invites Nell Vance, and Theo and Luke Sanderson to the eerie and isolated Hill House to be subjects for a sleep disorder study. The unfortunate guests discover that Marrow is far more interested in the sinister mansion itself – and they soon see the true nature of its horror.",
+      "runtime": 113
+    },
+    {
+      "name": "Drag Me to Hell",
+      "size": 90810892,
+      "keywords": [
+        "gypsy",
+        "work",
+        "gore",
+        "curse",
+        "psychologist",
+        "psychic",
+        "evil",
+        "loan officer",
+        "obituary",
+        "engagement ring",
+        "gypsies"
+      ],
+      "user_rating": 6.2,
+      "votes": 966,
+      "release_year": 2009,
+      "overview": "After denying a woman the extension she needs to keep her home, loan officer Christine Brown sees her once-promising life take a startling turn for the worse. Christine is convinced she's been cursed by a Gypsy, but her boyfriend is skeptical. Her only hope seems to lie in a psychic who claims he can help her lift the curse and keep her soul from being dragged straight to hell.",
+      "runtime": 99
+    },
+    {
+      "name": "Final Destination 2",
+      "size": 90426405,
+      "keywords": [
+        "ambulance",
+        "premonition",
+        "hospital"
+      ],
+      "user_rating": 5.9,
+      "votes": 1023,
+      "release_year": 2003,
+      "overview": "When Kimberly has a violent premonition of a highway pileup she blocks the freeway, keeping a few others meant to die, safe...Or are they? The survivors mysteriously start dying and it's up to Kimberly to stop it before she's next.",
+      "runtime": 90
+    },
+    {
+      "name": "The Purge",
+      "size": 89328627,
+      "keywords": [
+        "dystopia",
+        "barricade",
+        "home invasion",
+        "constitutional convention",
+        "legalized murder",
+        "social allegory"
+      ],
+      "user_rating": 6,
+      "votes": 2428,
+      "release_year": 2013,
+      "overview": "Given the country's overcrowded prisons, the U.S. government begins to allow 12-hour periods of time in which all illegal activity is legal. During one of these free-for-alls, a family must protect themselves from a home invasion.",
+      "runtime": 86
+    },
+    {
+      "name": "Red Riding Hood",
+      "size": 89162162,
+      "keywords": [
+        "winter",
+        "fantasy",
+        "fairy tale",
+        "hood",
+        "werewolf",
+        "aftercreditsstinger",
+        "duringcreditsstinger",
+        "woman director",
+        "red riding hood"
+      ],
+      "user_rating": 5.6,
+      "votes": 922,
+      "release_year": 2011,
+      "overview": "Valerie is in love with a brooding outsider, Peter, but her parents have arranged for her to marry another man – who is wealthy. Unwilling to lose each other, Valerie and Peter plan to run away together when they learn that Valerie's older sister has been killed by a werewolf that prowls the dark forest surrounding their village. Hungry for revenge, the people call on famed werewolf hunter, Father Solomon, to help them kill the wolf. But Solomon's arrival brings unintended consequences as he warns that the wolf, who takes human form by day, could be any one of them.",
+      "runtime": 100
+    },
+    {
+      "name": "The Host",
+      "size": 88489643,
+      "keywords": [
+        "river",
+        "mobile phone",
+        "bravery",
+        "archer",
+        "daughter",
+        "sewerage",
+        "pollution",
+        "formaldehyde",
+        "snack bar",
+        "family"
+      ],
+      "user_rating": 6.7,
+      "votes": 537,
+      "release_year": 2006,
+      "overview": "Gang-du is a dim-witted man working at his father's tiny snack bar near the Han River. One day, Gang-du's one and only daughter Hyun-seo comes back from school irritated. She is angry at her uncle, Nam-il, who visited her school as her guardian shamelessly drunk. Ignoring her father's excuses for Nam-il, Hyun-seo is soon engrossed in her aunt Nam-joo's archery tournament on TV. Meanwhile, outside of the snack bar, people are fascinated by an unidentified object hanging onto a bridge. In an instant, the object reveals itself as a terrifying creature turning the riverbank into a gruesome sea of blood¡¦ Amid the chaos, Hyun-seo is helplessly snatched up by the creature right before Gang-du's eyes. These unforeseen circumstances render the government powerless to act. But receiving a call of help from Hyun-seo, the once-ordinary citizen Gang-du and his family are thrust into a battle with the monster to rescue their beloved Hyun-seo.",
+      "runtime": 119
+    },
+    {
+      "name": "Spawn",
+      "size": 87840042,
+      "keywords": [
+        "anti hero",
+        "secret agent",
+        "fistfight",
+        "based on comic book",
+        "burn victim"
+      ],
+      "user_rating": 5,
+      "votes": 336,
+      "release_year": 1997,
+      "overview": "After being murdered by corrupt colleagues in a covert government agency, Al Simmons (Michael Jai White) makes a pact with the devil to be resurrected to see his beloved wife Wanda (Theresa Randle). In exchange for his return to Earth, Simmons agrees to lead Hell's Army in the destruction of mankind.",
+      "runtime": 96
+    },
+    {
+      "name": "Paranormal Activity: The Marked Ones",
+      "size": 86362372,
+      "keywords": [
+        "supernatural",
+        "demon",
+        "found footage"
+      ],
+      "user_rating": 5.2,
+      "votes": 449,
+      "release_year": 2013,
+      "overview": "Seventeen-year-old Jesse has been hearing terrifying sounds coming from his neighbor’s apartment, but when he turns on his camera and sets out to uncover their source, he encounters an ancient evil that won’t rest until it’s claimed his very soul.",
+      "runtime": 84
+    },
+    {
+      "name": "The Possession",
+      "size": 85446075,
+      "keywords": [],
+      "user_rating": 5.8,
+      "votes": 498,
+      "release_year": 2012,
+      "overview": "A young girl buys an antique box at a yard sale, unaware that inside the collectible lives a malicious ancient spirit. The girl's father teams with his ex-wife to find a way to end the curse upon their child.",
+      "runtime": 92
+    },
+    {
+      "name": "Piranha 3D",
+      "size": 83188165,
+      "keywords": [
+        "yacht",
+        "movie in movie",
+        "scuba diving",
+        "piranha",
+        "spring break",
+        "man eaten by monster",
+        "3d"
+      ],
+      "user_rating": 5.3,
+      "votes": 581,
+      "release_year": 2010,
+      "overview": "Each year the population of sleepy Lake Victoria, Arizona explodes from 5,000 to 50,000 residents for the annual Spring Break celebration. But then, an earthquake opens an underwater chasm, releasing an enormous swarm of ancient Piranha that have been dormant for thousands of years, now with a taste for human flesh. This year, there's something more to worry about than the usual hangovers and complaints from locals, a new type of terror is about to be cut loose on Lake Victoria.",
+      "runtime": 88
+    },
+    {
+      "name": "28 Days Later",
+      "size": 82719885,
+      "keywords": [
+        "london england",
+        "manchester city",
+        "submachine gun",
+        "gas station",
+        "survivor",
+        "daughter",
+        "zombie",
+        "virus"
+      ],
+      "user_rating": 7.1,
+      "votes": 1777,
+      "release_year": 2002,
+      "overview": "Twenty-eight days after a killer virus was accidentally unleashed from a British research facility, a small group of London survivors are caught in a desperate struggle to protect themselves from the infected. Carried by animals and humans, the virus turns those it infects into homicidal maniacs -- and it's absolutely impossible to contain.",
+      "runtime": 113
+    },
+    {
+      "name": "Carrie",
+      "size": 82394288,
+      "keywords": [
+        "terror",
+        "based on novel",
+        "power",
+        "telekinesis",
+        "high school",
+        "remake",
+        "revenge",
+        "murder",
+        "prank",
+        "prom",
+        "teenager",
+        "explosion",
+        "violence",
+        "religious",
+        "humiliation",
+        "woman director"
+      ],
+      "user_rating": 5.8,
+      "votes": 1463,
+      "release_year": 2013,
+      "overview": "A reimagining of the classic horror tale about Carrie White, a shy girl outcast by her peers and sheltered by her deeply religious mother, who unleashes telekinetic terror on her small town after being pushed too far at her senior prom.",
+      "runtime": 100
+    },
+    {
+      "name": "Hostel",
+      "size": 80578934,
+      "keywords": [
+        "bathroom",
+        "sex",
+        "amsterdam",
+        "europe",
+        "brothel",
+        "slovakia",
+        "backpacker",
+        "horror",
+        "gore",
+        "blood",
+        "torture",
+        "business card",
+        "doberman",
+        "hostel",
+        "surgery",
+        "elite club",
+        "fingers"
+      ],
+      "user_rating": 5.7,
+      "votes": 887,
+      "release_year": 2005,
+      "overview": "Three backpackers head to a Slovakian city that promises to meet their hedonistic expectations, with no idea of the hell that awaits them.",
+      "runtime": 94
+    },
+    {
+      "name": "Vampires Suck",
+      "size": 80547866,
+      "keywords": [
+        "vampire",
+        "high school",
+        "prom",
+        "spoof",
+        "horror spoof",
+        "teenager",
+        "duringcreditsstinger"
+      ],
+      "user_rating": 4.2,
+      "votes": 315,
+      "release_year": 2010,
+      "overview": "Becca, an anxious, non-vampire teen is torn between two boys. Before she can choose, Becca must get around her controlling father, who embarrasses Becca by treating her like a child. Meanwhile, Becca's friends contend with their own romantic issues - all of which collide at the prom.",
+      "runtime": 82
+    },
+    {
+      "name": "Priest",
+      "size": 78309131,
+      "keywords": [
+        "vampire",
+        "crucifixion",
+        "post-apocalyptic",
+        "dystopia",
+        "vampire hunter",
+        "disobey",
+        "niece",
+        "dark hero"
+      ],
+      "user_rating": 5.4,
+      "votes": 692,
+      "release_year": 2011,
+      "overview": "In an alternate world, humanity and vampires have warred for centuries. After the last Vampire War, the veteran Warrior Priest lives in obscurity with other humans inside one of the Church's walled cities. When the Priest's niece is kidnapped by vampires, the Priest breaks his vows to hunt them down. He is accompanied by the niece's boyfriend, who is a wasteland sheriff, and a former Warrior Priestess.",
+      "runtime": 87
+    },
+    {
+      "name": "Exorcist: The Beginning",
+      "size": 78000586,
+      "keywords": [
+        "secret",
+        "obsession",
+        "exorcism",
+        "remake",
+        "priest",
+        "good vs evil",
+        "paganism",
+        "devil",
+        "archaeologist",
+        "demonic possession",
+        "relic",
+        "crisis of faith",
+        "archaeological dig"
+      ],
+      "user_rating": 4.7,
+      "votes": 183,
+      "release_year": 2004,
+      "overview": "Having lived through traumatizing events during WWII, Father Lankester Merrin takes a sabbatical from the Church to conduct archaeological excavations in British-administered East Africa. Merrin unearths an ancient Byzantine church believed have been built and then immediately buried to keep down evil from the crypt below. The natives are convinced that uncovering the church has unleashed a demon, and begin to violently clash with the British military troops. As the village rapidly disintegrates into chaos and war, Merrin must face-off with the demon which has taken possession of somebody close to him.",
+      "runtime": 114
+    }
+  ],
+  "links": [
+    {
+      "source": "I Am Legend",
+      "target": "Resident Evil: Afterlife",
+      "value": 2
+    },
+    {
+      "source": "I Am Legend",
+      "target": "Resident Evil: Retribution",
+      "value": 3
+    },
+    {
+      "source": "I Am Legend",
+      "target": "Resident Evil: Extinction",
+      "value": 2
+    },
+    {
+      "source": "I Am Legend",
+      "target": "Warm Bodies",
+      "value": 2
+    },
+    {
+      "source": "I Am Legend",
+      "target": "Priest",
+      "value": 2
+    },
+    {
+      "source": "World War Z",
+      "target": "Resident Evil: Afterlife",
+      "value": 2
+    },
+    {
+      "source": "World War Z",
+      "target": "Resident Evil: Retribution",
+      "value": 2
+    },
+    {
+      "source": "World War Z",
+      "target": "Resident Evil: Extinction",
+      "value": 2
+    },
+    {
+      "source": "World War Z",
+      "target": "Resident Evil: Apocalypse",
+      "value": 2
+    },
+    {
+      "source": "World War Z",
+      "target": "Warm Bodies",
+      "value": 3
+    },
+    {
+      "source": "World War Z",
+      "target": "Resident Evil",
+      "value": 2
+    },
+    {
+      "source": "World War Z",
+      "target": "Zombieland",
+      "value": 2
+    },
+    {
+      "source": "Jaws",
+      "target": "Jaws 2",
+      "value": 4
+    },
+    {
+      "source": "Jaws",
+      "target": "The Shallows",
+      "value": 3
+    },
+    {
+      "source": "The Exorcist",
+      "target": "Exorcist: The Beginning",
+      "value": 3
+    },
+    {
+      "source": "The Conjuring 2",
+      "target": "The Conjuring",
+      "value": 2
+    },
+    {
+      "source": "The Conjuring",
+      "target": "The Woman in Black",
+      "value": 2
+    },
+    {
+      "source": "Resident Evil: Afterlife",
+      "target": "Resident Evil: Retribution",
+      "value": 3
+    },
+    {
+      "source": "Resident Evil: Afterlife",
+      "target": "Hansel & Gretel: Witch Hunters",
+      "value": 2
+    },
+    {
+      "source": "Resident Evil: Afterlife",
+      "target": "Final Destination 5",
+      "value": 2
+    },
+    {
+      "source": "Resident Evil: Afterlife",
+      "target": "Resident Evil: Extinction",
+      "value": 5
+    },
+    {
+      "source": "Resident Evil: Afterlife",
+      "target": "Resident Evil: Apocalypse",
+      "value": 4
+    },
+    {
+      "source": "Resident Evil: Afterlife",
+      "target": "Warm Bodies",
+      "value": 3
+    },
+    {
+      "source": "Resident Evil: Afterlife",
+      "target": "Resident Evil",
+      "value": 3
+    },
+    {
+      "source": "Resident Evil: Afterlife",
+      "target": "Zombieland",
+      "value": 2
+    },
+    {
+      "source": "Resident Evil: Afterlife",
+      "target": "Dawn of the Dead",
+      "value": 2
+    },
+    {
+      "source": "Resident Evil: Afterlife",
+      "target": "Priest",
+      "value": 2
+    },
+    {
+      "source": "The Blair Witch Project",
+      "target": "Paranormal Activity 3",
+      "value": 2
+    },
+    {
+      "source": "Resident Evil: Retribution",
+      "target": "Alien: Resurrection",
+      "value": 2
+    },
+    {
+      "source": "Resident Evil: Retribution",
+      "target": "Alien³",
+      "value": 2
+    },
+    {
+      "source": "Resident Evil: Retribution",
+      "target": "Resident Evil: Extinction",
+      "value": 5
+    },
+    {
+      "source": "Resident Evil: Retribution",
+      "target": "Resident Evil: Apocalypse",
+      "value": 5
+    },
+    {
+      "source": "Resident Evil: Retribution",
+      "target": "The Purge: Election Year",
+      "value": 2
+    },
+    {
+      "source": "Resident Evil: Retribution",
+      "target": "Warm Bodies",
+      "value": 2
+    },
+    {
+      "source": "Resident Evil: Retribution",
+      "target": "The Purge: Anarchy",
+      "value": 2
+    },
+    {
+      "source": "Resident Evil: Retribution",
+      "target": "Resident Evil",
+      "value": 5
+    },
+    {
+      "source": "Resident Evil: Retribution",
+      "target": "28 Days Later",
+      "value": 2
+    },
+    {
+      "source": "Hansel & Gretel: Witch Hunters",
+      "target": "Final Destination 5",
+      "value": 2
+    },
+    {
+      "source": "Hansel & Gretel: Witch Hunters",
+      "target": "Saw: The Final Chapter",
+      "value": 2
+    },
+    {
+      "source": "Hansel & Gretel: Witch Hunters",
+      "target": "Blade",
+      "value": 3
+    },
+    {
+      "source": "Hansel & Gretel: Witch Hunters",
+      "target": "Silent Hill",
+      "value": 2
+    },
+    {
+      "source": "Interview with the Vampire",
+      "target": "Dracula",
+      "value": 3
+    },
+    {
+      "source": "Interview with the Vampire",
+      "target": "Dracula Untold",
+      "value": 3
+    },
+    {
+      "source": "Interview with the Vampire",
+      "target": "Underworld: Awakening",
+      "value": 2
+    },
+    {
+      "source": "Interview with the Vampire",
+      "target": "Blade",
+      "value": 3
+    },
+    {
+      "source": "Dracula",
+      "target": "Dracula Untold",
+      "value": 4
+    },
+    {
+      "source": "Dracula",
+      "target": "Underworld: Awakening",
+      "value": 2
+    },
+    {
+      "source": "Dracula",
+      "target": "Blade",
+      "value": 3
+    },
+    {
+      "source": "Dracula Untold",
+      "target": "Underworld: Awakening",
+      "value": 2
+    },
+    {
+      "source": "Dracula Untold",
+      "target": "Blade",
+      "value": 3
+    },
+    {
+      "source": "End of Days",
+      "target": "The Devil's Advocate",
+      "value": 2
+    },
+    {
+      "source": "End of Days",
+      "target": "Carrie",
+      "value": 2
+    },
+    {
+      "source": "End of Days",
+      "target": "Exorcist: The Beginning",
+      "value": 2
+    },
+    {
+      "source": "Red Dragon",
+      "target": "Saw IV",
+      "value": 2
+    },
+    {
+      "source": "Red Dragon",
+      "target": "The Cell",
+      "value": 2
+    },
+    {
+      "source": "Paranormal Activity 3",
+      "target": "Paranormal Activity",
+      "value": 2
+    },
+    {
+      "source": "Paranormal Activity 3",
+      "target": "Paranormal Activity 2",
+      "value": 2
+    },
+    {
+      "source": "Paranormal Activity",
+      "target": "Paranormal Activity 2",
+      "value": 3
+    },
+    {
+      "source": "Paranormal Activity",
+      "target": "The Devil Inside",
+      "value": 2
+    },
+    {
+      "source": "The Addams Family",
+      "target": "Underworld: Awakening",
+      "value": 2
+    },
+    {
+      "source": "Jaws 2",
+      "target": "The Shallows",
+      "value": 3
+    },
+    {
+      "source": "Aliens",
+      "target": "Alien: Resurrection",
+      "value": 3
+    },
+    {
+      "source": "Aliens",
+      "target": "Alien³",
+      "value": 6
+    },
+    {
+      "source": "Aliens",
+      "target": "Alien",
+      "value": 4
+    },
+    {
+      "source": "Paranormal Activity 2",
+      "target": "What Lies Beneath",
+      "value": 2
+    },
+    {
+      "source": "Paranormal Activity 2",
+      "target": "The Devil Inside",
+      "value": 2
+    },
+    {
+      "source": "Alien: Resurrection",
+      "target": "Alien³",
+      "value": 5
+    },
+    {
+      "source": "Alien: Resurrection",
+      "target": "The Purge: Election Year",
+      "value": 2
+    },
+    {
+      "source": "Alien: Resurrection",
+      "target": "Species",
+      "value": 2
+    },
+    {
+      "source": "Alien: Resurrection",
+      "target": "The Purge: Anarchy",
+      "value": 2
+    },
+    {
+      "source": "Alien: Resurrection",
+      "target": "Alien",
+      "value": 4
+    },
+    {
+      "source": "The Ring Two",
+      "target": "Paranormal Activity 4",
+      "value": 2
+    },
+    {
+      "source": "The Ring Two",
+      "target": "The Haunting",
+      "value": 2
+    },
+    {
+      "source": "The Ring Two",
+      "target": "Carrie",
+      "value": 2
+    },
+    {
+      "source": "The Ring Two",
+      "target": "Exorcist: The Beginning",
+      "value": 2
+    },
+    {
+      "source": "Underworld: Awakening",
+      "target": "Blade",
+      "value": 2
+    },
+    {
+      "source": "Alien³",
+      "target": "The Purge: Election Year",
+      "value": 2
+    },
+    {
+      "source": "Alien³",
+      "target": "The Purge: Anarchy",
+      "value": 2
+    },
+    {
+      "source": "Alien³",
+      "target": "Alien",
+      "value": 6
+    },
+    {
+      "source": "Goosebumps",
+      "target": "Red Riding Hood",
+      "value": 2
+    },
+    {
+      "source": "What Lies Beneath",
+      "target": "The Woman in Black",
+      "value": 2
+    },
+    {
+      "source": "What Lies Beneath",
+      "target": "Ouija",
+      "value": 2
+    },
+    {
+      "source": "What Lies Beneath",
+      "target": "The Haunting",
+      "value": 2
+    },
+    {
+      "source": "Blade II",
+      "target": "Blade",
+      "value": 4
+    },
+    {
+      "source": "Blade II",
+      "target": "Blade: Trinity",
+      "value": 2
+    },
+    {
+      "source": "Resident Evil: Extinction",
+      "target": "Resident Evil: Apocalypse",
+      "value": 6
+    },
+    {
+      "source": "Resident Evil: Extinction",
+      "target": "Warm Bodies",
+      "value": 3
+    },
+    {
+      "source": "Resident Evil: Extinction",
+      "target": "Resident Evil",
+      "value": 5
+    },
+    {
+      "source": "Resident Evil: Extinction",
+      "target": "Zombieland",
+      "value": 2
+    },
+    {
+      "source": "Resident Evil: Extinction",
+      "target": "Priest",
+      "value": 2
+    },
+    {
+      "source": "Saw IV",
+      "target": "The Purge: Anarchy",
+      "value": 2
+    },
+    {
+      "source": "Saw IV",
+      "target": "Silent Hill",
+      "value": 3
+    },
+    {
+      "source": "Saw IV",
+      "target": "The Skeleton Key",
+      "value": 2
+    },
+    {
+      "source": "Saw IV",
+      "target": "Hostel",
+      "value": 2
+    },
+    {
+      "source": "Blade",
+      "target": "Blade: Trinity",
+      "value": 5
+    },
+    {
+      "source": "Blade",
+      "target": "Silent Hill",
+      "value": 3
+    },
+    {
+      "source": "Blade",
+      "target": "Priest",
+      "value": 2
+    },
+    {
+      "source": "Resident Evil: Apocalypse",
+      "target": "Warm Bodies",
+      "value": 2
+    },
+    {
+      "source": "Resident Evil: Apocalypse",
+      "target": "Resident Evil",
+      "value": 5
+    },
+    {
+      "source": "Blade: Trinity",
+      "target": "Spawn",
+      "value": 2
+    },
+    {
+      "source": "The Woman in Black",
+      "target": "I Know What You Did Last Summer",
+      "value": 2
+    },
+    {
+      "source": "The Woman in Black",
+      "target": "The Skeleton Key",
+      "value": 2
+    },
+    {
+      "source": "The Woman in Black",
+      "target": "Carrie",
+      "value": 2
+    },
+    {
+      "source": "The Woman in Black",
+      "target": "Exorcist: The Beginning",
+      "value": 2
+    },
+    {
+      "source": "I Know What You Did Last Summer",
+      "target": "Freddy vs. Jason",
+      "value": 2
+    },
+    {
+      "source": "I Know What You Did Last Summer",
+      "target": "The Purge: Anarchy",
+      "value": 2
+    },
+    {
+      "source": "I Know What You Did Last Summer",
+      "target": "Carrie",
+      "value": 4
+    },
+    {
+      "source": "I Know What You Did Last Summer",
+      "target": "Vampires Suck",
+      "value": 2
+    },
+    {
+      "source": "The Purge: Election Year",
+      "target": "The Purge: Anarchy",
+      "value": 2
+    },
+    {
+      "source": "The Purge: Election Year",
+      "target": "The Purge",
+      "value": 2
+    },
+    {
+      "source": "Warm Bodies",
+      "target": "Resident Evil",
+      "value": 2
+    },
+    {
+      "source": "Warm Bodies",
+      "target": "Zombieland",
+      "value": 3
+    },
+    {
+      "source": "Warm Bodies",
+      "target": "Priest",
+      "value": 2
+    },
+    {
+      "source": "Freddy vs. Jason",
+      "target": "Carrie",
+      "value": 2
+    },
+    {
+      "source": "The Purge: Anarchy",
+      "target": "Zombieland",
+      "value": 3
+    },
+    {
+      "source": "The Purge: Anarchy",
+      "target": "The Visit",
+      "value": 2
+    },
+    {
+      "source": "The Purge: Anarchy",
+      "target": "Silent Hill",
+      "value": 3
+    },
+    {
+      "source": "The Purge: Anarchy",
+      "target": "Carrie",
+      "value": 3
+    },
+    {
+      "source": "The Amityville Horror",
+      "target": "Carrie",
+      "value": 2
+    },
+    {
+      "source": "Zombieland",
+      "target": "Silent Hill",
+      "value": 2
+    },
+    {
+      "source": "The Devil Inside",
+      "target": "Exorcist: The Beginning",
+      "value": 2
+    },
+    {
+      "source": "The Visit",
+      "target": "Carrie",
+      "value": 2
+    },
+    {
+      "source": "Silent Hill",
+      "target": "The Skeleton Key",
+      "value": 2
+    },
+    {
+      "source": "Silent Hill",
+      "target": "Paranormal Activity: The Marked Ones",
+      "value": 2
+    },
+    {
+      "source": "Silent Hill",
+      "target": "Carrie",
+      "value": 2
+    },
+    {
+      "source": "Silent Hill",
+      "target": "Hostel",
+      "value": 3
+    },
+    {
+      "source": "1408",
+      "target": "The Haunting",
+      "value": 2
+    },
+    {
+      "source": "The Haunting",
+      "target": "Carrie",
+      "value": 2
+    },
+    {
+      "source": "Carrie",
+      "target": "Vampires Suck",
+      "value": 3
+    }
+  ]
+}

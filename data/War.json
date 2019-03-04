@@ -1,0 +1,2883 @@
+{
+  "nodes": [
+    {
+      "name": "American Sniper",
+      "size": 542307423,
+      "keywords": [
+        "sniper",
+        "biography",
+        "iraq",
+        "navy seal",
+        "u.s. soldier"
+      ],
+      "user_rating": 7.4,
+      "votes": 4469,
+      "release_year": 2014,
+      "overview": "U.S. Navy SEAL Chris Kyle takes his sole mission—protect his comrades—to heart and becomes one of the most lethal snipers in American history. His pinpoint accuracy not only saves countless lives but also makes him a prime target of insurgents. Despite grave danger and his struggle to be a good husband and father to his family back in the States, Kyle serves four tours of duty in Iraq. However, when he finally returns home, he finds that he cannot leave the war behind.",
+      "runtime": 133
+    },
+    {
+      "name": "Troy",
+      "size": 497409852,
+      "keywords": [
+        "brother brother relationship",
+        "adultery",
+        "mythology",
+        "beauty",
+        "trojan war",
+        "bravery",
+        "wall",
+        "fraud",
+        "hostility",
+        "epic",
+        "sword fight",
+        "battlefield",
+        "ancient world",
+        "pyre",
+        "ancient greece",
+        "trojan horse",
+        "trojan",
+        "bronze age",
+        "sparta greece",
+        "helen of troy",
+        "homer's iliad"
+      ],
+      "user_rating": 6.9,
+      "votes": 2759,
+      "release_year": 2004,
+      "overview": "In year 1250 B.C. during the late Bronze age, two emerging nations begin to clash. Paris, the Trojan prince, convinces Helen, Queen of Sparta, to leave her husband Menelaus, and sail with him back to Troy. After Menelaus finds out that his wife was taken by the Trojans, he asks his brother Agamemnom to help him get her back. Agamemnon sees this as an opportunity for power. So they set off with 1,000 ships holding 50,000 Greeks to Troy. With the help of Achilles, the Greeks are able to fight the never before defeated Trojans.",
+      "runtime": 163
+    },
+    {
+      "name": "Saving Private Ryan",
+      "size": 481840909,
+      "keywords": [
+        "war crimes",
+        "self sacrifice",
+        "war veteran",
+        "world war ii",
+        "war ship",
+        "airplane",
+        "bravery",
+        "normandy",
+        "parachute",
+        "troops",
+        "waffen ss",
+        "omaha beach",
+        "army",
+        "cowardice",
+        "american flag",
+        "war memorial",
+        "deserted town",
+        "military",
+        "1940s"
+      ],
+      "user_rating": 7.9,
+      "votes": 5048,
+      "release_year": 1998,
+      "overview": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
+      "runtime": 169
+    },
+    {
+      "name": "The Last Samurai",
+      "size": 456758981,
+      "keywords": [
+        "japan",
+        "war crimes",
+        "sense of guilt",
+        "swordplay",
+        "general",
+        "samurai",
+        "war veteran",
+        "katana",
+        "sword",
+        "arms deal",
+        "homeland",
+        "emperor",
+        "language barrier",
+        "self-discovery",
+        "mountain village",
+        "foreign legion",
+        "mercenary",
+        "campaign",
+        "commercial agreement",
+        "insurgence",
+        "leader",
+        "war strategy",
+        "gettysburg",
+        "loss of husband",
+        "slaughter",
+        "soldier",
+        "alcoholic",
+        "u.s. soldier",
+        "japanese army",
+        "19th century",
+        "war trauma"
+      ],
+      "user_rating": 7.3,
+      "votes": 1895,
+      "release_year": 2003,
+      "overview": "Nathan Algren is an American hired to instruct the Japanese army in the ways of modern warfare, which finds him learning to respect the samurai and the honorable principles that rule them. Pressed to destroy the samurai's way of life in the name of modernization and open trade, Algren decides to become an ultimate warrior himself and to fight for their right to exist.",
+      "runtime": 154
+    },
+    {
+      "name": "Pearl Harbor",
+      "size": 449220945,
+      "keywords": [
+        "nurse",
+        "patriotism",
+        "hawaii",
+        "world war ii",
+        "pilot",
+        "pearl harbor",
+        "u.s. air force",
+        "airplane",
+        "war",
+        "army",
+        "love",
+        "pin-up"
+      ],
+      "user_rating": 6.6,
+      "votes": 1791,
+      "release_year": 2001,
+      "overview": "The lifelong friendship between Rafe McCawley and Danny Walker is put to the ultimate test when the two ace fighter pilots become entangled in a love triangle with beautiful Naval nurse Evelyn Johnson. But the rivalry between the friends-turned-foes is immediately put on hold when they find themselves at the center of Japan's devastating attack on Pearl Harbor on Dec. 7, 1941.",
+      "runtime": 183
+    },
+    {
+      "name": "300",
+      "size": 422610419,
+      "keywords": [
+        "evisceration",
+        "javelin",
+        "shield",
+        "army",
+        "fall from height",
+        "ancient world",
+        "s.a.t.",
+        "minions"
+      ],
+      "user_rating": 7,
+      "votes": 4997,
+      "release_year": 2006,
+      "overview": "Based on Frank Miller's graphic novel, \"300\" is very loosely based the 480 B.C. Battle of Thermopylae, where the King of Sparta led his army against the advancing Persians; the battle is said to have inspired all of Greece to band together against the Persians, and helped usher in the world's first democracy.",
+      "runtime": 117
+    },
+    {
+      "name": "Gone with the Wind",
+      "size": 400176459,
+      "keywords": [
+        "life and death",
+        "civil war",
+        "southern usa",
+        "loss of child",
+        "marriage proposal",
+        "atlanta",
+        "luxury",
+        "plantation",
+        "typhus",
+        "business woman",
+        "marriage crisis"
+      ],
+      "user_rating": 7.7,
+      "votes": 970,
+      "release_year": 1939,
+      "overview": "An American classic in which a manipulative woman and a roguish man carry on a turbulent love affair in the American south during the Civil War and Reconstruction.",
+      "runtime": 238
+    },
+    {
+      "name": "Top Gun",
+      "size": 356830601,
+      "keywords": [
+        "lovesickness",
+        "loss of lover",
+        "fighter pilot",
+        "self-discovery",
+        "pilot",
+        "ejection seat",
+        "dying and death",
+        "officer",
+        "training camp",
+        "air force",
+        "airplane",
+        "dangerous",
+        "battle assignment",
+        "u.s. navy",
+        "hostility",
+        "secret love",
+        "cowardliness",
+        "pilot school"
+      ],
+      "user_rating": 6.7,
+      "votes": 1698,
+      "release_year": 1986,
+      "overview": "For Lieutenant Pete 'Maverick' Mitchell and his friend and Co-Pilot Nick 'Goose' Bradshaw being accepted into an elite training school for fighter pilots is a dream come true.  A tragedy, as well as personal demons, threaten Pete's dreams of becoming an Ace pilot.",
+      "runtime": 110
+    },
+    {
+      "name": "300: Rise of an Empire",
+      "size": 337580051,
+      "keywords": [
+        "based on graphic novel",
+        "ancient greece",
+        "duringcreditsstinger",
+        "sea battle",
+        "hand to hand combat",
+        "minions",
+        "naval warfare",
+        "3d"
+      ],
+      "user_rating": 6.1,
+      "votes": 2397,
+      "release_year": 2014,
+      "overview": "Based on Frank Miller's latest graphic novel Xerxes and told in the breathtaking visual style of the blockbuster \"300,\" this new chapter of the epic saga takes the action to a fresh battlefield--on the sea--as Greek general Themistokles attempts to unite all of Greece by leading the charge that will change the course of the war. \"300: Rise of an Empire\" pits Themistokles against the massive invading Persian forces led by mortal-turned-god Xerxes and Artemesia, the vengeful commander of the Persian navy.",
+      "runtime": 102
+    },
+    {
+      "name": "Schindler's List",
+      "size": 321365567,
+      "keywords": [
+        "factory",
+        "concentration camp",
+        "hero",
+        "holocaust",
+        "world war ii",
+        "nazis",
+        "defense industry",
+        "biography",
+        "the holocaust"
+      ],
+      "user_rating": 8.3,
+      "votes": 4329,
+      "release_year": 1993,
+      "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+      "runtime": 195
+    },
+    {
+      "name": "Inglourious Basterds",
+      "size": 319131050,
+      "keywords": [
+        "paris",
+        "guerrilla",
+        "cinema",
+        "self sacrifice",
+        "dynamite",
+        "mexican standoff",
+        "world war ii",
+        "jew persecution",
+        "jew",
+        "nazis",
+        "masochism",
+        "sadism",
+        "scalp",
+        "winston churchill",
+        "knife in hand",
+        "anti semitism",
+        "gore",
+        "swastika",
+        "blood bath",
+        "german occupation of france",
+        "violence",
+        "gun violence"
+      ],
+      "user_rating": 7.9,
+      "votes": 6430,
+      "release_year": 2009,
+      "overview": "In Nazi-occupied France during World War II, a group of Jewish-American soldiers known as \"The Basterds\" are chosen specifically to spread fear throughout the Third Reich by scalping and brutally killing Nazis. The Basterds, lead by Lt. Aldo Raine soon cross paths with a French-Jewish teenage girl who runs a movie theater in Paris which is targeted by the soldiers.",
+      "runtime": 153
+    },
+    {
+      "name": "Rambo: First Blood Part II",
+      "size": 300400432,
+      "keywords": [
+        "usa",
+        "vietnam veteran",
+        "submachine gun",
+        "prisoner",
+        "prisoners of war",
+        "liberation of prisoners",
+        "liberation",
+        "vietnam",
+        "vietnam war",
+        "chase",
+        "machinegun",
+        "u.s. army",
+        "forest",
+        "photography",
+        "government",
+        "war",
+        "revenge",
+        "soldier",
+        "agent",
+        "denunciation"
+      ],
+      "user_rating": 6.3,
+      "votes": 864,
+      "release_year": 1985,
+      "overview": "John Rambo is released from prison by the government for a top-secret covert mission to the last place on Earth he'd want to return - the jungles of Vietnam.",
+      "runtime": 96
+    },
+    {
+      "name": "The Imitation Game",
+      "size": 233555708,
+      "keywords": [
+        "gay",
+        "england",
+        "world war ii",
+        "mathematician",
+        "biography",
+        "logician",
+        "cryptography"
+      ],
+      "user_rating": 8,
+      "votes": 5723,
+      "release_year": 2014,
+      "overview": "Based on the real life story of legendary cryptanalyst Alan Turing, the film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain's top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II.",
+      "runtime": 113
+    },
+    {
+      "name": "The English Patient",
+      "size": 231976425,
+      "keywords": [
+        "cairo",
+        "egypt",
+        "identity",
+        "amnesia",
+        "world war ii",
+        "burn",
+        "landmine",
+        "expedition",
+        "cave",
+        "sandstorm",
+        "royal geographic society",
+        "cave painting",
+        "prisoners of war",
+        "map",
+        "mine clearer",
+        "hearing",
+        "desert scientist",
+        "intelligence",
+        "traitor",
+        "mural painting",
+        "airplane",
+        "secret love"
+      ],
+      "user_rating": 7,
+      "votes": 542,
+      "release_year": 1996,
+      "overview": "Beginning in the 1930s, \"The English Patient\" tells the story of Count Almásy who is a Hungarian map maker employed by the Royal Geographical Society to chart the vast expanses of the Sahara Desert along with several other prominent explorers. As World War II unfolds, Almásy enters into a world of love, betrayal, and politics that is later revealed in a series of flashbacks while Almásy is on his death bed after being horribly burned in a plane crash.",
+      "runtime": 162
+    },
+    {
+      "name": "Dracula Untold",
+      "size": 215529201,
+      "keywords": [
+        "vampire",
+        "dracula",
+        "bite",
+        "battle",
+        "15th century",
+        "ottoman empire",
+        "vlad",
+        "fang vamp",
+        "tepes"
+      ],
+      "user_rating": 6.2,
+      "votes": 2389,
+      "release_year": 2014,
+      "overview": "Vlad Tepes is a great hero, but when he learns the Sultan is preparing for battle and needs to form an army of 1,000 boys, including Vlad's son, he vows to find a way to protect his family. Vlad turns to dark forces in order to get the power to destroy his enemies and agrees to go from hero to monster as he's turned into the mythological vampire Dracula.",
+      "runtime": 92
+    },
+    {
+      "name": "The Patriot",
+      "size": 215294342,
+      "keywords": [
+        "rebel",
+        "southern usa",
+        "loss of son",
+        "martial arts",
+        "general",
+        "loss of family",
+        "passion",
+        "insurgence",
+        "french",
+        "daughter",
+        "south carolina",
+        "british",
+        "based on true story",
+        "gore",
+        "mission"
+      ],
+      "user_rating": 6.8,
+      "votes": 1099,
+      "release_year": 2000,
+      "overview": "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
+      "runtime": 165
+    },
+    {
+      "name": "Fury",
+      "size": 211817906,
+      "keywords": [
+        "world war ii",
+        "nazis",
+        "war",
+        "nazi germany",
+        "panzer",
+        "tank"
+      ],
+      "user_rating": 7.4,
+      "votes": 3946,
+      "release_year": 2014,
+      "overview": "Last months of World War II in April 1945. As the Allies make their final push in the European Theater, a battle-hardened U.S. Army sergeant in the 2nd Armored Division named Wardaddy commands a Sherman tank called \"Fury\" and its five-man crew on a deadly mission behind enemy lines. Outnumbered and outgunned, Wardaddy and his men face overwhelming odds in their heroic attempts to strike at the heart of Nazi Germany.",
+      "runtime": 135
+    },
+    {
+      "name": "Kingdom of Heaven",
+      "size": 211643158,
+      "keywords": [
+        "crusade",
+        "epic",
+        "knight",
+        "swordsman",
+        "order of the templars",
+        "religious",
+        "knight templars",
+        "saladin",
+        "king richard"
+      ],
+      "user_rating": 6.6,
+      "votes": 1157,
+      "release_year": 2005,
+      "overview": "After his wife dies, a blacksmith named Balian is thrust into royalty, political intrigue and bloody holy wars during the Crusades.",
+      "runtime": 144
+    },
+    {
+      "name": "Braveheart",
+      "size": 210000000,
+      "keywords": [
+        "individual",
+        "scotland",
+        "in love with enemy",
+        "legend",
+        "independence",
+        "idealism",
+        "revolt",
+        "tyranny"
+      ],
+      "user_rating": 7.7,
+      "votes": 3336,
+      "release_year": 1995,
+      "overview": "Enraged at the slaughter of Murron, his new bride and childhood love, Scottish warrior William Wallace slays a platoon of the local English lord's soldiers. This leads the village to revolt and, eventually, the entire country to rise up against English rule.",
+      "runtime": 177
+    },
+    {
+      "name": "Valkyrie",
+      "size": 200276000,
+      "keywords": [
+        "berlin",
+        "suicide",
+        "bomb",
+        "assassination",
+        "resistance",
+        "wife husband relationship",
+        "world war ii",
+        "adolf hitler",
+        "plan",
+        "friendship",
+        "deception",
+        "treason",
+        "colonel",
+        "military officer",
+        "plot",
+        "german officer",
+        "piano wire",
+        "medal",
+        "violence"
+      ],
+      "user_rating": 6.7,
+      "votes": 1173,
+      "release_year": 2008,
+      "overview": "Wounded in Africa during World War II, Nazi Col. Claus von Stauffenberg returns to his native Germany and joins the Resistance in a daring plan to create a shadow government and assassinate Adolf Hitler. When events unfold so that he becomes a central player, he finds himself tasked with both leading the coup and personally killing the Führer.",
+      "runtime": 121
+    },
+    {
+      "name": "Rambo III",
+      "size": 189015611,
+      "keywords": [
+        "competition",
+        "submachine gun",
+        "soviet union",
+        "liberation",
+        "russian",
+        "soviet troops",
+        "thailand",
+        "freedom fighter",
+        "afghanistan",
+        "war on freedom",
+        "machinegun",
+        "mujahid",
+        "reality show",
+        "western",
+        "japanese food",
+        "soap opera"
+      ],
+      "user_rating": 5.7,
+      "votes": 690,
+      "release_year": 1988,
+      "overview": "Combat has taken its toll on Rambo, but he's finally begun to find inner peace in a monastery. When Rambo's friend and mentor Col. Trautman asks for his help on a top secret mission to Afghanistan, Rambo declines but must reconsider when Trautman is captured.",
+      "runtime": 102
+    },
+    {
+      "name": "War Horse",
+      "size": 177584879,
+      "keywords": [
+        "world war i",
+        "horse",
+        "farm life",
+        "execution",
+        "trapped",
+        "alcoholic",
+        "cavalry",
+        "plowing",
+        "artillery"
+      ],
+      "user_rating": 7,
+      "votes": 992,
+      "release_year": 2011,
+      "overview": "Follows a young man named Albert and his horse, Joey, and how their bond is broken when Joey is sold to the cavalry and sent to the trenches of World War One. Despite being too young to enlist, Albert heads to France to save his friend.",
+      "runtime": 146
+    },
+    {
+      "name": "Black Hawk Down",
+      "size": 172989651,
+      "keywords": [
+        "prisoners of war",
+        "wound",
+        "somalia",
+        "warlord",
+        "famine",
+        "delta force",
+        "rescue operation"
+      ],
+      "user_rating": 7.2,
+      "votes": 1811,
+      "release_year": 2001,
+      "overview": "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
+      "runtime": 144
+    },
+    {
+      "name": "Alexander",
+      "size": 167298192,
+      "keywords": [
+        "aristotle",
+        "egypt",
+        "greece",
+        "persia",
+        "elephant",
+        "campaign",
+        "alexander the great",
+        "homosexuality",
+        "gay relationship",
+        "ancient world"
+      ],
+      "user_rating": 5.6,
+      "votes": 927,
+      "release_year": 2004,
+      "overview": "Alexander, the King of Macedonia, leads his legions against the giant Persian Empire. After defeating the Persians, he leads his army across the then known world, venturing farther than any westerner had ever gone, all the way to India.",
+      "runtime": 175
+    },
+    {
+      "name": "Unbroken",
+      "size": 163442937,
+      "keywords": [
+        "world war ii",
+        "prisoners of war",
+        "biography",
+        "sport",
+        "war",
+        "athlete",
+        "woman director",
+        "olympic athlete"
+      ],
+      "user_rating": 7.3,
+      "votes": 1400,
+      "release_year": 2014,
+      "overview": "A chronicle of the life of Louis Zamperini, an Olympic runner who was taken prisoner by Japanese forces during World War II.",
+      "runtime": 137
+    },
+    {
+      "name": "Born on the Fourth of July",
+      "size": 161001698,
+      "keywords": [
+        "vietnam veteran",
+        "post traumatic stress  disorder",
+        "bar",
+        "1970s",
+        "wheelchair",
+        "vietnam war",
+        "desert",
+        "spit in the face",
+        "drunkenness",
+        "1950s",
+        "1960s"
+      ],
+      "user_rating": 6.7,
+      "votes": 395,
+      "release_year": 1989,
+      "overview": "The biography of Ron Kovic. Paralyzed in the Vietnam war, he becomes an anti-war and pro-human rights political activist after feeling betrayed by the country he fought for.",
+      "runtime": 145
+    },
+    {
+      "name": "Legends of the Fall",
+      "size": 160638883,
+      "keywords": [
+        "brother brother relationship",
+        "montana",
+        "based on novel",
+        "world war i",
+        "journey round the world"
+      ],
+      "user_rating": 7.2,
+      "votes": 619,
+      "release_year": 1994,
+      "overview": "An epic tale of three brothers and their father living in the remote wilderness of 1900s USA and how their lives are affected by nature, history, war, and love.",
+      "runtime": 133
+    },
+    {
+      "name": "The Monuments Men",
+      "size": 154984035,
+      "keywords": [
+        "world war ii",
+        "nazis",
+        "art theft",
+        "post world war ii"
+      ],
+      "user_rating": 5.8,
+      "votes": 1523,
+      "release_year": 2014,
+      "overview": "Based on the true story of the greatest treasure hunt in history, The Monuments Men is an action drama focusing on seven over-the-hill, out-of-shape museum directors, artists, architects, curators, and art historians who went to the front lines of WWII to rescue the world’s artistic masterpieces from Nazi thieves and return them to their rightful owners.  With the art hidden behind enemy lines, how could these guys hope to succeed?",
+      "runtime": 118
+    },
+    {
+      "name": "Lone Survivor",
+      "size": 149295601,
+      "keywords": [
+        "war",
+        "survival",
+        "navy seal",
+        "military",
+        "dangerous mission"
+      ],
+      "user_rating": 7.4,
+      "votes": 1526,
+      "release_year": 2013,
+      "overview": "Based on the failed June 28, 2005 mission \"Operation Red Wing.\" Four members of SEAL Team 10, were tasked with the mission to capture or kill notorious Taliban leader, Ahmad Shah. Only one member of the team survived.",
+      "runtime": 121
+    },
+    {
+      "name": "Platoon",
+      "size": 138530565,
+      "keywords": [
+        "famous score",
+        "hero",
+        "mine",
+        "vietnam war",
+        "village",
+        "gore",
+        "jungle",
+        "f word",
+        "soldier",
+        "battle",
+        "combat",
+        "1960s"
+      ],
+      "user_rating": 7.5,
+      "votes": 1205,
+      "release_year": 1986,
+      "overview": "As a young and naive recruit in Vietnam, Chris Taylor faces a moral crisis when confronted with the horrors of war and the duality of man.",
+      "runtime": 120
+    },
+    {
+      "name": "U-571",
+      "size": 127666415,
+      "keywords": [
+        "submarine",
+        "world war ii",
+        "north atlantic",
+        "mission"
+      ],
+      "user_rating": 6.1,
+      "votes": 340,
+      "release_year": 2000,
+      "overview": "In the midst of World War II, the battle under the sea rages and the Nazis have the upper hand as the Allies are unable to crack their war codes. However, after a wrecked U-boat sends out an SOS signal, the Allies realise this is their chance to seize the 'enigma coding machine'.",
+      "runtime": 116
+    },
+    {
+      "name": "First Blood",
+      "size": 125212904,
+      "keywords": [
+        "prison",
+        "vietnam veteran",
+        "falsely accused",
+        "police brutality",
+        "sheriff",
+        "guerrilla",
+        "submachine gun",
+        "gun",
+        "destroy",
+        "self-defense",
+        "vietnam",
+        "vietnam war",
+        "prosecution",
+        "dying and death",
+        "village and town",
+        "police operation",
+        "attempt to escape",
+        "matter of life and death",
+        "survivor",
+        "tramp",
+        "national guard",
+        "weapon",
+        "firearm",
+        "police",
+        "escape"
+      ],
+      "user_rating": 7.2,
+      "votes": 1488,
+      "release_year": 1982,
+      "overview": "When former Green Beret John Rambo is harassed by local law enforcement and arrested for vagrancy, the Vietnam vet snaps, runs for the hills and rat-a-tat-tats his way into the action-movie hall of fame. Hounded by a relentless sheriff, Rambo employs heavy-handed guerilla tactics to shake the cops off his tail.",
+      "runtime": 93
+    },
+    {
+      "name": "Good Morning, Vietnam",
+      "size": 123922370,
+      "keywords": [
+        "rock and roll",
+        "radio station",
+        "war crimes",
+        "entertainer",
+        "explosive",
+        "cynic",
+        "radio",
+        "vietnam war",
+        "vietcong",
+        "gi",
+        "u.s. air force",
+        "dying and death",
+        "radio presenter",
+        "humor",
+        "saigon",
+        "provocation",
+        "right and justice"
+      ],
+      "user_rating": 7.1,
+      "votes": 642,
+      "release_year": 1987,
+      "overview": "Radio funny man Adrian Cronauer is sent to Vietnam to bring a little comedy back into the lives of the soldiers. After setting up shop, Cronauer delights the G.I.s but shocks his superior officer, Sergeant Major Dickerson, with his irreverent take on the war. While Dickerson attempts to censor Cronauer's broadcasts, Cronauer pursues a relationship with a Vietnamese girl named Trinh, who shows him the horrors of war first-hand.",
+      "runtime": 121
+    },
+    {
+      "name": "The Pianist",
+      "size": 120072577,
+      "keywords": [
+        "individual",
+        "resistance",
+        "radio station",
+        "war crimes",
+        "loss of family",
+        "child murderer",
+        "hunger",
+        "world war ii",
+        "prisoners of war",
+        "homeland",
+        "deportation",
+        "hiding place",
+        "ghetto riot",
+        "jew persecution",
+        "liberation",
+        "warsaw ghetto",
+        "polish resistance",
+        "nazis",
+        "biography",
+        "classical music",
+        "panzer",
+        "pianist"
+      ],
+      "user_rating": 8,
+      "votes": 1864,
+      "release_year": 2002,
+      "overview": "The Pianist is a film adapted from the biography of Wladyslaw Szpilman. A Jewish-Polish pianist who during the second world war lived and hid miraculously in Warsaw after having gone through a terrible tragedy. A film from Roman Polanski.",
+      "runtime": 150
+    },
+    {
+      "name": "Dear John",
+      "size": 114977104,
+      "keywords": [
+        "based on novel",
+        "army",
+        "love",
+        "u.s. soldier"
+      ],
+      "user_rating": 6.6,
+      "votes": 1262,
+      "release_year": 2010,
+      "overview": "Sergeant John Tyree is home on a 2 week leave from Germany. He meets Savannah after he dives into the ocean to retrieve Savannah's purse that had fallen off the pier. John falls in love with Savannah who is a student on spring break helping build a house for Habitat for Humanity. A romance occurs and Savannah falls deeply in love with John. She promises to write John overseas until he returns.",
+      "runtime": 115
+    },
+    {
+      "name": "We Were Soldiers",
+      "size": 114660784,
+      "keywords": [
+        "vietnam veteran",
+        "missile",
+        "vietnam war",
+        "army",
+        "major",
+        "based on true story",
+        "steel helmet",
+        "soldier",
+        "explosion",
+        "battle",
+        "bayonet",
+        "death",
+        "vietnamese"
+      ],
+      "user_rating": 6.7,
+      "votes": 521,
+      "release_year": 2002,
+      "overview": "The story of the first major battle of the American phase of the Vietnam War and the soldiers on both sides that fought it.",
+      "runtime": 138
+    },
+    {
+      "name": "Doctor Zhivago",
+      "size": 111858363,
+      "keywords": [
+        "love triangle",
+        "nurse",
+        "suicide attempt",
+        "loss of family",
+        "world war i",
+        "russian revolution 1917",
+        "forbidden love",
+        "step parents",
+        "daughter",
+        "epic"
+      ],
+      "user_rating": 7.4,
+      "votes": 247,
+      "release_year": 1965,
+      "overview": "Doctor Zhivago is the filmed adapation of the Russian novel by Boris Pasternak from director David Lean that was an international success and today deemed a classic. Omar Sharif and Julie Christie play two protagonists who in fact love each other yet because of their current situation cannot find a way be together.",
+      "runtime": 197
+    },
+    {
+      "name": "Courage Under Fire",
+      "size": 100860818,
+      "keywords": [
+        "gulf war",
+        "pilot",
+        "u.s. army",
+        "praise",
+        "rescue mission",
+        "dead soldier",
+        "tank",
+        "medal"
+      ],
+      "user_rating": 6.2,
+      "votes": 232,
+      "release_year": 1996,
+      "overview": "A US Army officer had made a \"friendly fire\" mistake that was covered up and he was reassigned to a desk job. Later he was tasked to investigate a female chopper commander's worthiness to be awarded the Medal of Honor posthumously. At first all seemed in order then he begins to notice inconsistencies between the testimonies of the witnesses....",
+      "runtime": 117
+    },
+    {
+      "name": "Baahubali: The Beginning",
+      "size": 100000000,
+      "keywords": [
+        "kingdom",
+        "war",
+        "bollywood",
+        "medieval india",
+        "ancient india"
+      ],
+      "user_rating": 7.5,
+      "votes": 135,
+      "release_year": 2015,
+      "overview": "The young Shivudu is left as a foundling in a small village by his mother. By the time he’s grown up, it has become apparent that he possesses exceptional gifts. He meets the beautiful warrior/princess Avanthika and learns that her queen has been held captive for the last 25 years. Shividu sets off to rescue her, discovering his own origins in the process.",
+      "runtime": 159
+    },
+    {
+      "name": "The Thin Red Line",
+      "size": 98126565,
+      "keywords": [
+        "based on novel",
+        "japanese",
+        "world war ii",
+        "battle assignment",
+        "invasion",
+        "marine corps",
+        "u.s. army",
+        "commander",
+        "pacific",
+        "rifle",
+        "survival",
+        "jungle",
+        "infantry",
+        "steel helmet",
+        "sergeant",
+        "pacific island",
+        "soldier",
+        "battle",
+        "fighting",
+        "guadalcanal",
+        "awol",
+        "philosophic conflict"
+      ],
+      "user_rating": 7.2,
+      "votes": 771,
+      "release_year": 1998,
+      "overview": "Based on the graphic novel by James Jones, The Thin Red Line tells the story of a group of men, an Army Rifle company called C-for-Charlie, who change, suffer, and ultimately make essential discoveries about themselves during the fierce World War II battle of Guadalcanal. It follows their journey, from the surprise of an unopposed landing, through the bloody and exhausting battles that follow, to the ultimate departure of those who survived. A powerful frontline cast - including Sean Penn, Nick Nolte, Woody Harrelson and George Clooney - explodes into action in this hauntingly realistic view of military and moral chaos in the Pacific during World War II.",
+      "runtime": 170
+    },
+    {
+      "name": "Enemy at the Gates",
+      "size": 96976270,
+      "keywords": [
+        "winter",
+        "sniper",
+        "world war ii",
+        "stalingrad"
+      ],
+      "user_rating": 7.2,
+      "votes": 999,
+      "release_year": 2001,
+      "overview": "Enemy at the Gates is a war film from Jean-Jacques Annaud from 2001 that takes place during the battle of Stalingard in World War II between the Russians and the Germans.",
+      "runtime": 131
+    },
+    {
+      "name": "Jarhead",
+      "size": 96889998,
+      "keywords": [
+        "sniper",
+        "marine corps",
+        "saudi arabia",
+        "petrol",
+        "golf war",
+        "u.s. marine"
+      ],
+      "user_rating": 6.6,
+      "votes": 765,
+      "release_year": 2005,
+      "overview": "Jarhead is a film about a US Marine Anthony Swofford’s experience in the Gulf War. After putting up with an arduous boot camp, Swafford and his unit are sent to the Persian Gulf where they are earger to fight but are forced to stay back from the action. Meanwhile Swofford gets news of his girlfriend is cheating on him. Desperately he wants to kill someone and finally put his training to use.",
+      "runtime": 125
+    },
+    {
+      "name": "The Flowers of War",
+      "size": 95311434,
+      "keywords": [
+        "forced prostitution",
+        "child rape"
+      ],
+      "user_rating": 7.1,
+      "votes": 187,
+      "release_year": 2011,
+      "overview": "A Westerner finds refuge with a group of women in a church during Japan's rape of Nanking in 1937. Posing as a priest, he attempts to lead the women to safety.",
+      "runtime": 145
+    },
+    {
+      "name": "Green Zone",
+      "size": 94882889,
+      "keywords": [
+        "weapon of mass destruction",
+        "baghdad",
+        "iraqi "
+      ],
+      "user_rating": 6.4,
+      "votes": 717,
+      "release_year": 2010,
+      "overview": "During the U.S.-led occupation of Baghdad in 2003, Chief Warrant Officer Roy Miller and his team of Army inspectors were dispatched to find weapons of mass destruction believed to be stockpiled in the Iraqi desert. Rocketing from one booby-trapped and treacherous site to the next, the men search for deadly chemical agents but stumble instead upon an elaborate cover-up that threatens to invert the purpose of their mission.",
+      "runtime": 115
+    },
+    {
+      "name": "Downfall",
+      "size": 92180910,
+      "keywords": [
+        "berlin",
+        "poison",
+        "dictator",
+        "clerk",
+        "ideology",
+        "world war ii",
+        "traitor",
+        "despair",
+        "destroy",
+        "testament",
+        "capitulation",
+        "soviet troops",
+        "race politics",
+        "national socialism",
+        "adolf hitler",
+        "ultimate victory",
+        "minister",
+        "national socialist party",
+        "dying and death",
+        "historical figure",
+        "german shepherd"
+      ],
+      "user_rating": 7.7,
+      "votes": 1037,
+      "release_year": 2004,
+      "overview": "In April of 1945, Germany stands at the brink of defeat with the Russian Army closing in from the east and the Allied Expeditionary Force attacking from the west. In Berlin, capital of the Third Reich, Adolf Hitler proclaims that Germany will still achieve victory and orders his generals and advisers to fight to the last man. When the end finally does come, and Hitler lies dead by his own hand, what is left of his military must find a way to end the killing that is the Battle of Berlin, and lay down their arms in surrender.",
+      "runtime": 156
+    },
+    {
+      "name": "Behind Enemy Lines",
+      "size": 91753202,
+      "keywords": [
+        "helicopter",
+        "war crimes",
+        "sniper",
+        "bosnia and herzegovina",
+        "fighter pilot",
+        "bosnian war of 1992-1995",
+        "rescue",
+        "escape",
+        "tank",
+        "atrocity",
+        "gunfight",
+        "combat",
+        "military",
+        "mine field",
+        "action hero",
+        "aircraft carrier",
+        "reconnaissance",
+        "mass grave"
+      ],
+      "user_rating": 6,
+      "votes": 457,
+      "release_year": 2001,
+      "overview": "While flying a routine reconnaissance mission over Bosnia, fighter pilot Chris Burnett photographs something he wasn't supposed to see and gets shot down behind enemy lines, where he must outrun an army led by a ruthless Serbian general. With time running out and a deadly tracker on his trail, Burnett's commanding officer decides to risk his career and launch a renegade rescue mission to save his life.",
+      "runtime": 106
+    },
+    {
+      "name": "Patton",
+      "size": 89800000,
+      "keywords": [
+        "general",
+        "world war ii",
+        "normandy",
+        "biography",
+        "historical figure",
+        "d-day",
+        "dead soldier",
+        "tank",
+        "steel helmet",
+        "destiny",
+        "allies"
+      ],
+      "user_rating": 7.3,
+      "votes": 323,
+      "release_year": 1970,
+      "overview": "\"Patton\" tells the tale of General George S. Patton, famous tank commander of World War II. The film begins with patton's career in North Africa and progresses through the invasion of Germany and the fall of the Third Reich. Side plots also speak of Patton's numerous faults such his temper and habit towards insubordination.",
+      "runtime": 172
+    },
+    {
+      "name": "Apocalypse Now",
+      "size": 89460381,
+      "keywords": [
+        "guerrilla",
+        "river",
+        "vietnam",
+        "vietcong",
+        "cambodia",
+        "army",
+        "insanity",
+        "tribe",
+        "green beret",
+        "jungle",
+        "apocalypse",
+        "death",
+        "napalm"
+      ],
+      "user_rating": 8,
+      "votes": 2055,
+      "release_year": 1979,
+      "overview": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory.",
+      "runtime": 153
+    },
+    {
+      "name": "Tears of the Sun",
+      "size": 85632458,
+      "keywords": [
+        "u.s. army",
+        "nigeria",
+        "president"
+      ],
+      "user_rating": 6.4,
+      "votes": 573,
+      "release_year": 2003,
+      "overview": "Navy SEAL Lieutenant A.K. Waters and his elite squadron of tactical specialists are forced to choose between their duty and their humanity, between following orders by ignoring the conflict that surrounds them, or finding the courage to follow their conscience and protect a group of innocent refugees. When the democratic government of Nigeria collapses and the country is taken over by a ruthless military dictator, Waters, a fiercely loyal and hardened veteran is dispatched on a routine mission to retrieve a Doctors Without Borders physician.",
+      "runtime": 121
+    },
+    {
+      "name": "Das Boot",
+      "size": 85000000,
+      "keywords": [
+        "terror",
+        "submarine",
+        "based on novel",
+        "atlantic ocean",
+        "gibraltar",
+        "world war ii",
+        "duty",
+        "war correspondent",
+        "torpedo",
+        "drinking",
+        "sailor",
+        "convoy",
+        "u boat",
+        "destroyer",
+        "depth charge",
+        "comrade",
+        "german submarine",
+        "naval battle",
+        "periscope",
+        "suicidal mission"
+      ],
+      "user_rating": 7.9,
+      "votes": 613,
+      "release_year": 1981,
+      "overview": "A German submarine hunts allied ships during the Second World War, but it soon becomes the hunted. The crew tries to survive below the surface, while stretching both the boat and themselves to their limits.",
+      "runtime": 149
+    },
+    {
+      "name": "Pan's Labyrinth",
+      "size": 83258226,
+      "keywords": [
+        "spain",
+        "resistance",
+        "servant",
+        "anti hero",
+        "fairy",
+        "fairy tale",
+        "franco regime",
+        "army",
+        "princess",
+        "love",
+        "woods",
+        "king",
+        "hiding",
+        "labyrinth",
+        "mythological"
+      ],
+      "user_rating": 7.6,
+      "votes": 3041,
+      "release_year": 2006,
+      "overview": "Living with her tyrannical stepfather in a new home with her pregnant mother, 10-year-old Ofelia feels alone until she explores a decaying labyrinth guarded by a mysterious faun who claims to know her destiny. If she wishes to return to her real father, Ofelia must complete three terrifying tasks.",
+      "runtime": 118
+    },
+    {
+      "name": "Act of Valor",
+      "size": 81272766,
+      "keywords": [
+        "submarine",
+        "navy",
+        "scuba diving",
+        "heroism",
+        "navy seal",
+        "pistol",
+        "secret plot",
+        "military life",
+        "valor",
+        "terrorist plot",
+        "navy life",
+        "national security",
+        "pregnant wife",
+        "silver star",
+        "counter plot",
+        "duringcreditsstinger"
+      ],
+      "user_rating": 6.3,
+      "votes": 417,
+      "release_year": 2012,
+      "overview": "When a covert mission to rescue a kidnapped CIA operative uncovers a chilling plot, an elite, highly trained U.S. SEAL team speeds to hotspots around the globe, racing against the clock to stop a deadly terrorist attack.",
+      "runtime": 110
+    },
+    {
+      "name": "Windtalkers",
+      "size": 77628265,
+      "keywords": [
+        "japan",
+        "world war ii",
+        "radio transmission",
+        "marine corps",
+        "u.s. army",
+        "code",
+        "navajo",
+        "pacific war"
+      ],
+      "user_rating": 5.8,
+      "votes": 341,
+      "release_year": 2002,
+      "overview": "Joe Enders is a gung-ho Marine assigned to protect a \"windtalker\" - one of several Navajo Indians who were used to relay messages during World War II because their spoken language was indecipherable to Japanese code breakers.",
+      "runtime": 134
+    },
+    {
+      "name": "The Last of the Mohicans",
+      "size": 75505856,
+      "keywords": [
+        "secret love",
+        "mohawk",
+        "native american",
+        "18th century",
+        "french and indian war"
+      ],
+      "user_rating": 7.1,
+      "votes": 732,
+      "release_year": 1992,
+      "overview": "As the English and French soldiers battle for control of the American colonies in the 18th century, the settlers and native Americans are forced to take sides. Cora and her sister Alice unwittingly walk into trouble but are reluctantly saved by Hawkeye, an orphaned settler adopted by the last of the Mohicans.",
+      "runtime": 112
+    },
+    {
+      "name": "Lawrence of Arabia",
+      "size": 69995385,
+      "keywords": [
+        "cairo",
+        "arabian",
+        "world war i",
+        "horse",
+        "jerusalem",
+        "british army",
+        "british empire",
+        "damascus",
+        "camel",
+        "war",
+        "desert",
+        "arab",
+        "ottoman empire"
+      ],
+      "user_rating": 7.8,
+      "votes": 851,
+      "release_year": 1962,
+      "overview": "An epic about British officer T.E. Lawrence's mission to aid the Arab tribes in their revolt against the Ottoman Empire during the First World War. Lawrence becomes a flamboyant, messianic figure in the cause of Arab unity but his psychological instability threatens to undermine his achievements.",
+      "runtime": 216
+    },
+    {
+      "name": "13 Hours: The Secret Soldiers of Benghazi",
+      "size": 69411370,
+      "keywords": [
+        "based on novel",
+        "assault rifle",
+        "mercenary",
+        "libya",
+        "biography",
+        "based on true story",
+        "heroism",
+        "explosion",
+        "american abroad",
+        "death",
+        "21st century",
+        "cia agent",
+        "u.s. ambassador"
+      ],
+      "user_rating": 7,
+      "votes": 938,
+      "release_year": 2016,
+      "overview": "An American Ambassador is killed during an attack at a U.S. compound in Libya as a security team struggles to make sense out of the chaos.",
+      "runtime": 144
+    },
+    {
+      "name": "The Men Who Stare at Goats",
+      "size": 68729358,
+      "keywords": [
+        "vietnam veteran",
+        "kuwait",
+        "new age",
+        "staring contest",
+        "drug use",
+        "paranoid fantasy",
+        "hippie lifestyle"
+      ],
+      "user_rating": 5.9,
+      "votes": 742,
+      "release_year": 2009,
+      "overview": "A reporter in Iraq might just have the story of a lifetime when he meets Lyn Cassady, a guy who claims to be a former member of the U.S. Army's New Earth Army, a unit that employs paranormal powers in their missions.",
+      "runtime": 93
+    },
+    {
+      "name": "Letters from Iwo Jima",
+      "size": 68673228,
+      "keywords": [
+        "world war ii",
+        "cave",
+        "dying and death",
+        "pacific theater",
+        "japanese army",
+        "imperial japan"
+      ],
+      "user_rating": 7.2,
+      "votes": 541,
+      "release_year": 2006,
+      "overview": "The story of the battle of Iwo Jima between the United States and Imperial Japan during World War II, as told from the perspective of the Japanese who fought it.",
+      "runtime": 141
+    },
+    {
+      "name": "The Messenger: The Story of Joan of Arc",
+      "size": 66976317,
+      "keywords": [
+        "schizophrenia",
+        "france",
+        "rape",
+        "siege",
+        "biography",
+        "orléans",
+        "charles vii.",
+        "false history",
+        "joan of arc",
+        "religious delusions"
+      ],
+      "user_rating": 6.2,
+      "votes": 367,
+      "release_year": 1999,
+      "overview": "In 1429 a teenage girl from a remote French village stood before her King with a message she claimed came from God; that she would defeat the world's greatest army and liberate her country from its political and religious turmoil. Following her mission to reclaim god's dimished kingdom - through her amazing victories until her violent and untimely death.",
+      "runtime": 148
+    },
+    {
+      "name": "Flags of Our Fathers",
+      "size": 65900249,
+      "keywords": [
+        "world war ii",
+        "dying and death",
+        "pacific",
+        "iwo jima",
+        "aftercreditsstinger",
+        "duringcreditsstinger"
+      ],
+      "user_rating": 6.7,
+      "votes": 526,
+      "release_year": 2006,
+      "overview": "There were five Marines and one Navy Corpsman photographed raising the U.S. flag on Mt. Suribachi by Joe Rosenthal on February 23, 1945. This is the story of three of the six surviving servicemen – John 'Doc' Bradley, Pvt. Rene Gagnon and Pvt. Ira Hayes, who fought in the battle to take Iwo Jima from the Japanese.",
+      "runtime": 132
+    },
+    {
+      "name": "A Bridge Too Far",
+      "size": 50750000,
+      "keywords": [
+        "netherlands",
+        "world war ii",
+        "panzer",
+        "british soldier"
+      ],
+      "user_rating": 6.9,
+      "votes": 207,
+      "release_year": 1977,
+      "overview": "Tells the story of operation Market Garden. A failed attempt by the allies in the latter stages of WWII to end the war quickly by securing three bridges in Holland allowing access over the Rhine into Germany. A combination of poor allied intelligence and the presence of two crack German panzer divisions meant that the final part of this operation (the bridge in Arnhem over the Rhine) was doomed to failure.",
+      "runtime": 175
+    },
+    {
+      "name": "Red Tails",
+      "size": 50365377,
+      "keywords": [
+        "world war ii",
+        "fighter pilot",
+        "fighter plane"
+      ],
+      "user_rating": 5.9,
+      "votes": 178,
+      "release_year": 2012,
+      "overview": "The story of the Tuskegee Airmen, the first African-American pilots to fly in a combat squadron during World War II.",
+      "runtime": 125
+    },
+    {
+      "name": "The Longest Day",
+      "size": 50100000,
+      "keywords": [
+        "world war ii",
+        "normandy",
+        "allied",
+        "widerstand",
+        "steel helmet",
+        "soldier"
+      ],
+      "user_rating": 7.2,
+      "votes": 234,
+      "release_year": 1962,
+      "overview": "The retelling of June 6, 1944, from the perspectives of the Germans, US, British, Canadians, and the Free French. Marshall Erwin Rommel, touring the defenses being established as part of the Reich's Atlantic Wall, notes to his officers that when the Allied invasion comes they must be stopped on the beach. \"For the Allies as well as the Germans, it will be the longest day\"",
+      "runtime": 178
+    },
+    {
+      "name": "The Deer Hunter",
+      "size": 50000000,
+      "keywords": [
+        "vietnam veteran",
+        "pennsylvania",
+        "vietnam",
+        "party",
+        "escape",
+        "friend",
+        "viet cong",
+        "pittsburgh steelers"
+      ],
+      "user_rating": 7.8,
+      "votes": 921,
+      "release_year": 1978,
+      "overview": "A group of working-class friends decides to enlist in the Army during the Vietnam War and finds it to be hellish chaos -- not the noble venture they imagined. Before they left, Steven married his pregnant girlfriend -- and Michael and Nick were in love with the same woman. But all three are different men upon their return.",
+      "runtime": 183
+    },
+    {
+      "name": "Brothers",
+      "size": 43318349,
+      "keywords": [
+        "brother brother relationship",
+        "brother-in-law",
+        "loss of husband",
+        "war in afghanistan",
+        "sister-in-law"
+      ],
+      "user_rating": 6.8,
+      "votes": 633,
+      "release_year": 2009,
+      "overview": "When his helicopter goes down during his fourth tour of duty in Afghanistan, Marine Sam Cahill is presumed dead. Back home, brother Tommy  steps in to look over Sam’s wife, Grace, and two children. Sam’s surprise homecoming triggers domestic mayhem.",
+      "runtime": 104
+    },
+    {
+      "name": "The Hurt Locker",
+      "size": 42000000,
+      "keywords": [
+        "sniper",
+        "explosive",
+        "loyalty",
+        "u.s. army",
+        "iraq",
+        "car bomb",
+        "suspense",
+        "tension",
+        "iraq war",
+        "desert",
+        "bomb squad",
+        "body armor",
+        "woman director",
+        "army sergeant"
+      ],
+      "user_rating": 7.2,
+      "votes": 1840,
+      "release_year": 2008,
+      "overview": "Forced to play a dangerous game of cat-and-mouse in the chaos of war, an elite Army bomb squad unit must come together in a city where everyone is a potential enemy and every object could be a deadly bomb.",
+      "runtime": 131
+    },
+    {
+      "name": "Hotel Rwanda",
+      "size": 38000000,
+      "keywords": [
+        "rwanda",
+        "refugee",
+        "refugee camp",
+        "militia",
+        "murder",
+        "slaughter",
+        "dead body",
+        "atrocity",
+        "african",
+        "cruelty",
+        "violence",
+        "united nations",
+        "genocide in rwanda",
+        "death"
+      ],
+      "user_rating": 7.5,
+      "votes": 793,
+      "release_year": 2004,
+      "overview": "Inspired by true events, this film takes place in Rwanda in the 1990s when more than a million Tutsis were killed in a genocide that went mostly unnoticed by the rest of the world. Hotel owner Paul Rusesabagina houses over a thousand refuges in his hotel in attempt to save their lives.",
+      "runtime": 121
+    },
+    {
+      "name": "The Bridge on the River Kwai",
+      "size": 33300000,
+      "keywords": [
+        "japan",
+        "resistance",
+        "japanese",
+        "river",
+        "prisoners of war",
+        "thailand",
+        "bridge",
+        "officer"
+      ],
+      "user_rating": 7.7,
+      "votes": 542,
+      "release_year": 1957,
+      "overview": "The classic story of English POWs in Burma forced to build a bridge to aid the war effort of their Japanese captors. British and American intelligence officers conspire to blow up the structure, but Col. Nicholson , the commander who supervised the bridge's construction, has acquired a sense of pride in his creation and tries to foil their plans.",
+      "runtime": 161
+    },
+    {
+      "name": "Hart's War",
+      "size": 32287044,
+      "keywords": [
+        "black people",
+        "world war ii",
+        "prisoners of war",
+        "u.s. army",
+        "war",
+        "escape",
+        "tribunal",
+        "trial",
+        "soldier",
+        "military tribunal",
+        "xenophobia"
+      ],
+      "user_rating": 5.9,
+      "votes": 241,
+      "release_year": 2002,
+      "overview": "Fourth-generation Army Col. William McNamara is imprisoned in a brutal German POW camp. Still, as the senior-ranking American officer, he commands his fellow inmates, keeping a sense of honor alive in a place where honor is easy to destroy, all under the dangerous eye of the Luftwafe vetran Col. Wilhelm Visser. Never giving up the fight to win the war, McNamara is silently planning, waiting for his moment to strike back at the enemy. A murder in the camp gives him the chance to set a risky plan in motion. With a court martial to keep Visser and the Germans distracted, McNamara orchestrates a cunning scheme to escape and destroy a nearby munitions plant, enlisting the unwitting help of young Lt. Tommy Hart. Together with his men, McNamara uses a hero's resolve to carry out his mission, ultimately forced to weigh the value of his life against the good of his country.",
+      "runtime": 125
+    },
+    {
+      "name": "From Here to Eternity",
+      "size": 30500000,
+      "keywords": [
+        "hawaii",
+        "harassment",
+        "pearl harbor",
+        "bombing",
+        "military life",
+        "army base"
+      ],
+      "user_rating": 7.2,
+      "votes": 133,
+      "release_year": 1953,
+      "overview": "In 1941 Hawaii, a private is cruelly punished for not boxing on his unit's team, while his captain's wife and second in command are falling in love.",
+      "runtime": 118
+    },
+    {
+      "name": "The Four Feathers",
+      "size": 29882645,
+      "keywords": [
+        "islam",
+        "sex",
+        "loyalty",
+        "bravery",
+        "army",
+        "revenge",
+        "honor",
+        "murder",
+        "escape",
+        "soldier",
+        "battle",
+        "church",
+        "violence",
+        "britain",
+        "slave",
+        "colonialism",
+        "military",
+        "imperialism"
+      ],
+      "user_rating": 6.5,
+      "votes": 159,
+      "release_year": 2002,
+      "overview": "The story, set in 1875, follows a British officer (Heath Ledger) who resigns his post when he learns of his regiment's plan to ship out to the Sudan for the conflict with the Mahdi. His friends and fiancée send him four white feathers which symbolize cowardice. To redeem his honor he disguises himself as an Arab and secretly saves the lives of those who branded him a coward.",
+      "runtime": 132
+    },
+    {
+      "name": "Tora! Tora! Tora!",
+      "size": 29548291,
+      "keywords": [
+        "japan",
+        "world war ii",
+        "pearl harbor",
+        "soldier",
+        "imperial japan"
+      ],
+      "user_rating": 6.9,
+      "votes": 147,
+      "release_year": 1970,
+      "overview": "In the summer of 1941, the United States and Japan seem on the brink of war after constant embargos and failed diplomacy come to no end. \"Tora! Tora! Tora!\", named after the code words use by the lead Japanese pilot to indicate they had surprised the Americans, covers the days leading up to the attack on Pearl Harbor, which plunged America into the Second World War.",
+      "runtime": 144
+    },
+    {
+      "name": "Glory",
+      "size": 26828365,
+      "keywords": [
+        "war",
+        "racism",
+        "battle",
+        "union soldier",
+        "confederate soldier",
+        "american civil war"
+      ],
+      "user_rating": 7.4,
+      "votes": 383,
+      "release_year": 1989,
+      "overview": "Robert Gould Shaw leads the US Civil War's first all-black volunteer company, fighting prejudices of both his own Union army and the Confederates.",
+      "runtime": 122
+    },
+    {
+      "name": "Black Book",
+      "size": 26193068,
+      "keywords": [
+        "in love with enemy",
+        "netherlands",
+        "world war ii",
+        "prosecution"
+      ],
+      "user_rating": 7.2,
+      "votes": 277,
+      "release_year": 2006,
+      "overview": "In the Nazi-occupied Netherlands during World War II, a Jewish singer infiltrates the regional Gestapo headquarters for the Dutch resistance.",
+      "runtime": 145
+    },
+    {
+      "name": "The Alamo",
+      "size": 25819961,
+      "keywords": [
+        "texas",
+        "officer",
+        "uprising",
+        "alamo",
+        "mexican"
+      ],
+      "user_rating": 5.8,
+      "votes": 106,
+      "release_year": 2004,
+      "overview": "Based on the 1836 standoff between a group of Texan and Tejano men, led by Davy Crockett and Jim Bowie, and Mexican dictator Santa Anna's forces at the Alamo in San Antonio, Texas.",
+      "runtime": 137
+    },
+    {
+      "name": "The Last Legion",
+      "size": 25303038,
+      "keywords": [
+        "roman empire",
+        "emperor",
+        "ancient rome",
+        "western roman empire",
+        "ancient world",
+        "julius caesar"
+      ],
+      "user_rating": 5,
+      "votes": 207,
+      "release_year": 2007,
+      "overview": "As the Roman empire crumbles, young Romulus Augustus flees the city and embarks on a perilous voyage to Britain to track down a legion of supporters.",
+      "runtime": 102
+    },
+    {
+      "name": "Free State of Jones",
+      "size": 25035950,
+      "keywords": [
+        "slavery",
+        "american civil war"
+      ],
+      "user_rating": 6.6,
+      "votes": 428,
+      "release_year": 2016,
+      "overview": "In 1863, Mississippi farmer Newt Knight serves as a medic for the Confederate Army. Opposed to slavery, Knight would rather help the wounded than fight the Union. After his nephew dies in battle, Newt returns home to Jones County to safeguard his family but is soon branded an outlaw deserter. Forced to flee, he finds refuge with a group of runaway slaves hiding out in the swamps. Forging an alliance with the slaves and other farmers, Knight leads a rebellion that would forever change history.",
+      "runtime": 139
+    },
+    {
+      "name": "Gettysburg",
+      "size": 25000000,
+      "keywords": [
+        "civil war",
+        "independence",
+        "troops",
+        "army",
+        "battle",
+        "union soldier",
+        "confederate soldier",
+        "american civil war"
+      ],
+      "user_rating": 6.6,
+      "votes": 90,
+      "release_year": 1993,
+      "overview": "Summer 1863. The Confederacy pushes north into Pennsylvania. Union divisions converge to face them. The two great armies clash at Gettysburg, site of a theology school. For three days, through such legendary actions as Little Round Top and Pickett's Charge, the fate of \"one nation, indivisible\" hangs in the balance.",
+      "runtime": 254
+    },
+    {
+      "name": "Catch-22",
+      "size": 24911670,
+      "keywords": [
+        "world war ii",
+        "island",
+        "bomber",
+        "pianosa",
+        "american"
+      ],
+      "user_rating": 6.7,
+      "votes": 72,
+      "release_year": 1970,
+      "overview": "A bombardier in World War II tries desperately to escape the insanity of the war. However, sometimes insanity is the only sane way to cope with a crazy situation. Catch-22 is a parody of a \"military mentality\" and of a bureaucratic society in general.",
+      "runtime": 121
+    },
+    {
+      "name": "Renaissance Man",
+      "size": 24332324,
+      "keywords": [
+        "vietnam veteran",
+        "commercial",
+        "advertising expert",
+        "kaserne",
+        "stau",
+        "soldier",
+        "unemployment",
+        "woman director",
+        "teachers and students"
+      ],
+      "user_rating": 5.9,
+      "votes": 81,
+      "release_year": 1994,
+      "overview": "Danny DeVito plays an advertising man who is slowly sliding downhill. When he is fired from his job in Detroit, he signs up for unemployment. One day they find him a job; Teaching thinking skills to Army recruits. He arrives on base to find that there is no structure set up for the class.",
+      "runtime": 128
+    },
+    {
+      "name": "The Wind That Shakes the Barley",
+      "size": 22889018,
+      "keywords": [
+        "london england",
+        "brother brother relationship",
+        "england",
+        "civil war",
+        "resistance",
+        "guerrilla",
+        "irland",
+        "underground",
+        "opression",
+        "traitor",
+        "mercenary",
+        "independence",
+        "british army",
+        "dublin",
+        "irish civil war",
+        "peace",
+        "weapon",
+        "irish republican army",
+        "rural ireland",
+        "colonialism"
+      ],
+      "user_rating": 7.1,
+      "votes": 154,
+      "release_year": 2006,
+      "overview": "Set during the 1920’s Irish revolution against the British, an Irish medical student is about to start his new job in London – but after he witnesses the mercenary atrocities of the British, he decides to join his brother in the IRA to fight for Irish independence.",
+      "runtime": 124
+    },
+    {
+      "name": "The Big Parade",
+      "size": 22000000,
+      "keywords": [
+        "world war i",
+        "silent film"
+      ],
+      "user_rating": 7,
+      "votes": 21,
+      "release_year": 1925,
+      "overview": "The story of an idle rich boy who joins the US Army's Rainbow Division and is sent to France to fight in World War I, becomes friends with two working class men, experiences the horrors of trench warfare, and finds love with a French girl.",
+      "runtime": 151
+    },
+    {
+      "name": "Battlefield Earth",
+      "size": 21400000,
+      "keywords": [
+        "based on novel",
+        "post-apocalyptic",
+        "dystopia",
+        "mining",
+        "fighter jet",
+        "alien invasion",
+        "scientology",
+        "cavemen",
+        "bureaucrat",
+        "city ruin"
+      ],
+      "user_rating": 3,
+      "votes": 255,
+      "release_year": 2000,
+      "overview": "In the year 3000, man is no match for the Psychlos, a greedy, manipulative race of aliens on a quest for ultimate profit. Led by the powerful Terl, the Psychlos are stripping Earth clean of its natural resources, using the broken remnants of humanity as slaves. What is left of the human race has descended into a near primitive state. After being captured, it is up to Tyler to save mankind.",
+      "runtime": 118
+    },
+    {
+      "name": "Tea with Mussolini",
+      "size": 21001563,
+      "keywords": [
+        "italy",
+        "hotel",
+        "loss of mother",
+        "ambassador",
+        "world war ii",
+        "loss of parents",
+        "widow",
+        "benito mussolini",
+        "independent film"
+      ],
+      "user_rating": 5.8,
+      "votes": 32,
+      "release_year": 1999,
+      "overview": "Semi-autobiographical film directed by Franco Zeffirelli, telling the story of young Italian boy Luca's upbringing by a circle of English and American women, before and during World War II.",
+      "runtime": 117
+    },
+    {
+      "name": "The Boy in the Striped Pyjamas",
+      "size": 20416563,
+      "keywords": [
+        "nationalism",
+        "concentration camp",
+        "world war ii",
+        "gas chamber",
+        "nazis",
+        "concentration camp prisoner"
+      ],
+      "user_rating": 7.7,
+      "votes": 1451,
+      "release_year": 2008,
+      "overview": "When his family moves from their home in Berlin to a strange new house in Poland, young Bruno befriends Shmuel, a boy who lives on the other side of the fence where everyone seems to be wearing striped pajamas. Unaware of Shmuel's fate as a Jewish prisoner or the role his own Nazi father plays in his imprisonment, Bruno embarks on a dangerous journey inside the camp's walls.",
+      "runtime": 94
+    },
+    {
+      "name": "Barry Lyndon",
+      "size": 20000000,
+      "keywords": [
+        "palace",
+        "british army",
+        "fencing",
+        "epic",
+        "debt",
+        "ireland",
+        "british soldier",
+        "seven years war",
+        "nobility",
+        "prussia"
+      ],
+      "user_rating": 7.7,
+      "votes": 505,
+      "release_year": 1975,
+      "overview": "In the Eighteenth Century, in a small village in Ireland, Redmond Barry is a young farm boy in love with his cousin Nora Brady. When Nora engages to the British Captain John Quin, Barry challenges him for a duel of pistols. He wins and escapes to Dublin, but is robbed on the road. Without any other alternative, Barry joins the British Army to fight in the Seven Years War.",
+      "runtime": 184
+    },
+    {
+      "name": "Flyboys",
+      "size": 17800000,
+      "keywords": [
+        "world war i",
+        "biplane"
+      ],
+      "user_rating": 6.3,
+      "votes": 271,
+      "release_year": 2006,
+      "overview": "The adventures of the Lafayette Escadrille, young Americans who volunteered for the French military before the U.S. entered World War I, and became the country's first fighter pilots.",
+      "runtime": 140
+    },
+    {
+      "name": "Joyeux Noël",
+      "size": 17709155,
+      "keywords": [
+        "holiday",
+        "world war i",
+        "hostility",
+        "singer",
+        "singing",
+        "christmas"
+      ],
+      "user_rating": 7.2,
+      "votes": 212,
+      "release_year": 2005,
+      "overview": "In 1914, World War I, the bloodiest war ever at that time in human history, was well under way. However on Christmas Eve, numerous sections of the Western Front called an informal, and unauthorized, truce where the various front-line soldiers of the conflict peacefully met each other in No Man's Land to share a precious pause in the carnage with a fleeting brotherhood.",
+      "runtime": 116
+    },
+    {
+      "name": "Sarah's Key",
+      "size": 17511906,
+      "keywords": [],
+      "user_rating": 7.2,
+      "votes": 196,
+      "release_year": 2010,
+      "overview": "On the night of 16 July 1942, ten year old Sarah and her parents are being arrested and transported to the Velodrome d'Hiver in Paris where thousands of other jews are being send to get deported. Sarah however managed to lock her little brother in a closed just before the police entered their appartment.Sixty years later, Julia Jarmond, an American journalist in Paris, gets the assignment to write an article about this raid, a black page in the history of France. She starts digging archives and through Sarah's file discovers a well kept secret about her own in-laws.",
+      "runtime": 111
+    },
+    {
+      "name": "The Water Diviner",
+      "size": 15520023,
+      "keywords": [
+        "istanbul",
+        "australia",
+        "post world war i",
+        "farmer",
+        "missing in action",
+        "missing son",
+        "gallipoli campaign",
+        "inspired by true events"
+      ],
+      "user_rating": 6.8,
+      "votes": 431,
+      "release_year": 2014,
+      "overview": "In 1919, Australian farmer Joshua Connor travels to Turkey to discover the fate of his three sons, reported missing in action. Holding on to hope, Joshua must travel across the war-torn landscape to find the truth and his own peace.",
+      "runtime": 112
+    },
+    {
+      "name": "The Horseman on the Roof",
+      "size": 15000000,
+      "keywords": [
+        "italian",
+        "new love",
+        "provence",
+        "horse",
+        "exile"
+      ],
+      "user_rating": 6.7,
+      "votes": 25,
+      "release_year": 1995,
+      "overview": "In a time of war and disease, a young officer gallantly tries to help a young woman find her husband.",
+      "runtime": 135
+    },
+    {
+      "name": "Soldier",
+      "size": 14567883,
+      "keywords": [
+        "space marine",
+        "dystopia",
+        "alien planet",
+        "genetic engineering"
+      ],
+      "user_rating": 6.1,
+      "votes": 221,
+      "release_year": 1998,
+      "overview": "Sergeant Todd is a veteran soldier for an elite group of the armed forces. After being defeated by a new breed of genetically engineered soldiers, he is dumped on a waste planet and left for dead. He soon interacts with a group of crash survivors who lead out a peaceful existence. The peace is broken as the new soldiers land on the planet to eliminate the colony, which Sergeant Todd must defend.",
+      "runtime": 99
+    },
+    {
+      "name": "Gods and Generals",
+      "size": 12923936,
+      "keywords": [
+        "war",
+        "battle",
+        "union soldier",
+        "confederate soldier",
+        "american civil war",
+        "secession"
+      ],
+      "user_rating": 6.1,
+      "votes": 48,
+      "release_year": 2003,
+      "overview": "The film centers mostly around the personal and professional life of Thomas \"Stonewall\" Jackson, a brilliant if eccentric Confederate general, from the outbreak of the American Civil War until its halfway point when Jackson is killed accidentally by his own soldiers in May 1863 during his greatest victory.",
+      "runtime": 214
+    },
+    {
+      "name": "Solomon and Sheba",
+      "size": 12200000,
+      "keywords": [
+        "israel",
+        "egypt",
+        "religion and supernatural",
+        "epic"
+      ],
+      "user_rating": 5.4,
+      "votes": 8,
+      "release_year": 1959,
+      "overview": "Under the rule of King David, Israel is united and prosperous although surrounded by enemies including Egypt and its allies. The aging King David favors his younger son, Solomon, as his successor, but David's  elder son Prince Adonijah, a warrior, declares himself King. When David learns of this, he publicly announces Solomon to be his successor. Adonijah and Joab, his general, withdraw in rage. Israel prospers under King Solomon's wise and benevolent rule and is seen as a threat to more tyrannical monarchs in the region. The Pharaoh of Egypt agrees to cede a Red Sea port to the Queen of Sheba in a plot to undermine Solomon's rule. Sheba is to seduce Solomon and introduce Sheban pagan worship into Jerusalem. Meanwhile, Prince Adonijah, now banished, also conspires with Pharaoh and is given an army to defeat Solomon. The film is a highly fictionalized dramatization of events depicted in The Bible -- First Kings chapter 10 and Second Chronicles chapter 9.",
+      "runtime": 139
+    },
+    {
+      "name": "The Great Escape",
+      "size": 11744471,
+      "keywords": [
+        "based on novel",
+        "optimism",
+        "switzerland",
+        "baseball",
+        "famous score",
+        "prisoner",
+        "shower",
+        "world war ii",
+        "prisoners of war",
+        "claustrophobia",
+        "nazis",
+        "machinegun",
+        "attempt to escape",
+        "uniform",
+        "freedom",
+        "based on true story",
+        "prison guard",
+        "escape",
+        "swastika",
+        "barbed wire",
+        "solitary confinement",
+        "motorcycle",
+        "motorcycle jump",
+        "alps"
+      ],
+      "user_rating": 7.8,
+      "votes": 717,
+      "release_year": 1963,
+      "overview": "The Nazis, exasperated at the number of escapes from their prison camps by a relatively small number of Allied prisoners, relocates them to a high-security 'escape-proof' camp to sit out the remainder of the war. Undaunted, the prisoners plan one of the most ambitious escape attempts of World War II. Based on a true story.",
+      "runtime": 172
+    },
+    {
+      "name": "Stop-Loss",
+      "size": 11207130,
+      "keywords": [
+        "post traumatic stress  disorder",
+        "iraq war veteran",
+        "u.s. soldier",
+        "woman director"
+      ],
+      "user_rating": 6.1,
+      "votes": 82,
+      "release_year": 2008,
+      "overview": "A veteran soldier returns from his completed tour of duty in Iraq, only to find his life turned upside down when he is arbitrarily ordered to return to field duty by the Army.",
+      "runtime": 113
+    },
+    {
+      "name": "Waltz with Bashir",
+      "size": 11125849,
+      "keywords": [
+        "israel",
+        "palestine",
+        "middle east",
+        "lebanon",
+        "nightmare",
+        "middle east conflict"
+      ],
+      "user_rating": 7.8,
+      "votes": 291,
+      "release_year": 2008,
+      "overview": "Much awarded animated documentary, in which director and Israeli army veteran Ari Folman interviews friends and former soldiers about their memories of  the 1982 Lebanon war and especially the Sabra and Shatila massacre in Beirut. The usage on animation enabled Folman to illustrate their personal memories and dreams.",
+      "runtime": 90
+    },
+    {
+      "name": "City of Life and Death",
+      "size": 10652498,
+      "keywords": [
+        "war crimes",
+        "mass murder",
+        "war victim",
+        "sino japanese war",
+        "massacre",
+        "japanese army",
+        "duringcreditsstinger",
+        "imperial japan"
+      ],
+      "user_rating": 7.6,
+      "votes": 55,
+      "release_year": 2009,
+      "overview": "City of Life and Death takes place in 1937, during the height of the Second Sino-Japanese War. The Imperial Japanese Army has just captured the then-capital of the Republic of China, Nanjing. What followed was known as the Nanking Massacre, or the Rape of Nanking, a period of several weeks wherein tens of thousands of Chinese soldiers and civilians were killed.",
+      "runtime": 132
+    },
+    {
+      "name": "The Great Raid",
+      "size": 10166502,
+      "keywords": [
+        "based on novel",
+        "world war ii",
+        "prisoners of war",
+        "narration",
+        "archive footage",
+        "rescue mission",
+        "soldier",
+        "1940s",
+        "inspired by true events",
+        "fictionalized history"
+      ],
+      "user_rating": 6.8,
+      "votes": 91,
+      "release_year": 2005,
+      "overview": "As World War II rages, the elite Sixth Ranger Battalion is given a mission of heroic proportions: push 30 miles behind enemy lines and liberate over 500 American prisoners of war.",
+      "runtime": 132
+    },
+    {
+      "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "size": 9440272,
+      "keywords": [
+        "usa president",
+        "general",
+        "cold war",
+        "strategic air command",
+        "nuclear missile",
+        "war room",
+        "bomber pilot",
+        "nuclear weapons",
+        "ex nazi",
+        "doomsday device",
+        "absurdism"
+      ],
+      "user_rating": 8,
+      "votes": 1442,
+      "release_year": 1964,
+      "overview": "Insane General Jack D. Ripper initiates a nuclear strike on the Soviet Union. As soon as the actions of General \"Buck\" Turgidson are discovered, a war room full of politicians, generals and a Russian diplomat all frantically try to stop the nuclear strike. Near the end is a scene that is probably the most uniquely unforgettable performance of Slim Pickens in his movie career. Peter Sellers plays multiple roles in this film.",
+      "runtime": 95
+    }
+  ],
+  "links": [
+    {
+      "source": "American Sniper",
+      "target": "The Hurt Locker",
+      "value": 2
+    },
+    {
+      "source": "Saving Private Ryan",
+      "target": "The Last Samurai",
+      "value": 2
+    },
+    {
+      "source": "Saving Private Ryan",
+      "target": "Pearl Harbor",
+      "value": 3
+    },
+    {
+      "source": "Saving Private Ryan",
+      "target": "Inglourious Basterds",
+      "value": 2
+    },
+    {
+      "source": "Saving Private Ryan",
+      "target": "The English Patient",
+      "value": 2
+    },
+    {
+      "source": "Saving Private Ryan",
+      "target": "The Pianist",
+      "value": 2
+    },
+    {
+      "source": "Saving Private Ryan",
+      "target": "Behind Enemy Lines",
+      "value": 2
+    },
+    {
+      "source": "Saving Private Ryan",
+      "target": "Patton",
+      "value": 2
+    },
+    {
+      "source": "Saving Private Ryan",
+      "target": "The Longest Day",
+      "value": 2
+    },
+    {
+      "source": "Saving Private Ryan",
+      "target": "The Four Feathers",
+      "value": 3
+    },
+    {
+      "source": "Saving Private Ryan",
+      "target": "Gettysburg",
+      "value": 2
+    },
+    {
+      "source": "Saving Private Ryan",
+      "target": "The Great Raid",
+      "value": 2
+    },
+    {
+      "source": "The Last Samurai",
+      "target": "The Patriot",
+      "value": 2
+    },
+    {
+      "source": "The Last Samurai",
+      "target": "The Pianist",
+      "value": 2
+    },
+    {
+      "source": "The Last Samurai",
+      "target": "Tora! Tora! Tora!",
+      "value": 2
+    },
+    {
+      "source": "The Last Samurai",
+      "target": "City of Life and Death",
+      "value": 2
+    },
+    {
+      "source": "Pearl Harbor",
+      "target": "Top Gun",
+      "value": 2
+    },
+    {
+      "source": "Pearl Harbor",
+      "target": "The English Patient",
+      "value": 2
+    },
+    {
+      "source": "Pearl Harbor",
+      "target": "Fury",
+      "value": 2
+    },
+    {
+      "source": "Pearl Harbor",
+      "target": "Unbroken",
+      "value": 2
+    },
+    {
+      "source": "Pearl Harbor",
+      "target": "Dear John",
+      "value": 2
+    },
+    {
+      "source": "Pearl Harbor",
+      "target": "Pan's Labyrinth",
+      "value": 2
+    },
+    {
+      "source": "Pearl Harbor",
+      "target": "Hart's War",
+      "value": 2
+    },
+    {
+      "source": "Pearl Harbor",
+      "target": "From Here to Eternity",
+      "value": 2
+    },
+    {
+      "source": "Pearl Harbor",
+      "target": "Tora! Tora! Tora!",
+      "value": 2
+    },
+    {
+      "source": "Top Gun",
+      "target": "The English Patient",
+      "value": 2
+    },
+    {
+      "source": "Schindler's List",
+      "target": "Inglourious Basterds",
+      "value": 2
+    },
+    {
+      "source": "Schindler's List",
+      "target": "The Imitation Game",
+      "value": 2
+    },
+    {
+      "source": "Schindler's List",
+      "target": "Fury",
+      "value": 2
+    },
+    {
+      "source": "Schindler's List",
+      "target": "Unbroken",
+      "value": 2
+    },
+    {
+      "source": "Schindler's List",
+      "target": "The Monuments Men",
+      "value": 2
+    },
+    {
+      "source": "Schindler's List",
+      "target": "The Pianist",
+      "value": 3
+    },
+    {
+      "source": "Schindler's List",
+      "target": "Patton",
+      "value": 2
+    },
+    {
+      "source": "Schindler's List",
+      "target": "The Boy in the Striped Pyjamas",
+      "value": 3
+    },
+    {
+      "source": "Schindler's List",
+      "target": "The Great Escape",
+      "value": 2
+    },
+    {
+      "source": "Inglourious Basterds",
+      "target": "Fury",
+      "value": 2
+    },
+    {
+      "source": "Inglourious Basterds",
+      "target": "Valkyrie",
+      "value": 2
+    },
+    {
+      "source": "Inglourious Basterds",
+      "target": "The Monuments Men",
+      "value": 2
+    },
+    {
+      "source": "Inglourious Basterds",
+      "target": "The Pianist",
+      "value": 3
+    },
+    {
+      "source": "Inglourious Basterds",
+      "target": "The Boy in the Striped Pyjamas",
+      "value": 2
+    },
+    {
+      "source": "Inglourious Basterds",
+      "target": "The Great Escape",
+      "value": 3
+    },
+    {
+      "source": "Rambo: First Blood Part II",
+      "target": "Rambo III",
+      "value": 3
+    },
+    {
+      "source": "Rambo: First Blood Part II",
+      "target": "Unbroken",
+      "value": 2
+    },
+    {
+      "source": "Rambo: First Blood Part II",
+      "target": "Born on the Fourth of July",
+      "value": 2
+    },
+    {
+      "source": "Rambo: First Blood Part II",
+      "target": "Platoon",
+      "value": 2
+    },
+    {
+      "source": "Rambo: First Blood Part II",
+      "target": "First Blood",
+      "value": 4
+    },
+    {
+      "source": "Rambo: First Blood Part II",
+      "target": "The Pianist",
+      "value": 2
+    },
+    {
+      "source": "Rambo: First Blood Part II",
+      "target": "We Were Soldiers",
+      "value": 3
+    },
+    {
+      "source": "Rambo: First Blood Part II",
+      "target": "The Thin Red Line",
+      "value": 2
+    },
+    {
+      "source": "Rambo: First Blood Part II",
+      "target": "The Deer Hunter",
+      "value": 2
+    },
+    {
+      "source": "Rambo: First Blood Part II",
+      "target": "Hart's War",
+      "value": 4
+    },
+    {
+      "source": "Rambo: First Blood Part II",
+      "target": "The Four Feathers",
+      "value": 2
+    },
+    {
+      "source": "Rambo: First Blood Part II",
+      "target": "Renaissance Man",
+      "value": 2
+    },
+    {
+      "source": "Rambo: First Blood Part II",
+      "target": "The Great Escape",
+      "value": 3
+    },
+    {
+      "source": "Rambo: First Blood Part II",
+      "target": "The Great Raid",
+      "value": 2
+    },
+    {
+      "source": "The Imitation Game",
+      "target": "Unbroken",
+      "value": 2
+    },
+    {
+      "source": "The Imitation Game",
+      "target": "The Pianist",
+      "value": 2
+    },
+    {
+      "source": "The Imitation Game",
+      "target": "Patton",
+      "value": 2
+    },
+    {
+      "source": "The English Patient",
+      "target": "Unbroken",
+      "value": 2
+    },
+    {
+      "source": "The English Patient",
+      "target": "The Pianist",
+      "value": 2
+    },
+    {
+      "source": "The English Patient",
+      "target": "Downfall",
+      "value": 2
+    },
+    {
+      "source": "The English Patient",
+      "target": "Letters from Iwo Jima",
+      "value": 2
+    },
+    {
+      "source": "The English Patient",
+      "target": "Hart's War",
+      "value": 2
+    },
+    {
+      "source": "The English Patient",
+      "target": "The Great Escape",
+      "value": 2
+    },
+    {
+      "source": "The English Patient",
+      "target": "The Great Raid",
+      "value": 2
+    },
+    {
+      "source": "The Patriot",
+      "target": "Doctor Zhivago",
+      "value": 2
+    },
+    {
+      "source": "Fury",
+      "target": "Unbroken",
+      "value": 2
+    },
+    {
+      "source": "Fury",
+      "target": "The Monuments Men",
+      "value": 2
+    },
+    {
+      "source": "Fury",
+      "target": "The Pianist",
+      "value": 3
+    },
+    {
+      "source": "Fury",
+      "target": "Patton",
+      "value": 2
+    },
+    {
+      "source": "Fury",
+      "target": "A Bridge Too Far",
+      "value": 2
+    },
+    {
+      "source": "Fury",
+      "target": "Hart's War",
+      "value": 2
+    },
+    {
+      "source": "Fury",
+      "target": "The Boy in the Striped Pyjamas",
+      "value": 2
+    },
+    {
+      "source": "Fury",
+      "target": "The Great Escape",
+      "value": 2
+    },
+    {
+      "source": "Valkyrie",
+      "target": "The Pianist",
+      "value": 2
+    },
+    {
+      "source": "Valkyrie",
+      "target": "Downfall",
+      "value": 3
+    },
+    {
+      "source": "War Horse",
+      "target": "Lawrence of Arabia",
+      "value": 2
+    },
+    {
+      "source": "Unbroken",
+      "target": "The Pianist",
+      "value": 3
+    },
+    {
+      "source": "Unbroken",
+      "target": "Patton",
+      "value": 2
+    },
+    {
+      "source": "Unbroken",
+      "target": "Hart's War",
+      "value": 3
+    },
+    {
+      "source": "Unbroken",
+      "target": "The Great Escape",
+      "value": 2
+    },
+    {
+      "source": "Unbroken",
+      "target": "The Great Raid",
+      "value": 2
+    },
+    {
+      "source": "Born on the Fourth of July",
+      "target": "Platoon",
+      "value": 2
+    },
+    {
+      "source": "Born on the Fourth of July",
+      "target": "First Blood",
+      "value": 2
+    },
+    {
+      "source": "Born on the Fourth of July",
+      "target": "We Were Soldiers",
+      "value": 2
+    },
+    {
+      "source": "The Monuments Men",
+      "target": "The Pianist",
+      "value": 2
+    },
+    {
+      "source": "The Monuments Men",
+      "target": "The Boy in the Striped Pyjamas",
+      "value": 2
+    },
+    {
+      "source": "The Monuments Men",
+      "target": "The Great Escape",
+      "value": 2
+    },
+    {
+      "source": "Platoon",
+      "target": "We Were Soldiers",
+      "value": 3
+    },
+    {
+      "source": "Platoon",
+      "target": "The Thin Red Line",
+      "value": 3
+    },
+    {
+      "source": "Platoon",
+      "target": "The Four Feathers",
+      "value": 2
+    },
+    {
+      "source": "U-571",
+      "target": "Das Boot",
+      "value": 2
+    },
+    {
+      "source": "First Blood",
+      "target": "Good Morning, Vietnam",
+      "value": 2
+    },
+    {
+      "source": "First Blood",
+      "target": "We Were Soldiers",
+      "value": 2
+    },
+    {
+      "source": "First Blood",
+      "target": "Downfall",
+      "value": 2
+    },
+    {
+      "source": "First Blood",
+      "target": "Apocalypse Now",
+      "value": 2
+    },
+    {
+      "source": "First Blood",
+      "target": "The Deer Hunter",
+      "value": 3
+    },
+    {
+      "source": "First Blood",
+      "target": "The Wind That Shakes the Barley",
+      "value": 2
+    },
+    {
+      "source": "First Blood",
+      "target": "The Great Escape",
+      "value": 2
+    },
+    {
+      "source": "Good Morning, Vietnam",
+      "target": "The Pianist",
+      "value": 2
+    },
+    {
+      "source": "The Pianist",
+      "target": "Patton",
+      "value": 2
+    },
+    {
+      "source": "The Pianist",
+      "target": "A Bridge Too Far",
+      "value": 2
+    },
+    {
+      "source": "The Pianist",
+      "target": "The Bridge on the River Kwai",
+      "value": 2
+    },
+    {
+      "source": "The Pianist",
+      "target": "Hart's War",
+      "value": 2
+    },
+    {
+      "source": "The Pianist",
+      "target": "The Boy in the Striped Pyjamas",
+      "value": 2
+    },
+    {
+      "source": "The Pianist",
+      "target": "The Great Escape",
+      "value": 3
+    },
+    {
+      "source": "The Pianist",
+      "target": "The Great Raid",
+      "value": 2
+    },
+    {
+      "source": "Dear John",
+      "target": "Pan's Labyrinth",
+      "value": 2
+    },
+    {
+      "source": "We Were Soldiers",
+      "target": "The Thin Red Line",
+      "value": 3
+    },
+    {
+      "source": "We Were Soldiers",
+      "target": "Apocalypse Now",
+      "value": 2
+    },
+    {
+      "source": "We Were Soldiers",
+      "target": "13 Hours: The Secret Soldiers of Benghazi",
+      "value": 3
+    },
+    {
+      "source": "We Were Soldiers",
+      "target": "The Longest Day",
+      "value": 2
+    },
+    {
+      "source": "We Were Soldiers",
+      "target": "The Four Feathers",
+      "value": 3
+    },
+    {
+      "source": "We Were Soldiers",
+      "target": "Gettysburg",
+      "value": 2
+    },
+    {
+      "source": "We Were Soldiers",
+      "target": "Renaissance Man",
+      "value": 2
+    },
+    {
+      "source": "Courage Under Fire",
+      "target": "Patton",
+      "value": 2
+    },
+    {
+      "source": "The Thin Red Line",
+      "target": "Patton",
+      "value": 2
+    },
+    {
+      "source": "The Thin Red Line",
+      "target": "Das Boot",
+      "value": 2
+    },
+    {
+      "source": "The Thin Red Line",
+      "target": "Windtalkers",
+      "value": 3
+    },
+    {
+      "source": "The Thin Red Line",
+      "target": "Flags of Our Fathers",
+      "value": 2
+    },
+    {
+      "source": "The Thin Red Line",
+      "target": "The Longest Day",
+      "value": 3
+    },
+    {
+      "source": "The Thin Red Line",
+      "target": "Hart's War",
+      "value": 3
+    },
+    {
+      "source": "The Thin Red Line",
+      "target": "The Four Feathers",
+      "value": 2
+    },
+    {
+      "source": "The Thin Red Line",
+      "target": "Tora! Tora! Tora!",
+      "value": 2
+    },
+    {
+      "source": "The Thin Red Line",
+      "target": "The Great Escape",
+      "value": 2
+    },
+    {
+      "source": "The Thin Red Line",
+      "target": "The Great Raid",
+      "value": 3
+    },
+    {
+      "source": "Downfall",
+      "target": "Patton",
+      "value": 2
+    },
+    {
+      "source": "Downfall",
+      "target": "Letters from Iwo Jima",
+      "value": 2
+    },
+    {
+      "source": "Downfall",
+      "target": "Flags of Our Fathers",
+      "value": 2
+    },
+    {
+      "source": "Behind Enemy Lines",
+      "target": "The Four Feathers",
+      "value": 2
+    },
+    {
+      "source": "Patton",
+      "target": "The Longest Day",
+      "value": 3
+    },
+    {
+      "source": "Das Boot",
+      "target": "The Great Escape",
+      "value": 2
+    },
+    {
+      "source": "Das Boot",
+      "target": "The Great Raid",
+      "value": 2
+    },
+    {
+      "source": "Windtalkers",
+      "target": "Hart's War",
+      "value": 2
+    },
+    {
+      "source": "Windtalkers",
+      "target": "Tora! Tora! Tora!",
+      "value": 2
+    },
+    {
+      "source": "13 Hours: The Secret Soldiers of Benghazi",
+      "target": "The Great Escape",
+      "value": 2
+    },
+    {
+      "source": "Letters from Iwo Jima",
+      "target": "Flags of Our Fathers",
+      "value": 2
+    },
+    {
+      "source": "Letters from Iwo Jima",
+      "target": "Tora! Tora! Tora!",
+      "value": 2
+    },
+    {
+      "source": "Letters from Iwo Jima",
+      "target": "City of Life and Death",
+      "value": 2
+    },
+    {
+      "source": "A Bridge Too Far",
+      "target": "Black Book",
+      "value": 2
+    },
+    {
+      "source": "The Longest Day",
+      "target": "Hart's War",
+      "value": 2
+    },
+    {
+      "source": "The Longest Day",
+      "target": "Tora! Tora! Tora!",
+      "value": 2
+    },
+    {
+      "source": "The Longest Day",
+      "target": "The Great Raid",
+      "value": 2
+    },
+    {
+      "source": "Hotel Rwanda",
+      "target": "The Four Feathers",
+      "value": 2
+    },
+    {
+      "source": "Hart's War",
+      "target": "The Four Feathers",
+      "value": 2
+    },
+    {
+      "source": "Hart's War",
+      "target": "Tora! Tora! Tora!",
+      "value": 2
+    },
+    {
+      "source": "Hart's War",
+      "target": "The Great Escape",
+      "value": 3
+    },
+    {
+      "source": "Hart's War",
+      "target": "The Great Raid",
+      "value": 3
+    },
+    {
+      "source": "The Four Feathers",
+      "target": "Gettysburg",
+      "value": 2
+    },
+    {
+      "source": "Tora! Tora! Tora!",
+      "target": "The Great Raid",
+      "value": 2
+    },
+    {
+      "source": "Glory",
+      "target": "Gettysburg",
+      "value": 4
+    },
+    {
+      "source": "Glory",
+      "target": "Gods and Generals",
+      "value": 5
+    },
+    {
+      "source": "Gettysburg",
+      "target": "The Wind That Shakes the Barley",
+      "value": 2
+    },
+    {
+      "source": "Gettysburg",
+      "target": "Gods and Generals",
+      "value": 4
+    },
+    {
+      "source": "The Boy in the Striped Pyjamas",
+      "target": "The Great Escape",
+      "value": 2
+    },
+    {
+      "source": "The Great Escape",
+      "target": "The Great Raid",
+      "value": 3
+    }
+  ]
+}

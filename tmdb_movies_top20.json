@@ -1,0 +1,1369 @@
+{
+  "name": "Genres",
+  "children": [
+    {
+      "name": "Action",
+      "children": [
+        {
+          "name": "Avatar",
+          "size": 2787965087
+        },
+        {
+          "name": "The Avengers",
+          "size": 1519557910
+        },
+        {
+          "name": "Jurassic World",
+          "size": 1513528810
+        },
+        {
+          "name": "Furious 7",
+          "size": 1506249360
+        },
+        {
+          "name": "Avengers: Age of Ultron",
+          "size": 1405403694
+        },
+        {
+          "name": "Iron Man 3",
+          "size": 1215439994
+        },
+        {
+          "name": "Captain America: Civil War",
+          "size": 1153304495
+        },
+        {
+          "name": "Transformers: Dark of the Moon",
+          "size": 1123746996
+        },
+        {
+          "name": "The Lord of the Rings: The Return of the King",
+          "size": 1118888979
+        },
+        {
+          "name": "Skyfall",
+          "size": 1108561013
+        },
+        {
+          "name": "Transformers: Age of Extinction",
+          "size": 1091405097
+        },
+        {
+          "name": "The Dark Knight Rises",
+          "size": 1084939099
+        },
+        {
+          "name": "Pirates of the Caribbean: Dead Man's Chest",
+          "size": 1065659812
+        },
+        {
+          "name": "Pirates of the Caribbean: On Stranger Tides",
+          "size": 1045713802
+        },
+        {
+          "name": "The Hobbit: An Unexpected Journey",
+          "size": 1021103568
+        },
+        {
+          "name": "The Dark Knight",
+          "size": 1004558444
+        },
+        {
+          "name": "Pirates of the Caribbean: At World's End",
+          "size": 961000000
+        },
+        {
+          "name": "The Hobbit: The Battle of the Five Armies",
+          "size": 956019788
+        },
+        {
+          "name": "The Lord of the Rings: The Two Towers",
+          "size": 926287400
+        },
+        {
+          "name": "Star Wars: Episode I - The Phantom Menace",
+          "size": 924317558
+        }
+      ]
+    },
+    {
+      "name": "Adventure",
+      "children": [
+        {
+          "name": "Avatar",
+          "size": 2787965087
+        },
+        {
+          "name": "The Avengers",
+          "size": 1519557910
+        },
+        {
+          "name": "Jurassic World",
+          "size": 1513528810
+        },
+        {
+          "name": "Avengers: Age of Ultron",
+          "size": 1405403694
+        },
+        {
+          "name": "Frozen",
+          "size": 1274219009
+        },
+        {
+          "name": "Iron Man 3",
+          "size": 1215439994
+        },
+        {
+          "name": "Minions",
+          "size": 1156730962
+        },
+        {
+          "name": "Captain America: Civil War",
+          "size": 1153304495
+        },
+        {
+          "name": "Transformers: Dark of the Moon",
+          "size": 1123746996
+        },
+        {
+          "name": "The Lord of the Rings: The Return of the King",
+          "size": 1118888979
+        },
+        {
+          "name": "Skyfall",
+          "size": 1108561013
+        },
+        {
+          "name": "Transformers: Age of Extinction",
+          "size": 1091405097
+        },
+        {
+          "name": "Pirates of the Caribbean: Dead Man's Chest",
+          "size": 1065659812
+        },
+        {
+          "name": "Pirates of the Caribbean: On Stranger Tides",
+          "size": 1045713802
+        },
+        {
+          "name": "Alice in Wonderland",
+          "size": 1025491110
+        },
+        {
+          "name": "The Hobbit: An Unexpected Journey",
+          "size": 1021103568
+        },
+        {
+          "name": "Harry Potter and the Philosopher's Stone",
+          "size": 976475550
+        },
+        {
+          "name": "The Jungle Book",
+          "size": 966550600
+        },
+        {
+          "name": "Pirates of the Caribbean: At World's End",
+          "size": 961000000
+        },
+        {
+          "name": "The Hobbit: The Desolation of Smaug",
+          "size": 958400000
+        }
+      ]
+    },
+    {
+      "name": "Fantasy",
+      "children": [
+        {
+          "name": "Avatar",
+          "size": 2787965087
+        },
+        {
+          "name": "The Lord of the Rings: The Return of the King",
+          "size": 1118888979
+        },
+        {
+          "name": "Pirates of the Caribbean: Dead Man's Chest",
+          "size": 1065659812
+        },
+        {
+          "name": "Pirates of the Caribbean: On Stranger Tides",
+          "size": 1045713802
+        },
+        {
+          "name": "Alice in Wonderland",
+          "size": 1025491110
+        },
+        {
+          "name": "The Hobbit: An Unexpected Journey",
+          "size": 1021103568
+        },
+        {
+          "name": "Harry Potter and the Philosopher's Stone",
+          "size": 976475550
+        },
+        {
+          "name": "The Jungle Book",
+          "size": 966550600
+        },
+        {
+          "name": "Pirates of the Caribbean: At World's End",
+          "size": 961000000
+        },
+        {
+          "name": "The Hobbit: The Desolation of Smaug",
+          "size": 958400000
+        },
+        {
+          "name": "The Hobbit: The Battle of the Five Armies",
+          "size": 956019788
+        },
+        {
+          "name": "Harry Potter and the Order of the Phoenix",
+          "size": 938212738
+        },
+        {
+          "name": "Harry Potter and the Half-Blood Prince",
+          "size": 933959197
+        },
+        {
+          "name": "The Lord of the Rings: The Two Towers",
+          "size": 926287400
+        },
+        {
+          "name": "Shrek 2",
+          "size": 919838758
+        },
+        {
+          "name": "Harry Potter and the Goblet of Fire",
+          "size": 895921036
+        },
+        {
+          "name": "Spider-Man 3",
+          "size": 890871626
+        },
+        {
+          "name": "Harry Potter and the Chamber of Secrets",
+          "size": 876688482
+        },
+        {
+          "name": "Batman v Superman: Dawn of Justice",
+          "size": 873260194
+        },
+        {
+          "name": "The Lord of the Rings: The Fellowship of the Ring",
+          "size": 871368364
+        }
+      ]
+    },
+    {
+      "name": "Science Fiction",
+      "children": [
+        {
+          "name": "Avatar",
+          "size": 2787965087
+        },
+        {
+          "name": "The Avengers",
+          "size": 1519557910
+        },
+        {
+          "name": "Jurassic World",
+          "size": 1513528810
+        },
+        {
+          "name": "Avengers: Age of Ultron",
+          "size": 1405403694
+        },
+        {
+          "name": "Iron Man 3",
+          "size": 1215439994
+        },
+        {
+          "name": "Captain America: Civil War",
+          "size": 1153304495
+        },
+        {
+          "name": "Transformers: Dark of the Moon",
+          "size": 1123746996
+        },
+        {
+          "name": "Transformers: Age of Extinction",
+          "size": 1091405097
+        },
+        {
+          "name": "Star Wars: Episode I - The Phantom Menace",
+          "size": 924317558
+        },
+        {
+          "name": "Jurassic Park",
+          "size": 920100000
+        },
+        {
+          "name": "Star Wars: Episode III - Revenge of the Sith",
+          "size": 850000000
+        },
+        {
+          "name": "The Hunger Games: Catching Fire",
+          "size": 847423452
+        },
+        {
+          "name": "Transformers: Revenge of the Fallen",
+          "size": 836297228
+        },
+        {
+          "name": "Inception",
+          "size": 825532764
+        },
+        {
+          "name": "Independence Day",
+          "size": 816969268
+        },
+        {
+          "name": "E.T. the Extra-Terrestrial",
+          "size": 792910554
+        },
+        {
+          "name": "Star Wars",
+          "size": 775398007
+        },
+        {
+          "name": "Guardians of the Galaxy",
+          "size": 773328629
+        },
+        {
+          "name": "2012",
+          "size": 769653595
+        },
+        {
+          "name": "The Hunger Games: Mockingjay - Part 1",
+          "size": 752100229
+        },
+        {
+          "name": "X-Men: Days of Future Past",
+          "size": 747862775
+        }
+      ]
+    },
+    {
+      "name": "Crime",
+      "children": [
+        {
+          "name": "The Dark Knight Rises",
+          "size": 1084939099
+        },
+        {
+          "name": "The Dark Knight",
+          "size": 1004558444
+        },
+        {
+          "name": "Spectre",
+          "size": 880674609
+        },
+        {
+          "name": "Suicide Squad",
+          "size": 745000000
+        },
+        {
+          "name": "Fast Five",
+          "size": 626137675
+        },
+        {
+          "name": "Quantum of Solace",
+          "size": 586090727
+        },
+        {
+          "name": "Sherlock Holmes",
+          "size": 524028679
+        },
+        {
+          "name": "Ocean's Eleven",
+          "size": 450717150
+        },
+        {
+          "name": "The Wolf of Wall Street",
+          "size": 392000694
+        },
+        {
+          "name": "Taken 2",
+          "size": 376141306
+        },
+        {
+          "name": "Batman Begins",
+          "size": 374218673
+        },
+        {
+          "name": "The Fugitive",
+          "size": 368875760
+        },
+        {
+          "name": "Ocean's Twelve",
+          "size": 362744280
+        },
+        {
+          "name": "Home Alone 2: Lost in New York",
+          "size": 358991681
+        },
+        {
+          "name": "Catch Me If You Can",
+          "size": 352114312
+        },
+        {
+          "name": "The Mask",
+          "size": 351583407
+        },
+        {
+          "name": "Speed",
+          "size": 350448145
+        },
+        {
+          "name": "Rush Hour 2",
+          "size": 347325802
+        },
+        {
+          "name": "Batman Forever",
+          "size": 336529144
+        },
+        {
+          "name": "Now You See Me 2",
+          "size": 334901337
+        }
+      ]
+    },
+    {
+      "name": "Drama",
+      "children": [
+        {
+          "name": "Titanic",
+          "size": 1845034188
+        },
+        {
+          "name": "The Dark Knight Rises",
+          "size": 1084939099
+        },
+        {
+          "name": "The Dark Knight",
+          "size": 1004558444
+        },
+        {
+          "name": "The Jungle Book",
+          "size": 966550600
+        },
+        {
+          "name": "Inside Out",
+          "size": 857611174
+        },
+        {
+          "name": "The Twilight Saga: Breaking Dawn - Part 2",
+          "size": 829000000
+        },
+        {
+          "name": "The Lion King",
+          "size": 788241776
+        },
+        {
+          "name": "Gravity",
+          "size": 716392705
+        },
+        {
+          "name": "Dawn of the Planet of the Apes",
+          "size": 710644566
+        },
+        {
+          "name": "The Twilight Saga: New Moon",
+          "size": 709827462
+        },
+        {
+          "name": "The Twilight Saga: Eclipse",
+          "size": 698491347
+        },
+        {
+          "name": "Forrest Gump",
+          "size": 677945399
+        },
+        {
+          "name": "Interstellar",
+          "size": 675120017
+        },
+        {
+          "name": "The Sixth Sense",
+          "size": 672806292
+        },
+        {
+          "name": "The Martian",
+          "size": 630161890
+        },
+        {
+          "name": "The Passion of the Christ",
+          "size": 611899420
+        },
+        {
+          "name": "Life of Pi",
+          "size": 609016565
+        },
+        {
+          "name": "I Am Legend",
+          "size": 585349010
+        },
+        {
+          "name": "Fifty Shades of Grey",
+          "size": 571006128
+        },
+        {
+          "name": "King Kong",
+          "size": 550000000
+        }
+      ]
+    },
+    {
+      "name": "Thriller",
+      "children": [
+        {
+          "name": "Titanic",
+          "size": 1845034188
+        },
+        {
+          "name": "Jurassic World",
+          "size": 1513528810
+        },
+        {
+          "name": "Skyfall",
+          "size": 1108561013
+        },
+        {
+          "name": "The Dark Knight Rises",
+          "size": 1084939099
+        },
+        {
+          "name": "The Dark Knight",
+          "size": 1004558444
+        },
+        {
+          "name": "Inception",
+          "size": 825532764
+        },
+        {
+          "name": "The Da Vinci Code",
+          "size": 767820459
+        },
+        {
+          "name": "The Hunger Games: Mockingjay - Part 1",
+          "size": 752100229
+        },
+        {
+          "name": "The Matrix Reloaded",
+          "size": 738599701
+        },
+        {
+          "name": "Gravity",
+          "size": 716392705
+        },
+        {
+          "name": "Dawn of the Planet of the Apes",
+          "size": 710644566
+        },
+        {
+          "name": "Mission: Impossible - Ghost Protocol",
+          "size": 694713380
+        },
+        {
+          "name": "Mission: Impossible - Rogue Nation",
+          "size": 682330139
+        },
+        {
+          "name": "The Sixth Sense",
+          "size": 672806292
+        },
+        {
+          "name": "Fast Five",
+          "size": 626137675
+        },
+        {
+          "name": "Casino Royale",
+          "size": 599045960
+        },
+        {
+          "name": "War of the Worlds",
+          "size": 591739379
+        },
+        {
+          "name": "Quantum of Solace",
+          "size": 586090727
+        },
+        {
+          "name": "I Am Legend",
+          "size": 585349010
+        },
+        {
+          "name": "Fifty Shades of Grey",
+          "size": 571006128
+        }
+      ]
+    },
+    {
+      "name": "Animation",
+      "children": [
+        {
+          "name": "Frozen",
+          "size": 1274219009
+        },
+        {
+          "name": "Minions",
+          "size": 1156730962
+        },
+        {
+          "name": "Toy Story 3",
+          "size": 1066969703
+        },
+        {
+          "name": "Despicable Me 2",
+          "size": 970761885
+        },
+        {
+          "name": "Finding Nemo",
+          "size": 940335536
+        },
+        {
+          "name": "Shrek 2",
+          "size": 919838758
+        },
+        {
+          "name": "Ice Age: Dawn of the Dinosaurs",
+          "size": 886686817
+        },
+        {
+          "name": "Ice Age: Continental Drift",
+          "size": 877244782
+        },
+        {
+          "name": "The Secret Life of Pets",
+          "size": 875958308
+        },
+        {
+          "name": "Inside Out",
+          "size": 857611174
+        },
+        {
+          "name": "Shrek the Third",
+          "size": 798958165
+        },
+        {
+          "name": "The Lion King",
+          "size": 788241776
+        },
+        {
+          "name": "Shrek Forever After",
+          "size": 752600867
+        },
+        {
+          "name": "Madagascar 3: Europe's Most Wanted",
+          "size": 746921274
+        },
+        {
+          "name": "Monsters University",
+          "size": 743559607
+        },
+        {
+          "name": "Up",
+          "size": 735099082
+        },
+        {
+          "name": "Kung Fu Panda 2",
+          "size": 665692281
+        },
+        {
+          "name": "Ice Age: The Meltdown",
+          "size": 660940780
+        },
+        {
+          "name": "Big Hero 6",
+          "size": 652105443
+        },
+        {
+          "name": "Kung Fu Panda",
+          "size": 631744560
+        }
+      ]
+    },
+    {
+      "name": "Family",
+      "children": [
+        {
+          "name": "Frozen",
+          "size": 1274219009
+        },
+        {
+          "name": "Minions",
+          "size": 1156730962
+        },
+        {
+          "name": "Toy Story 3",
+          "size": 1066969703
+        },
+        {
+          "name": "Alice in Wonderland",
+          "size": 1025491110
+        },
+        {
+          "name": "Harry Potter and the Philosopher's Stone",
+          "size": 976475550
+        },
+        {
+          "name": "Despicable Me 2",
+          "size": 970761885
+        },
+        {
+          "name": "The Jungle Book",
+          "size": 966550600
+        },
+        {
+          "name": "Finding Nemo",
+          "size": 940335536
+        },
+        {
+          "name": "Harry Potter and the Order of the Phoenix",
+          "size": 938212738
+        },
+        {
+          "name": "Harry Potter and the Half-Blood Prince",
+          "size": 933959197
+        },
+        {
+          "name": "Shrek 2",
+          "size": 919838758
+        },
+        {
+          "name": "Harry Potter and the Goblet of Fire",
+          "size": 895921036
+        },
+        {
+          "name": "Ice Age: Dawn of the Dinosaurs",
+          "size": 886686817
+        },
+        {
+          "name": "Ice Age: Continental Drift",
+          "size": 877244782
+        },
+        {
+          "name": "Harry Potter and the Chamber of Secrets",
+          "size": 876688482
+        },
+        {
+          "name": "The Secret Life of Pets",
+          "size": 875958308
+        },
+        {
+          "name": "Inside Out",
+          "size": 857611174
+        },
+        {
+          "name": "Shrek the Third",
+          "size": 798958165
+        },
+        {
+          "name": "E.T. the Extra-Terrestrial",
+          "size": 792910554
+        },
+        {
+          "name": "Harry Potter and the Prisoner of Azkaban",
+          "size": 789804554
+        }
+      ]
+    },
+    {
+      "name": "Comedy",
+      "children": [
+        {
+          "name": "Minions",
+          "size": 1156730962
+        },
+        {
+          "name": "Toy Story 3",
+          "size": 1066969703
+        },
+        {
+          "name": "Despicable Me 2",
+          "size": 970761885
+        },
+        {
+          "name": "Shrek 2",
+          "size": 919838758
+        },
+        {
+          "name": "Ice Age: Dawn of the Dinosaurs",
+          "size": 886686817
+        },
+        {
+          "name": "Ice Age: Continental Drift",
+          "size": 877244782
+        },
+        {
+          "name": "Inside Out",
+          "size": 857611174
+        },
+        {
+          "name": "Shrek the Third",
+          "size": 798958165
+        },
+        {
+          "name": "Deadpool",
+          "size": 783112979
+        },
+        {
+          "name": "Shrek Forever After",
+          "size": 752600867
+        },
+        {
+          "name": "Up",
+          "size": 735099082
+        },
+        {
+          "name": "Forrest Gump",
+          "size": 677945399
+        },
+        {
+          "name": "Ice Age: The Meltdown",
+          "size": 660940780
+        },
+        {
+          "name": "Big Hero 6",
+          "size": 652105443
+        },
+        {
+          "name": "Kung Fu Panda",
+          "size": 631744560
+        },
+        {
+          "name": "Men in Black 3",
+          "size": 624026776
+        },
+        {
+          "name": "Ratatouille",
+          "size": 623722818
+        },
+        {
+          "name": "Mamma Mia!",
+          "size": 609841637
+        },
+        {
+          "name": "How to Train Your Dragon 2",
+          "size": 609123048
+        },
+        {
+          "name": "Men in Black",
+          "size": 589390539
+        }
+      ]
+    },
+    {
+      "name": "Romance",
+      "children": [
+        {
+          "name": "Titanic",
+          "size": 1845034188
+        },
+        {
+          "name": "The Twilight Saga: Breaking Dawn - Part 2",
+          "size": 829000000
+        },
+        {
+          "name": "Maleficent",
+          "size": 758539785
+        },
+        {
+          "name": "The Twilight Saga: New Moon",
+          "size": 709827462
+        },
+        {
+          "name": "The Twilight Saga: Eclipse",
+          "size": 698491347
+        },
+        {
+          "name": "Forrest Gump",
+          "size": 677945399
+        },
+        {
+          "name": "Mamma Mia!",
+          "size": 609841637
+        },
+        {
+          "name": "Fifty Shades of Grey",
+          "size": 571006128
+        },
+        {
+          "name": "Cinderella",
+          "size": 543514353
+        },
+        {
+          "name": "Meet the Fockers",
+          "size": 516642939
+        },
+        {
+          "name": "Ghost",
+          "size": 505000000
+        },
+        {
+          "name": "Aladdin",
+          "size": 504050219
+        },
+        {
+          "name": "Pretty Woman",
+          "size": 463000000
+        },
+        {
+          "name": "Pearl Harbor",
+          "size": 449220945
+        },
+        {
+          "name": "Les Misérables",
+          "size": 441809770
+        },
+        {
+          "name": "The Bodyguard",
+          "size": 411006740
+        },
+        {
+          "name": "Gone with the Wind",
+          "size": 400176459
+        },
+        {
+          "name": "Twilight",
+          "size": 392616625
+        },
+        {
+          "name": "Slumdog Millionaire",
+          "size": 377910544
+        },
+        {
+          "name": "What Women Want",
+          "size": 374111707
+        }
+      ]
+    },
+    {
+      "name": "Horror",
+      "children": [
+        {
+          "name": "I Am Legend",
+          "size": 585349010
+        },
+        {
+          "name": "World War Z",
+          "size": 531865000
+        },
+        {
+          "name": "Jaws",
+          "size": 470654000
+        },
+        {
+          "name": "The Exorcist",
+          "size": 441306145
+        },
+        {
+          "name": "The Conjuring 2",
+          "size": 320170008
+        },
+        {
+          "name": "The Conjuring",
+          "size": 318000141
+        },
+        {
+          "name": "Resident Evil: Afterlife",
+          "size": 300228084
+        },
+        {
+          "name": "Annabelle",
+          "size": 255273813
+        },
+        {
+          "name": "The Blair Witch Project",
+          "size": 248000000
+        },
+        {
+          "name": "Resident Evil: Retribution",
+          "size": 240159255
+        },
+        {
+          "name": "Ghost Rider",
+          "size": 228738393
+        },
+        {
+          "name": "Hansel & Gretel: Witch Hunters",
+          "size": 224803475
+        },
+        {
+          "name": "Interview with the Vampire",
+          "size": 223664608
+        },
+        {
+          "name": "Dracula",
+          "size": 215862692
+        },
+        {
+          "name": "Dracula Untold",
+          "size": 215529201
+        },
+        {
+          "name": "End of Days",
+          "size": 211989043
+        },
+        {
+          "name": "Red Dragon",
+          "size": 209196298
+        },
+        {
+          "name": "Paranormal Activity 3",
+          "size": 205703818
+        },
+        {
+          "name": "Paranormal Activity",
+          "size": 193355800
+        },
+        {
+          "name": "The Addams Family",
+          "size": 191502426
+        }
+      ]
+    },
+    {
+      "name": "Mystery",
+      "children": [
+        {
+          "name": "Harry Potter and the Order of the Phoenix",
+          "size": 938212738
+        },
+        {
+          "name": "Inception",
+          "size": 825532764
+        },
+        {
+          "name": "The Da Vinci Code",
+          "size": 767820459
+        },
+        {
+          "name": "The Sixth Sense",
+          "size": 672806292
+        },
+        {
+          "name": "Sherlock Holmes",
+          "size": 524028679
+        },
+        {
+          "name": "Ghost",
+          "size": 505000000
+        },
+        {
+          "name": "The Bourne Ultimatum",
+          "size": 442824138
+        },
+        {
+          "name": "Signs",
+          "size": 408247917
+        },
+        {
+          "name": "Prometheus",
+          "size": 403170142
+        },
+        {
+          "name": "The Adventures of Tintin",
+          "size": 371940071
+        },
+        {
+          "name": "Gone Girl",
+          "size": 369330363
+        },
+        {
+          "name": "The Fugitive",
+          "size": 368875760
+        },
+        {
+          "name": "Minority Report",
+          "size": 358372926
+        },
+        {
+          "name": "Angels & Demons",
+          "size": 356613439
+        },
+        {
+          "name": "The Maze Runner",
+          "size": 348319861
+        },
+        {
+          "name": "National Treasure",
+          "size": 347451894
+        },
+        {
+          "name": "Now You See Me 2",
+          "size": 334901337
+        },
+        {
+          "name": "Sherlock Holmes: A Game of Shadows",
+          "size": 334615000
+        },
+        {
+          "name": "The Curious Case of Benjamin Button",
+          "size": 333932083
+        },
+        {
+          "name": "Se7en",
+          "size": 327311859
+        }
+      ]
+    },
+    {
+      "name": "History",
+      "children": [
+        {
+          "name": "Saving Private Ryan",
+          "size": 481840909
+        },
+        {
+          "name": "The Last Samurai",
+          "size": 456758981
+        },
+        {
+          "name": "Pearl Harbor",
+          "size": 449220945
+        },
+        {
+          "name": "The King's Speech",
+          "size": 414211549
+        },
+        {
+          "name": "Schindler's List",
+          "size": 321365567
+        },
+        {
+          "name": "Shakespeare in Love",
+          "size": 289317794
+        },
+        {
+          "name": "Lincoln",
+          "size": 275293450
+        },
+        {
+          "name": "The Imitation Game",
+          "size": 233555708
+        },
+        {
+          "name": "The Patriot",
+          "size": 215294342
+        },
+        {
+          "name": "Public Enemies",
+          "size": 214104620
+        },
+        {
+          "name": "Kingdom of Heaven",
+          "size": 211643158
+        },
+        {
+          "name": "Braveheart",
+          "size": 210000000
+        },
+        {
+          "name": "JFK",
+          "size": 205405498
+        },
+        {
+          "name": "Valkyrie",
+          "size": 200276000
+        },
+        {
+          "name": "Gangs of New York",
+          "size": 193772504
+        },
+        {
+          "name": "12 Years a Slave",
+          "size": 187000000
+        },
+        {
+          "name": "Hero",
+          "size": 177394432
+        },
+        {
+          "name": "Black Hawk Down",
+          "size": 172989651
+        },
+        {
+          "name": "Alexander",
+          "size": 167298192
+        },
+        {
+          "name": "World Trade Center",
+          "size": 162945894
+        }
+      ]
+    },
+    {
+      "name": "War",
+      "children": [
+        {
+          "name": "American Sniper",
+          "size": 542307423
+        },
+        {
+          "name": "Troy",
+          "size": 497409852
+        },
+        {
+          "name": "Saving Private Ryan",
+          "size": 481840909
+        },
+        {
+          "name": "The Last Samurai",
+          "size": 456758981
+        },
+        {
+          "name": "Pearl Harbor",
+          "size": 449220945
+        },
+        {
+          "name": "300",
+          "size": 422610419
+        },
+        {
+          "name": "Gone with the Wind",
+          "size": 400176459
+        },
+        {
+          "name": "Top Gun",
+          "size": 356830601
+        },
+        {
+          "name": "300: Rise of an Empire",
+          "size": 337580051
+        },
+        {
+          "name": "Schindler's List",
+          "size": 321365567
+        },
+        {
+          "name": "Inglourious Basterds",
+          "size": 319131050
+        },
+        {
+          "name": "Rambo: First Blood Part II",
+          "size": 300400432
+        },
+        {
+          "name": "The Imitation Game",
+          "size": 233555708
+        },
+        {
+          "name": "The English Patient",
+          "size": 231976425
+        },
+        {
+          "name": "Dracula Untold",
+          "size": 215529201
+        },
+        {
+          "name": "The Patriot",
+          "size": 215294342
+        },
+        {
+          "name": "Fury",
+          "size": 211817906
+        },
+        {
+          "name": "Kingdom of Heaven",
+          "size": 211643158
+        },
+        {
+          "name": "Braveheart",
+          "size": 210000000
+        },
+        {
+          "name": "Valkyrie",
+          "size": 200276000
+        }
+      ]
+    },
+    {
+      "name": "Music",
+      "children": [
+        {
+          "name": "Alvin and the Chipmunks: The Squeakquel",
+          "size": 443140005
+        },
+        {
+          "name": "Les Misérables",
+          "size": 441809770
+        },
+        {
+          "name": "The Bodyguard",
+          "size": 411006740
+        },
+        {
+          "name": "Alvin and the Chipmunks",
+          "size": 361366633
+        },
+        {
+          "name": "Alvin and the Chipmunks: Chipwrecked",
+          "size": 342695435
+        },
+        {
+          "name": "Chicago",
+          "size": 306776732
+        },
+        {
+          "name": "Pitch Perfect 2",
+          "size": 287506194
+        },
+        {
+          "name": "The Sound of Music",
+          "size": 286214286
+        },
+        {
+          "name": "The Princess and the Frog",
+          "size": 267045765
+        },
+        {
+          "name": "The Prince of Egypt",
+          "size": 218613188
+        },
+        {
+          "name": "Into the Woods",
+          "size": 212902372
+        },
+        {
+          "name": "Straight Outta Compton",
+          "size": 201634991
+        },
+        {
+          "name": "Walk the Line",
+          "size": 186438883
+        },
+        {
+          "name": "Moulin Rouge!",
+          "size": 179213434
+        },
+        {
+          "name": "The Muppets",
+          "size": 165184237
+        },
+        {
+          "name": "Hannah Montana: The Movie",
+          "size": 155545279
+        },
+        {
+          "name": "Step Up 2: The Streets",
+          "size": 150816700
+        },
+        {
+          "name": "Music and Lyrics",
+          "size": 145896422
+        },
+        {
+          "name": "Evita",
+          "size": 141047179
+        },
+        {
+          "name": "Step Up Revolution",
+          "size": 140470746
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2440 @@
+{
+  "nodes": [
+    {
+      "name": "Saving Private Ryan",
+      "size": 481840909,
+      "keywords": [
+        "war crimes",
+        "self sacrifice",
+        "war veteran",
+        "world war ii",
+        "war ship",
+        "airplane",
+        "bravery",
+        "normandy",
+        "parachute",
+        "troops",
+        "waffen ss",
+        "omaha beach",
+        "army",
+        "cowardice",
+        "american flag",
+        "war memorial",
+        "deserted town",
+        "military",
+        "1940s"
+      ],
+      "user_rating": 7.9,
+      "votes": 5048,
+      "release_year": 1998,
+      "overview": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
+      "runtime": 169
+    },
+    {
+      "name": "The Last Samurai",
+      "size": 456758981,
+      "keywords": [
+        "japan",
+        "war crimes",
+        "sense of guilt",
+        "swordplay",
+        "general",
+        "samurai",
+        "war veteran",
+        "katana",
+        "sword",
+        "arms deal",
+        "homeland",
+        "emperor",
+        "language barrier",
+        "self-discovery",
+        "mountain village",
+        "foreign legion",
+        "mercenary",
+        "campaign",
+        "commercial agreement",
+        "insurgence",
+        "leader",
+        "war strategy",
+        "gettysburg",
+        "loss of husband",
+        "slaughter",
+        "soldier",
+        "alcoholic",
+        "u.s. soldier",
+        "japanese army",
+        "19th century",
+        "war trauma"
+      ],
+      "user_rating": 7.3,
+      "votes": 1895,
+      "release_year": 2003,
+      "overview": "Nathan Algren is an American hired to instruct the Japanese army in the ways of modern warfare, which finds him learning to respect the samurai and the honorable principles that rule them. Pressed to destroy the samurai's way of life in the name of modernization and open trade, Algren decides to become an ultimate warrior himself and to fight for their right to exist.",
+      "runtime": 154
+    },
+    {
+      "name": "Pearl Harbor",
+      "size": 449220945,
+      "keywords": [
+        "nurse",
+        "patriotism",
+        "hawaii",
+        "world war ii",
+        "pilot",
+        "pearl harbor",
+        "u.s. air force",
+        "airplane",
+        "war",
+        "army",
+        "love",
+        "pin-up"
+      ],
+      "user_rating": 6.6,
+      "votes": 1791,
+      "release_year": 2001,
+      "overview": "The lifelong friendship between Rafe McCawley and Danny Walker is put to the ultimate test when the two ace fighter pilots become entangled in a love triangle with beautiful Naval nurse Evelyn Johnson. But the rivalry between the friends-turned-foes is immediately put on hold when they find themselves at the center of Japan's devastating attack on Pearl Harbor on Dec. 7, 1941.",
+      "runtime": 183
+    },
+    {
+      "name": "The King's Speech",
+      "size": 414211549,
+      "keywords": [
+        "great britain",
+        "radio",
+        "monarchy",
+        "radio transmission",
+        "royal family",
+        "speech",
+        "marriage",
+        "royalty",
+        "death of father"
+      ],
+      "user_rating": 7.6,
+      "votes": 2752,
+      "release_year": 2010,
+      "overview": "The King's Speech tells the story of the man who became King George VI, the father of Queen Elizabeth II. After his brother abdicates, George ('Bertie') reluctantly assumes the throne. Plagued by a dreaded stutter and considered unfit to be king, Bertie engages the help of an unorthodox speech therapist named Lionel Logue. Through a set of unexpected techniques, and as a result of an unlikely friendship, Bertie is able to find his voice and boldly lead the country into war.",
+      "runtime": 118
+    },
+    {
+      "name": "Schindler's List",
+      "size": 321365567,
+      "keywords": [
+        "factory",
+        "concentration camp",
+        "hero",
+        "holocaust",
+        "world war ii",
+        "nazis",
+        "defense industry",
+        "biography",
+        "the holocaust"
+      ],
+      "user_rating": 8.3,
+      "votes": 4329,
+      "release_year": 1993,
+      "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+      "runtime": 195
+    },
+    {
+      "name": "Shakespeare in Love",
+      "size": 289317794,
+      "keywords": [
+        "shakespeare",
+        "love of one's life",
+        "oscar award",
+        "theatre play",
+        "theatre group",
+        "writer's block",
+        "theatre milieu",
+        "author",
+        "speculative",
+        "false history"
+      ],
+      "user_rating": 6.8,
+      "votes": 796,
+      "release_year": 1998,
+      "overview": "Young Shakespeare is forced to stage his latest comedy, \"Romeo and Ethel, the Pirate's Daughter,\" before it's even written. When a lovely noblewoman auditions for a role, they fall into forbidden love -- and his play finds a new life (and title). As their relationship progresses, Shakespeare's comedy soon transforms into tragedy.",
+      "runtime": 122
+    },
+    {
+      "name": "Lincoln",
+      "size": 275293450,
+      "keywords": [
+        "usa president",
+        "speech",
+        "battlefield",
+        "family conflict",
+        "mourning",
+        "american civil war",
+        "cultural conflict",
+        "based on true events",
+        "battle of gettysburg",
+        "secession",
+        "presidential cabinet",
+        "gettysburg address",
+        "conflagration",
+        "ethical dilemma",
+        "emancipation",
+        "abraham lincoln"
+      ],
+      "user_rating": 6.7,
+      "votes": 1429,
+      "release_year": 2012,
+      "overview": "A revealing drama that focuses on the 16th President's tumultuous final months in office. In a nation divided by war and the strong winds of change, Lincoln pursues a course of action designed to end the war, unite the country and abolish slavery. With the moral courage and fierce determination to succeed, his choices during this critical moment will change the fate of generations to come.",
+      "runtime": 149
+    },
+    {
+      "name": "The Imitation Game",
+      "size": 233555708,
+      "keywords": [
+        "gay",
+        "england",
+        "world war ii",
+        "mathematician",
+        "biography",
+        "logician",
+        "cryptography"
+      ],
+      "user_rating": 8,
+      "votes": 5723,
+      "release_year": 2014,
+      "overview": "Based on the real life story of legendary cryptanalyst Alan Turing, the film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain's top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II.",
+      "runtime": 113
+    },
+    {
+      "name": "The Patriot",
+      "size": 215294342,
+      "keywords": [
+        "rebel",
+        "southern usa",
+        "loss of son",
+        "martial arts",
+        "general",
+        "loss of family",
+        "passion",
+        "insurgence",
+        "french",
+        "daughter",
+        "south carolina",
+        "british",
+        "based on true story",
+        "gore",
+        "mission"
+      ],
+      "user_rating": 6.8,
+      "votes": 1099,
+      "release_year": 2000,
+      "overview": "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
+      "runtime": 165
+    },
+    {
+      "name": "Public Enemies",
+      "size": 214104620,
+      "keywords": [
+        "cinema",
+        "hiding place",
+        "machinegun",
+        "prison guard",
+        "escape from prison",
+        "dillinger"
+      ],
+      "user_rating": 6.5,
+      "votes": 1344,
+      "release_year": 2009,
+      "overview": "Depression-era bank robber John Dillinger's charm and audacity endear him to much of America's downtrodden public, but he's also a thorn in the side of J. Edgar Hoover and the fledgling FBI. Desperate to capture the elusive outlaw, Hoover makes Dillinger his first Public Enemy Number One and assigns his top agent, Melvin Purvis, the task of bringing him in dead or alive.",
+      "runtime": 140
+    },
+    {
+      "name": "Kingdom of Heaven",
+      "size": 211643158,
+      "keywords": [
+        "crusade",
+        "epic",
+        "knight",
+        "swordsman",
+        "order of the templars",
+        "religious",
+        "knight templars",
+        "saladin",
+        "king richard"
+      ],
+      "user_rating": 6.6,
+      "votes": 1157,
+      "release_year": 2005,
+      "overview": "After his wife dies, a blacksmith named Balian is thrust into royalty, political intrigue and bloody holy wars during the Crusades.",
+      "runtime": 144
+    },
+    {
+      "name": "Braveheart",
+      "size": 210000000,
+      "keywords": [
+        "individual",
+        "scotland",
+        "in love with enemy",
+        "legend",
+        "independence",
+        "idealism",
+        "revolt",
+        "tyranny"
+      ],
+      "user_rating": 7.7,
+      "votes": 3336,
+      "release_year": 1995,
+      "overview": "Enraged at the slaughter of Murron, his new bride and childhood love, Scottish warrior William Wallace slays a platoon of the local English lord's soldiers. This leads the village to revolt and, eventually, the entire country to rise up against English rule.",
+      "runtime": 177
+    },
+    {
+      "name": "JFK",
+      "size": 205405498,
+      "keywords": [
+        "assassination",
+        "cia",
+        "homophobia",
+        "new orleans",
+        "vietnam war",
+        "john f. kennedy",
+        "investigation",
+        "government",
+        "historical figure",
+        "president",
+        "conspiracy",
+        "death",
+        "kennedy assassination"
+      ],
+      "user_rating": 7.5,
+      "votes": 502,
+      "release_year": 1991,
+      "overview": "New Orleans District Attorney Jim Garrison discovers there's more to the Kennedy assassination than the official story.",
+      "runtime": 189
+    },
+    {
+      "name": "Valkyrie",
+      "size": 200276000,
+      "keywords": [
+        "berlin",
+        "suicide",
+        "bomb",
+        "assassination",
+        "resistance",
+        "wife husband relationship",
+        "world war ii",
+        "adolf hitler",
+        "plan",
+        "friendship",
+        "deception",
+        "treason",
+        "colonel",
+        "military officer",
+        "plot",
+        "german officer",
+        "piano wire",
+        "medal",
+        "violence"
+      ],
+      "user_rating": 6.7,
+      "votes": 1173,
+      "release_year": 2008,
+      "overview": "Wounded in Africa during World War II, Nazi Col. Claus von Stauffenberg returns to his native Germany and joins the Resistance in a daring plan to create a shadow government and assassinate Adolf Hitler. When events unfold so that he becomes a central player, he finds himself tasked with both leading the coup and personally killing the Führer.",
+      "runtime": 121
+    },
+    {
+      "name": "Gangs of New York",
+      "size": 193772504,
+      "keywords": [
+        "fire",
+        "irish-american",
+        "immigrant",
+        "gang war",
+        "pickpocket",
+        "ship",
+        "gang of thieves",
+        "butcher",
+        "pig",
+        "army",
+        "rescue",
+        "gang"
+      ],
+      "user_rating": 7.1,
+      "votes": 1910,
+      "release_year": 2002,
+      "overview": "It's 1863. America was born in the streets. Amsterdam Vallon returns to the Five Points of America to seek vengeance against the psychotic gangland kingpin, Bill the Butcher, who murdered his father years earlier. With an eager pickpocket by his side and a whole new army, Vallon fights his way to seek vengeance on the Butcher and restore peace in the area.",
+      "runtime": 167
+    },
+    {
+      "name": "12 Years a Slave",
+      "size": 187000000,
+      "keywords": [
+        "whip",
+        "kidnapping",
+        "slavery",
+        "plantation",
+        "night shift",
+        "violin player",
+        "physical abuse",
+        "cotton",
+        "slave owner",
+        "19th century",
+        "sold into slavery",
+        "abolitionist"
+      ],
+      "user_rating": 7.9,
+      "votes": 3674,
+      "release_year": 2013,
+      "overview": "In the pre-Civil War United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery. Facing cruelty as well as unexpected kindnesses Solomon struggles not only to stay alive, but to retain his dignity. In the twelfth year of his unforgettable odyssey, Solomon’s chance meeting with a Canadian abolitionist will forever alter his life.",
+      "runtime": 134
+    },
+    {
+      "name": "Hero",
+      "size": 177394432,
+      "keywords": [
+        "countryside",
+        "loss of lover",
+        "right and justice",
+        "patriot"
+      ],
+      "user_rating": 7.2,
+      "votes": 635,
+      "release_year": 2002,
+      "overview": "One man defeated three assassins who sought to murder the most powerful warlord in pre-unified China.",
+      "runtime": 99
+    },
+    {
+      "name": "Black Hawk Down",
+      "size": 172989651,
+      "keywords": [
+        "prisoners of war",
+        "wound",
+        "somalia",
+        "warlord",
+        "famine",
+        "delta force",
+        "rescue operation"
+      ],
+      "user_rating": 7.2,
+      "votes": 1811,
+      "release_year": 2001,
+      "overview": "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
+      "runtime": 144
+    },
+    {
+      "name": "Alexander",
+      "size": 167298192,
+      "keywords": [
+        "aristotle",
+        "egypt",
+        "greece",
+        "persia",
+        "elephant",
+        "campaign",
+        "alexander the great",
+        "homosexuality",
+        "gay relationship",
+        "ancient world"
+      ],
+      "user_rating": 5.6,
+      "votes": 927,
+      "release_year": 2004,
+      "overview": "Alexander, the King of Macedonia, leads his legions against the giant Persian Empire. After defeating the Persians, he leads his army across the then known world, venturing farther than any westerner had ever gone, all the way to India.",
+      "runtime": 175
+    },
+    {
+      "name": "World Trade Center",
+      "size": 162945894,
+      "keywords": [
+        "terror",
+        "runaway",
+        "alarm clock",
+        "hero",
+        "firemen",
+        "fire engine",
+        "war on terror",
+        "rescue",
+        "marine",
+        "hospital",
+        "trapped",
+        "rubble",
+        "rescue team"
+      ],
+      "user_rating": 5.9,
+      "votes": 447,
+      "release_year": 2006,
+      "overview": "On September, 11th 2001, after the terrorist attack to the World Trade Center, the building collapses over the rescue team from the Port Authority Police Department. Will Jimeno and his sergeant John McLoughlin are found alive trapped under the wreckage while the rescue teams fight to save them.",
+      "runtime": 128
+    },
+    {
+      "name": "Memoirs of a Geisha",
+      "size": 162242962,
+      "keywords": [
+        "japan",
+        "prostitute",
+        "sister sister relationship",
+        "brothel",
+        "world war ii",
+        "geisha"
+      ],
+      "user_rating": 7.3,
+      "votes": 652,
+      "release_year": 2005,
+      "overview": "A sweeping romantic epic set in Japan in the years before World War II, a penniless Japanese child is torn from her family to work as a maid in a geisha house.",
+      "runtime": 145
+    },
+    {
+      "name": "Ip Man 3",
+      "size": 156844753,
+      "keywords": [
+        "biography"
+      ],
+      "user_rating": 6.5,
+      "votes": 379,
+      "release_year": 2015,
+      "overview": "When a band of brutal gangsters led by a crooked property developer make a play to take over the city, Master Ip is forced to take a stand.",
+      "runtime": 105
+    },
+    {
+      "name": "The Monuments Men",
+      "size": 154984035,
+      "keywords": [
+        "world war ii",
+        "nazis",
+        "art theft",
+        "post world war ii"
+      ],
+      "user_rating": 5.8,
+      "votes": 1523,
+      "release_year": 2014,
+      "overview": "Based on the true story of the greatest treasure hunt in history, The Monuments Men is an action drama focusing on seven over-the-hill, out-of-shape museum directors, artists, architects, curators, and art historians who went to the front lines of WWII to rescue the world’s artistic masterpieces from Nazi thieves and return them to their rightful owners.  With the art hidden behind enemy lines, how could these guys hope to succeed?",
+      "runtime": 118
+    },
+    {
+      "name": "Seabiscuit",
+      "size": 148336445,
+      "keywords": [
+        "horse race",
+        "american dream",
+        "racehorse",
+        "great depression"
+      ],
+      "user_rating": 6.7,
+      "votes": 216,
+      "release_year": 2003,
+      "overview": "True story of the undersized Depression-era racehorse whose victories lifted not only the spirits of the team behind it but also those of their nation.",
+      "runtime": 141
+    },
+    {
+      "name": "Evita",
+      "size": 141047179,
+      "keywords": [
+        "prostitute",
+        "deification",
+        "dancehall hostess",
+        "perónism",
+        "argentine president",
+        "rise to power",
+        "singing narrator",
+        "soccer ball"
+      ],
+      "user_rating": 5.9,
+      "votes": 120,
+      "release_year": 1996,
+      "overview": "The hit musical based on the life of Evita Duarte, a B-movie Argentinian actress who eventually became the wife of Argentinian president and dictator Juan Perón, and the most beloved and hated woman in Argentina.",
+      "runtime": 134
+    },
+    {
+      "name": "Zero Dark Thirty",
+      "size": 132820716,
+      "keywords": [
+        "assassination",
+        "cia",
+        "hotel",
+        "terrorist",
+        "prisoner",
+        "car dealer",
+        "mossad",
+        "van",
+        "iraq",
+        "pakistan",
+        "osama bin laden",
+        "man hunt",
+        "navy seal",
+        "f word",
+        "female protagonist",
+        "gunfight",
+        "raid",
+        "violence",
+        "text message",
+        "monkey",
+        "dog",
+        "special forces",
+        "tied up",
+        "military",
+        "area 51",
+        "terrorist group",
+        "torturing",
+        "woman director",
+        "al qaeda",
+        "prison camp",
+        "water torture",
+        "suicide bombing",
+        "21st century",
+        "ex special forces",
+        "post 9/11",
+        "helicopter crash",
+        "islamabad"
+      ],
+      "user_rating": 6.7,
+      "votes": 1702,
+      "release_year": 2012,
+      "overview": "A chronicle of the decade-long hunt for al-Qaeda terrorist leader Osama bin Laden after the September 2001 attacks, and his death at the hands of the Navy S.E.A.L. Team 6 in May, 2011.",
+      "runtime": 157
+    },
+    {
+      "name": "Seven Years in Tibet",
+      "size": 131457682,
+      "keywords": [
+        "buddhism",
+        "himalaya",
+        "austria",
+        "mountains",
+        "buddhist monk",
+        "world war ii",
+        "prisoners of war",
+        "monsoon",
+        "tibet",
+        "dalai lama",
+        "mountaineer",
+        "lhasa",
+        "wedding"
+      ],
+      "user_rating": 7,
+      "votes": 630,
+      "release_year": 1997,
+      "overview": "Austrian mountaineer, Heinrich Harrer journeys to the Himalayas without his family to head an expedition in 1939. But when World War II breaks out, the arrogant Harrer falls into Allied forces' hands as a prisoner of war. He escapes with a fellow detainee and makes his way to Llaso, Tibet, where he meets the 14-year-old Dalai Lama, whose friendship ultimately transforms his outlook on life.",
+      "runtime": 136
+    },
+    {
+      "name": "Munich",
+      "size": 130358911,
+      "keywords": [
+        "paris",
+        "assassination",
+        "israel",
+        "hotel room",
+        "1970s",
+        "hostage",
+        "intelligence",
+        "olympic games",
+        "munich",
+        "mossad",
+        "israeli",
+        "palestinian",
+        "beirut",
+        "ailul al aswad",
+        "plo",
+        "bomb constructor",
+        "baader-meinhof group",
+        "olympian village",
+        "revenge"
+      ],
+      "user_rating": 6.9,
+      "votes": 696,
+      "release_year": 2005,
+      "overview": "During the 1972 Olympic Games in Munich, eleven Israeli athletes are taken hostage and murdered by a Palestinian terrorist group known as Black September. In retaliation, the Israeli government recruits a group of Mossad agents to track down and execute those responsible for the attack.",
+      "runtime": 164
+    },
+    {
+      "name": "Invictus",
+      "size": 122233971,
+      "keywords": [
+        "stadium",
+        "south africa",
+        "apartheid",
+        "nelson mandela",
+        "sport",
+        "nation",
+        "rugby",
+        "president",
+        "racism",
+        "poverty",
+        "celebration",
+        "duringcreditsstinger"
+      ],
+      "user_rating": 7,
+      "votes": 1125,
+      "release_year": 2009,
+      "overview": "Newly elected President Nelson Mandela knows his nation remains racially and economically divided in the wake of apartheid. Believing he can bring his people together through the universal language of sport, Mandela rallies South Africa's rugby team as they make their historic run to the 1995 Rugby World Cup Championship match.",
+      "runtime": 134
+    },
+    {
+      "name": "Charlie Wilson's War",
+      "size": 119000410,
+      "keywords": [
+        "washington d.c.",
+        "alcohol",
+        "cia",
+        "helicopter",
+        "refugee camp",
+        "congress",
+        "cold war",
+        "ladykiller",
+        "rocket launcher",
+        "russian",
+        "munition",
+        "war in afghanistan",
+        "dollar"
+      ],
+      "user_rating": 6.5,
+      "votes": 338,
+      "release_year": 2007,
+      "overview": "The true story of Texas congressman Charlie Wilson's covert dealings in Afghanistan, where his efforts to assist rebels in their war with the Soviets had some unforeseen and long-reaching effects.",
+      "runtime": 102
+    },
+    {
+      "name": "Pompeii",
+      "size": 117831631,
+      "keywords": [
+        "gladiator",
+        "arena",
+        "gladiator fight",
+        "lava",
+        "roman",
+        "forbidden love",
+        "natural disaster",
+        "epic",
+        "disaster",
+        "slave",
+        "town in panic",
+        "vulcan",
+        "volcanic eruption",
+        "pompeii",
+        "3d"
+      ],
+      "user_rating": 5.2,
+      "votes": 1267,
+      "release_year": 2014,
+      "overview": "Set in 79 A.D., POMPEII tells the epic story of Milo, a slave turned invincible gladiator who finds himself in a race against time to save his true love Cassia, the beautiful daughter of a wealthy merchant who has been unwillingly betrothed to a corrupt Roman Senator. As Mount Vesuvius erupts in a torrent of blazing lava, Milo must fight his way out of the arena in order to save his beloved as the once magnificent Pompeii crumbles around him.",
+      "runtime": 105
+    },
+    {
+      "name": "The Iron Lady",
+      "size": 114956699,
+      "keywords": [
+        "capitalism",
+        "prime minister",
+        "argentina",
+        "margaret thatcher",
+        "british overseas territory",
+        "war propaganda",
+        "british politics",
+        "british prime minister",
+        "female politician",
+        "falklands war",
+        "political leader",
+        "female prime minister",
+        "right wing",
+        "falklands",
+        "woman director",
+        "1980s"
+      ],
+      "user_rating": 6.2,
+      "votes": 527,
+      "release_year": 2011,
+      "overview": "A look at the life of Margaret Thatcher, the former Prime Minister of the United Kingdom, with a focus on the price she paid for power.",
+      "runtime": 105
+    },
+    {
+      "name": "We Were Soldiers",
+      "size": 114660784,
+      "keywords": [
+        "vietnam veteran",
+        "missile",
+        "vietnam war",
+        "army",
+        "major",
+        "based on true story",
+        "steel helmet",
+        "soldier",
+        "explosion",
+        "battle",
+        "bayonet",
+        "death",
+        "vietnamese"
+      ],
+      "user_rating": 6.7,
+      "votes": 521,
+      "release_year": 2002,
+      "overview": "The story of the first major battle of the American phase of the Vietnam War and the soldiers on both sides that fought it.",
+      "runtime": 138
+    },
+    {
+      "name": "Saving Mr. Banks",
+      "size": 112544580,
+      "keywords": [
+        "biography",
+        "animation",
+        "writer",
+        "moviemaking"
+      ],
+      "user_rating": 7.3,
+      "votes": 1226,
+      "release_year": 2013,
+      "overview": "Author P.L. Travers travels from London to Hollywood as Walt Disney Pictures adapts her novel Mary Poppins for the big screen.",
+      "runtime": 125
+    },
+    {
+      "name": "Cinderella Man",
+      "size": 108539911,
+      "keywords": [
+        "transporter",
+        "netherlands",
+        "world cup",
+        "socially deprived family",
+        "family's daily life",
+        "boxer",
+        "boxing match",
+        "comeback",
+        "training",
+        "heavy weight",
+        "folk hero",
+        "biography",
+        "daughter",
+        "defeat",
+        "sport"
+      ],
+      "user_rating": 7.3,
+      "votes": 616,
+      "release_year": 2005,
+      "overview": "The true story of boxer, Jim Braddock who, in the 1920’s after his retirement, has a surprise comeback in order to get him and his family out of a socially poor state.",
+      "runtime": 144
+    },
+    {
+      "name": "Butch Cassidy and the Sundance Kid",
+      "size": 102308889,
+      "keywords": [
+        "wyoming",
+        "historical figure",
+        "loot sharing"
+      ],
+      "user_rating": 7.4,
+      "votes": 650,
+      "release_year": 1969,
+      "overview": "In late 1890s Wyoming, Butch Cassidy is the affable, clever and talkative leader of the outlaw Hole in the Wall Gang. His closest companion is the laconic dead-shot 'Sundance Kid'. As the west rapidly becomes civilized, the law finally catches up to Butch, Sundance and their gang.  Chased doggedly by a special posse, the two decide to make their way to South America in hopes of evading their pursuers once and for all.",
+      "runtime": 110
+    },
+    {
+      "name": "Baahubali: The Beginning",
+      "size": 100000000,
+      "keywords": [
+        "kingdom",
+        "war",
+        "bollywood",
+        "medieval india",
+        "ancient india"
+      ],
+      "user_rating": 7.5,
+      "votes": 135,
+      "release_year": 2015,
+      "overview": "The young Shivudu is left as a foundling in a small village by his mother. By the time he’s grown up, it has become apparent that he possesses exceptional gifts. He meets the beautiful warrior/princess Avanthika and learns that her queen has been held captive for the last 25 years. Shividu sets off to rescue her, discovering his own origins in the process.",
+      "runtime": 159
+    },
+    {
+      "name": "The Thin Red Line",
+      "size": 98126565,
+      "keywords": [
+        "based on novel",
+        "japanese",
+        "world war ii",
+        "battle assignment",
+        "invasion",
+        "marine corps",
+        "u.s. army",
+        "commander",
+        "pacific",
+        "rifle",
+        "survival",
+        "jungle",
+        "infantry",
+        "steel helmet",
+        "sergeant",
+        "pacific island",
+        "soldier",
+        "battle",
+        "fighting",
+        "guadalcanal",
+        "awol",
+        "philosophic conflict"
+      ],
+      "user_rating": 7.2,
+      "votes": 771,
+      "release_year": 1998,
+      "overview": "Based on the graphic novel by James Jones, The Thin Red Line tells the story of a group of men, an Army Rifle company called C-for-Charlie, who change, suffer, and ultimately make essential discoveries about themselves during the fierce World War II battle of Guadalcanal. It follows their journey, from the surprise of an unopposed landing, through the bloody and exhausting battles that follow, to the ultimate departure of those who survived. A powerful frontline cast - including Sean Penn, Nick Nolte, Woody Harrelson and George Clooney - explodes into action in this hauntingly realistic view of military and moral chaos in the Pacific during World War II.",
+      "runtime": 170
+    },
+    {
+      "name": "The Flowers of War",
+      "size": 95311434,
+      "keywords": [
+        "forced prostitution",
+        "child rape"
+      ],
+      "user_rating": 7.1,
+      "votes": 187,
+      "release_year": 2011,
+      "overview": "A Westerner finds refuge with a group of women in a church during Japan's rape of Nanking in 1937. Posing as a priest, he attempts to lead the women to safety.",
+      "runtime": 145
+    },
+    {
+      "name": "In the Heart of the Sea",
+      "size": 93820758,
+      "keywords": [
+        "suicide",
+        "ocean",
+        "sea",
+        "hunger",
+        "shipwreck",
+        "ship",
+        "whale",
+        "based on true story",
+        "stranded",
+        "survival",
+        "whaling",
+        "death",
+        "new england",
+        "lost at sea",
+        "based on true events",
+        "whaling ship",
+        "starvation",
+        "19th century",
+        "cannibalism",
+        "reference to moby dick",
+        "whale oil",
+        "nantucket"
+      ],
+      "user_rating": 6.5,
+      "votes": 1276,
+      "release_year": 2015,
+      "overview": "In the winter of 1820, the New England whaling ship Essex was assaulted by something no one could believe: a whale of mammoth size and will, and an almost human sense of vengeance.  The real-life maritime disaster would inspire Herman Melville’s Moby Dick.  But that told only half the story.  “Heart of the Sea” reveals the encounter’s harrowing aftermath, as the ship’s surviving crew is pushed to their limits and forced to do the unthinkable to stay alive.  Braving storms, starvation, panic and despair, the men will call into question their deepest beliefs, from the value of their lives to the morality of their trade, as their captain searches for direction on the open sea and his first mate still seeks to bring the great whale down.",
+      "runtime": 122
+    },
+    {
+      "name": "Downfall",
+      "size": 92180910,
+      "keywords": [
+        "berlin",
+        "poison",
+        "dictator",
+        "clerk",
+        "ideology",
+        "world war ii",
+        "traitor",
+        "despair",
+        "destroy",
+        "testament",
+        "capitulation",
+        "soviet troops",
+        "race politics",
+        "national socialism",
+        "adolf hitler",
+        "ultimate victory",
+        "minister",
+        "national socialist party",
+        "dying and death",
+        "historical figure",
+        "german shepherd"
+      ],
+      "user_rating": 7.7,
+      "votes": 1037,
+      "release_year": 2004,
+      "overview": "In April of 1945, Germany stands at the brink of defeat with the Russian Army closing in from the east and the Allied Expeditionary Force attacking from the west. In Berlin, capital of the Third Reich, Adolf Hitler proclaims that Germany will still achieve victory and orders his generals and advisers to fight to the last man. When the end finally does come, and Hitler lies dead by his own hand, what is left of his military must find a way to end the killing that is the Battle of Berlin, and lay down their arms in surrender.",
+      "runtime": 156
+    },
+    {
+      "name": "Patton",
+      "size": 89800000,
+      "keywords": [
+        "general",
+        "world war ii",
+        "normandy",
+        "biography",
+        "historical figure",
+        "d-day",
+        "dead soldier",
+        "tank",
+        "steel helmet",
+        "destiny",
+        "allies"
+      ],
+      "user_rating": 7.3,
+      "votes": 323,
+      "release_year": 1970,
+      "overview": "\"Patton\" tells the tale of General George S. Patton, famous tank commander of World War II. The film begins with patton's career in North Africa and progresses through the invasion of Germany and the fall of the Third Reich. Side plots also speak of Patton's numerous faults such his temper and habit towards insubordination.",
+      "runtime": 172
+    },
+    {
+      "name": "Spotlight",
+      "size": 88346473,
+      "keywords": [
+        "child abuse",
+        "journalism",
+        "judge",
+        "florida",
+        "boston",
+        "pedophilia",
+        "court",
+        "cover-up",
+        "priest",
+        "lawyer",
+        "catholic",
+        "catholic church",
+        "catholicism",
+        "september 11 2001",
+        "investigative journalism",
+        "cardinal",
+        "christmas"
+      ],
+      "user_rating": 7.8,
+      "votes": 2686,
+      "release_year": 2015,
+      "overview": "The true story of how The Boston Globe uncovered the massive scandal of child abuse and the cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+      "runtime": 128
+    },
+    {
+      "name": "Das Boot",
+      "size": 85000000,
+      "keywords": [
+        "terror",
+        "submarine",
+        "based on novel",
+        "atlantic ocean",
+        "gibraltar",
+        "world war ii",
+        "duty",
+        "war correspondent",
+        "torpedo",
+        "drinking",
+        "sailor",
+        "convoy",
+        "u boat",
+        "destroyer",
+        "depth charge",
+        "comrade",
+        "german submarine",
+        "naval battle",
+        "periscope",
+        "suicidal mission"
+      ],
+      "user_rating": 7.9,
+      "votes": 613,
+      "release_year": 1981,
+      "overview": "A German submarine hunts allied ships during the Second World War, but it soon becomes the hunted. The crew tries to survive below the surface, while stretching both the boat and themselves to their limits.",
+      "runtime": 149
+    },
+    {
+      "name": "J. Edgar",
+      "size": 84606030,
+      "keywords": [
+        "biography",
+        "historical figure",
+        "fbi director"
+      ],
+      "user_rating": 6,
+      "votes": 741,
+      "release_year": 2011,
+      "overview": "As the face of law enforcement in America for almost 50 years, J. Edgar Hoover was feared and admired, reviled and revered. But behind closed doors, he held secrets that would have destroyed his image, his career and his life.",
+      "runtime": 137
+    },
+    {
+      "name": "Elizabeth",
+      "size": 82150642,
+      "keywords": [
+        "duke",
+        "historical figure",
+        "treason",
+        "catholic",
+        "protestant"
+      ],
+      "user_rating": 7.1,
+      "votes": 334,
+      "release_year": 1998,
+      "overview": "The story of the ascension to the throne and the early reign of Queen Elizabeth the First, the endless attempts by her council to marry her off, the Catholic hatred of her and her romance with Lord Robert Dudley.",
+      "runtime": 124
+    },
+    {
+      "name": "Gandhi",
+      "size": 77737889,
+      "keywords": [
+        "muslim",
+        "indian lead",
+        "demonstration",
+        "world war ii",
+        "imprisonment",
+        "release from prison",
+        "south africa",
+        "bravery",
+        "hunger strike",
+        "colony",
+        "morning prayer",
+        "hindu",
+        "independence",
+        "british army",
+        "political negotiations",
+        "conference",
+        "nonviolent resistance",
+        "apartheid",
+        "british empire",
+        "protest",
+        "independence movement",
+        "bombay india",
+        "strike",
+        "freedom",
+        "prayer",
+        "world religion",
+        "hinduism",
+        "mahatma gandhi",
+        "calcutta"
+      ],
+      "user_rating": 7.4,
+      "votes": 716,
+      "release_year": 1982,
+      "overview": "In the early years of the 20th century, Mohandas K. Gandhi, a British-trained lawyer, forsakes all worldly possessions to take up the cause of Indian independence. Faced with armed resistance from the British government, Gandhi adopts a policy of 'passive resistance', endeavouring to win freedom for his people without resorting to bloodshed.",
+      "runtime": 191
+    },
+    {
+      "name": "Windtalkers",
+      "size": 77628265,
+      "keywords": [
+        "japan",
+        "world war ii",
+        "radio transmission",
+        "marine corps",
+        "u.s. army",
+        "code",
+        "navajo",
+        "pacific war"
+      ],
+      "user_rating": 5.8,
+      "votes": 341,
+      "release_year": 2002,
+      "overview": "Joe Enders is a gung-ho Marine assigned to protect a \"windtalker\" - one of several Navajo Indians who were used to relay messages during World War II because their spoken language was indecipherable to Japanese code breakers.",
+      "runtime": 134
+    },
+    {
+      "name": "United 93",
+      "size": 76286096,
+      "keywords": [
+        "airplane",
+        "hijacking",
+        "terror cell",
+        "emergency landing",
+        "war on terror"
+      ],
+      "user_rating": 6.9,
+      "votes": 367,
+      "release_year": 2006,
+      "overview": "A real time account of the events on United Flight 93, one of the planes hijacked on 9/11 that crashed near Shanksville, Pennsylvania when passengers foiled the terrorist plot.",
+      "runtime": 111
+    },
+    {
+      "name": "The Untouchables",
+      "size": 76270454,
+      "keywords": [
+        "white suit",
+        "al capone",
+        "tough cop",
+        "treasury agent",
+        "untouchable",
+        "tax evasion",
+        "jury tampering",
+        "rule of law",
+        "rooftop chase",
+        "cutting face while shaving",
+        "1930s"
+      ],
+      "user_rating": 7.6,
+      "votes": 1384,
+      "release_year": 1987,
+      "overview": "Young Treasury Agent Elliot Ness arrives in Chicago and is determined to take down Al Capone, but it's not going to be easy because Capone has the police in his pocket. Ness meets Jimmy Malone, a veteran patrolman and probably the most honorable one on the force. He asks Malone to help him get Capone, but Malone warns him that if he goes after Capone, he is going to war.",
+      "runtime": 119
+    },
+    {
+      "name": "The Last of the Mohicans",
+      "size": 75505856,
+      "keywords": [
+        "secret love",
+        "mohawk",
+        "native american",
+        "18th century",
+        "french and indian war"
+      ],
+      "user_rating": 7.1,
+      "votes": 732,
+      "release_year": 1992,
+      "overview": "As the English and French soldiers battle for control of the American colonies in the 18th century, the settlers and native Americans are forced to take sides. Cora and her sister Alice unwittingly walk into trouble but are reluctantly saved by Hawkeye, an orphaned settler adopted by the last of the Mohicans.",
+      "runtime": 112
+    },
+    {
+      "name": "Elizabeth: The Golden Age",
+      "size": 74237563,
+      "keywords": [
+        "england",
+        "assassination",
+        "spain",
+        "virgin",
+        "colony",
+        "governance",
+        "queen elizabeth i",
+        "religious war",
+        "tudors",
+        "execution",
+        "middle ages",
+        "catholicism",
+        "sea battle",
+        "palace intrigue"
+      ],
+      "user_rating": 6.6,
+      "votes": 303,
+      "release_year": 2007,
+      "overview": "When Queen Elizabeth's reign is threatened by ruthless familial betrayal and Spain's invading army, she and her shrewd adviser must act to safeguard to the lives of her people.",
+      "runtime": 114
+    },
+    {
+      "name": "Amistad",
+      "size": 74000000,
+      "keywords": [
+        "cuba",
+        "mutiny",
+        "slavery",
+        "sentence",
+        "historical figure",
+        "havanna",
+        "tall ship",
+        "slave trade"
+      ],
+      "user_rating": 6.8,
+      "votes": 316,
+      "release_year": 1997,
+      "overview": "In 1839, the slave ship Amistad set sail from Cuba to America. During the long trip, Cinque leads the slaves in an unprecedented uprising. They are then held prisoner in Connecticut, and their release becomes the subject of heated debate. Freed slave Theodore Joadson wants Cinque and the others exonerated and recruits property lawyer Roger Baldwin to help his case. Eventually, John Quincy Adams also becomes an ally.",
+      "runtime": 155
+    },
+    {
+      "name": "Cleopatra",
+      "size": 71000000,
+      "keywords": [
+        "ancient rome",
+        "historical figure",
+        "cleopatra",
+        "julius caesar"
+      ],
+      "user_rating": 6.7,
+      "votes": 146,
+      "release_year": 1963,
+      "overview": "Historical epic. The triumphs and tragedy of the Egyptian queen, Cleopatra.The winner of four Oscars, this epic saga of love, greed and betrayal stars Elizabeth Taylor as the passionate and ambitious Egyptian queen who's determined to hold on to the throne and seduces the Roman emperor Julius Caesar (Rex Harrison). When Caesar is murdered, she redirects her attentions to his general, Marc Antony (Richard Burton), who vows to take power -- but Caesar's successor (Roddy McDowall) has other plans.",
+      "runtime": 248
+    },
+    {
+      "name": "Lawrence of Arabia",
+      "size": 69995385,
+      "keywords": [
+        "cairo",
+        "arabian",
+        "world war i",
+        "horse",
+        "jerusalem",
+        "british army",
+        "british empire",
+        "damascus",
+        "camel",
+        "war",
+        "desert",
+        "arab",
+        "ottoman empire"
+      ],
+      "user_rating": 7.8,
+      "votes": 851,
+      "release_year": 1962,
+      "overview": "An epic about British officer T.E. Lawrence's mission to aid the Arab tribes in their revolt against the Ottoman Empire during the First World War. Lawrence becomes a flamboyant, messianic figure in the cause of Arab unity but his psychological instability threatens to undermine his achievements.",
+      "runtime": 216
+    },
+    {
+      "name": "13 Hours: The Secret Soldiers of Benghazi",
+      "size": 69411370,
+      "keywords": [
+        "based on novel",
+        "assault rifle",
+        "mercenary",
+        "libya",
+        "biography",
+        "based on true story",
+        "heroism",
+        "explosion",
+        "american abroad",
+        "death",
+        "21st century",
+        "cia agent",
+        "u.s. ambassador"
+      ],
+      "user_rating": 7,
+      "votes": 938,
+      "release_year": 2016,
+      "overview": "An American Ambassador is killed during an attack at a U.S. compound in Libya as a security team struggles to make sense out of the chaos.",
+      "runtime": 144
+    },
+    {
+      "name": "The Messenger: The Story of Joan of Arc",
+      "size": 66976317,
+      "keywords": [
+        "schizophrenia",
+        "france",
+        "rape",
+        "siege",
+        "biography",
+        "orléans",
+        "charles vii.",
+        "false history",
+        "joan of arc",
+        "religious delusions"
+      ],
+      "user_rating": 6.2,
+      "votes": 367,
+      "release_year": 1999,
+      "overview": "In 1429 a teenage girl from a remote French village stood before her King with a message she claimed came from God; that she would defeat the world's greatest army and liberate her country from its political and religious turmoil. Following her mission to reclaim god's dimished kingdom - through her amazing victories until her violent and untimely death.",
+      "runtime": 148
+    },
+    {
+      "name": "Selma",
+      "size": 66787908,
+      "keywords": [
+        "alabama",
+        "martin luther king",
+        "president",
+        "black american",
+        "civil rights",
+        "protest march",
+        "woman director",
+        "selma"
+      ],
+      "user_rating": 7.4,
+      "votes": 817,
+      "release_year": 2014,
+      "overview": "\"Selma,\" as in Alabama, the place where segregation in the South was at its worst, leading to a march that ended in violence, forcing a famous statement by President Lyndon B. Johnson that ultimately led to the signing of the Civil Rights Act.",
+      "runtime": 127
+    },
+    {
+      "name": "Flags of Our Fathers",
+      "size": 65900249,
+      "keywords": [
+        "world war ii",
+        "dying and death",
+        "pacific",
+        "iwo jima",
+        "aftercreditsstinger",
+        "duringcreditsstinger"
+      ],
+      "user_rating": 6.7,
+      "votes": 526,
+      "release_year": 2006,
+      "overview": "There were five Marines and one Navy Corpsman photographed raising the U.S. flag on Mt. Suribachi by Joe Rosenthal on February 23, 1945. This is the story of three of the six surviving servicemen – John 'Doc' Bradley, Pvt. Rene Gagnon and Pvt. Ira Hayes, who fought in the battle to take Iwo Jima from the Japanese.",
+      "runtime": 132
+    },
+    {
+      "name": "Miracle",
+      "size": 64445708,
+      "keywords": [
+        "olympic games",
+        "sport",
+        "ice hockey",
+        "milwaukee wisconsin",
+        "st. paul minnesota",
+        "gas rationing",
+        "lake placid new york",
+        "aftercreditsstinger",
+        "duringcreditsstinger"
+      ],
+      "user_rating": 7,
+      "votes": 159,
+      "release_year": 2004,
+      "overview": "In 1980, the United States Ice Hockey team's coach, Herb Brooks, put a ragtag squad of college kids up against the legendary juggernaut from the Soviet Union at the Olympic Games. Despite the long odds, Team USA carried the pride of a nation yearning for a distraction from world events. With the world watching, the team rose to the occasion, prompting broadcaster Al Michaels' now famous question to the millions viewing at home: \"Do you believe in miracles?\" Yes!",
+      "runtime": 135
+    },
+    {
+      "name": "The Grandmaster",
+      "size": 64076736,
+      "keywords": [
+        "martial arts",
+        "kung fu",
+        "biography",
+        "kung fu master"
+      ],
+      "user_rating": 6.3,
+      "votes": 273,
+      "release_year": 2013,
+      "overview": "Ip Man's peaceful life in Foshan changes after Gong Yutian seeks an heir for his family in Southern China. Ip Man then meets Gong Er who challenges him for the sake of regaining her family's honor. After the Second Sino-Japanese War, Ip Man moves to Hong Kong and struggles to provide for his family. In the mean time, Gong Er chooses the path of vengeance after her father was killed by Ma San.",
+      "runtime": 130
+    },
+    {
+      "name": "Lions for Lambs",
+      "size": 63215872,
+      "keywords": [
+        "journalist",
+        "terrorist",
+        "war against terror",
+        "externally controlled action",
+        "manipulation",
+        "propaganda",
+        "manipulation of the media",
+        "future",
+        "afghanistan",
+        "political negotiations",
+        "war",
+        "past",
+        "war in afghanistan"
+      ],
+      "user_rating": 6,
+      "votes": 216,
+      "release_year": 2007,
+      "overview": "Three stories told simultaneous in ninety minutes of real time: a Republican Senator who's a presidential hopeful gives an hour-long interview to a skeptical television reporter, detailing a strategy for victory in Afghanistan; two special forces ambushed on an Afghani ridge await rescue as Taliban forces close in; a poli-sci professor at a California college invites a student to re-engage.",
+      "runtime": 92
+    },
+    {
+      "name": "Captain Corelli's Mandolin",
+      "size": 62112895,
+      "keywords": [
+        "officer",
+        "greek island",
+        "mandolin",
+        "italian soldier",
+        "resistance fighter",
+        "greek history",
+        "italian army",
+        "allied forces"
+      ],
+      "user_rating": 5.5,
+      "votes": 145,
+      "release_year": 2001,
+      "overview": "When a Greek fisherman leaves to fight with the Greek army during WWII, his fiancee falls in love with the local Italian commander. The film is based on a novel about an Italian soldier's experiences during the Italian occupation of the Greek island of Cephalonia (Kefalonia), but Hollywood made it into a pure love story by removing much of the \"unpleasant\" stuff.",
+      "runtime": 131
+    },
+    {
+      "name": "Marie Antoinette",
+      "size": 60474340,
+      "keywords": [
+        "shoe",
+        "voice over",
+        "rite",
+        "theatre audience",
+        "bride and groom",
+        "death of king",
+        "applause",
+        "woman director"
+      ],
+      "user_rating": 6.5,
+      "votes": 642,
+      "release_year": 2006,
+      "overview": "The retelling of France's iconic but ill-fated queen, Marie Antoinette. From her betrothal and marriage to Louis XVI at 15 to her reign as queen at 19 and ultimately the fall of Versailles.",
+      "runtime": 123
+    },
+    {
+      "name": "Chariots of Fire",
+      "size": 58972904,
+      "keywords": [
+        "underdog",
+        "scotland",
+        "jewry",
+        "patriotism",
+        "olympic games",
+        "jew",
+        "olympian sports team",
+        "ambition"
+      ],
+      "user_rating": 6.8,
+      "votes": 207,
+      "release_year": 1981,
+      "overview": "The true story of British athletes preparing for and competing in the 1924 Summer Olympics.",
+      "runtime": 123
+    },
+    {
+      "name": "Tombstone",
+      "size": 56505065,
+      "keywords": [
+        "retirement",
+        "wyatt earp",
+        "right and justice",
+        "historical figure"
+      ],
+      "user_rating": 7.4,
+      "votes": 626,
+      "release_year": 1993,
+      "overview": "Legendary marshal Wyatt Earp, now a weary gunfighter, joins his brothers Morgan and Virgil to pursue their collective fortune in the thriving mining town of Tombstone. But Earp is forced to don a badge again and get help from his notorious pal Doc Holliday when a gang of renegade brigands and rustlers begins terrorizing the town.",
+      "runtime": 130
+    },
+    {
+      "name": "Dallas Buyers Club",
+      "size": 55198285,
+      "keywords": [
+        "women",
+        "aids",
+        "biography",
+        "based on true story",
+        "hiv",
+        "drug",
+        "1980s"
+      ],
+      "user_rating": 7.9,
+      "votes": 2886,
+      "release_year": 2013,
+      "overview": "Loosely based on the true-life tale of Ron Woodroof, a drug-taking, women-loving, homophobic man who in 1986 was diagnosed with HIV/AIDS and given thirty days to live.",
+      "runtime": 117
+    },
+    {
+      "name": "Good Night, and Good Luck.",
+      "size": 54600000,
+      "keywords": [
+        "telecaster",
+        "communist",
+        "political activism",
+        "tv show",
+        "politician",
+        "government",
+        "anti-communism"
+      ],
+      "user_rating": 6.8,
+      "votes": 273,
+      "release_year": 2005,
+      "overview": "The story of journalist, Edward R Murrow's stand against Senator McCarthy's anti-communist witch-hunts in the early 1950s.",
+      "runtime": 93
+    },
+    {
+      "name": "Milk",
+      "size": 54586584,
+      "keywords": [
+        "gay",
+        "san francisco",
+        "homophobia",
+        "mayor",
+        "biography",
+        "politics",
+        "politician",
+        "election campaign",
+        "homosexuality",
+        "morality",
+        "election",
+        "candlelight vigil",
+        "mayoral campaign"
+      ],
+      "user_rating": 7.1,
+      "votes": 612,
+      "release_year": 2008,
+      "overview": "The story of California's first openly gay elected official, Harvey Milk, who  became an outspoken agent for change, seeking equal rights and opportunities for all. His great love for the city and its people brought him backing from young and old, straight and gay, alike – at a time when prejudice and violence against gays was openly accepted as the norm.",
+      "runtime": 128
+    },
+    {
+      "name": "The Finest Hours",
+      "size": 52099090,
+      "keywords": [
+        "coast guard",
+        "based on true story",
+        "survival",
+        "rescue mission",
+        "storm at sea",
+        "sinking ship",
+        "1950s",
+        "3d"
+      ],
+      "user_rating": 6.3,
+      "votes": 588,
+      "release_year": 2016,
+      "overview": "The Coast Guard makes a daring rescue attempt off the coast of Cape Cod after a pair of oil tankers are destroyed during a blizzard in 1952.",
+      "runtime": 114
+    },
+    {
+      "name": "Amadeus",
+      "size": 51973029,
+      "keywords": [
+        "italy",
+        "composer",
+        "opera",
+        "talent",
+        "musician",
+        "marriage crisis",
+        "god",
+        "murder",
+        "vienna austria",
+        "envy",
+        "18th century"
+      ],
+      "user_rating": 7.8,
+      "votes": 1076,
+      "release_year": 1984,
+      "overview": "The incredible story of genius musician Wolfgang Amadeus Mozart, told in flashback by his peer and secret rival Antonio Salieri – now confined to an insane asylum.",
+      "runtime": 160
+    },
+    {
+      "name": "A Bridge Too Far",
+      "size": 50750000,
+      "keywords": [
+        "netherlands",
+        "world war ii",
+        "panzer",
+        "british soldier"
+      ],
+      "user_rating": 6.9,
+      "votes": 207,
+      "release_year": 1977,
+      "overview": "Tells the story of operation Market Garden. A failed attempt by the allies in the latter stages of WWII to end the war quickly by securing three bridges in Holland allowing access over the Rhine into Germany. A combination of poor allied intelligence and the presence of two crack German panzer divisions meant that the final part of this operation (the bridge in Arnhem over the Rhine) was doomed to failure.",
+      "runtime": 175
+    },
+    {
+      "name": "Red Tails",
+      "size": 50365377,
+      "keywords": [
+        "world war ii",
+        "fighter pilot",
+        "fighter plane"
+      ],
+      "user_rating": 5.9,
+      "votes": 178,
+      "release_year": 2012,
+      "overview": "The story of the Tuskegee Airmen, the first African-American pilots to fly in a combat squadron during World War II.",
+      "runtime": 125
+    },
+    {
+      "name": "The Longest Day",
+      "size": 50100000,
+      "keywords": [
+        "world war ii",
+        "normandy",
+        "allied",
+        "widerstand",
+        "steel helmet",
+        "soldier"
+      ],
+      "user_rating": 7.2,
+      "votes": 234,
+      "release_year": 1962,
+      "overview": "The retelling of June 6, 1944, from the perspectives of the Germans, US, British, Canadians, and the Free French. Marshall Erwin Rommel, touring the defenses being established as part of the Reich's Atlantic Wall, notes to his officers that when the Allied invasion comes they must be stopped on the beach. \"For the Allies as well as the Germans, it will be the longest day\"",
+      "runtime": 178
+    },
+    {
+      "name": "Malcolm X",
+      "size": 48169908,
+      "keywords": [
+        "islam",
+        "new york",
+        "prison",
+        "assassination",
+        "ku klux klan",
+        "muslim",
+        "police brutality",
+        "beach",
+        "koran",
+        "jail guard",
+        "prison cell",
+        "bible",
+        "biography",
+        "martin luther king",
+        "nation of islam",
+        "civil rights movement ",
+        "mekka",
+        "pilgrimage",
+        "cabriolet",
+        "police",
+        "historical figure",
+        "malcolm x"
+      ],
+      "user_rating": 7.2,
+      "votes": 370,
+      "release_year": 1992,
+      "overview": "The biopic of the controversial and influential Black Nationalist leader.",
+      "runtime": 202
+    },
+    {
+      "name": "Eddie the Eagle",
+      "size": 46152800,
+      "keywords": [
+        "underdog",
+        "olympic games",
+        "ski jump",
+        "biography",
+        "sport",
+        "based on true story",
+        "britain",
+        "skiing",
+        "feel good"
+      ],
+      "user_rating": 7.2,
+      "votes": 661,
+      "release_year": 2016,
+      "overview": "Inspired by true events, Eddie the Eagle is a feel-good story about Michael \"Eddie\" Edwards (Taron Egerton), an unlikely but courageous British ski-jumper who never stopped believing in himself - even as an entire nation was counting him out. With the help of a rebellious and charismatic coach (played by Hugh Jackman), Eddie takes on the establishment and wins the hearts of sports fans around the world by making an improbable and historic showing at the 1988 Calgary Winter Olympics.",
+      "runtime": 106
+    },
+    {
+      "name": "The Last Emperor",
+      "size": 43984230,
+      "keywords": [
+        "buddhism",
+        "japan",
+        "suicide",
+        "china",
+        "suicide attempt",
+        "war crimes",
+        "becoming an adult",
+        "isolation",
+        "war on drugs",
+        "revolution",
+        "emperor",
+        "arranged marriage",
+        "manchuria",
+        "dynasty",
+        "reeducation camp",
+        "cultural revolution",
+        "human experimentation",
+        "war",
+        "coup d'etat",
+        "teacher",
+        "beijing",
+        "decadence",
+        "communism"
+      ],
+      "user_rating": 7.4,
+      "votes": 355,
+      "release_year": 1987,
+      "overview": "A dramatic history of Pu Yi, the last of the Emperors of China, from his lofty birth and brief reign in the Forbidden City, the object of worship by half a billion people; through his abdication, his decline and dissolute lifestyle; his exploitation by the invading Japanese, and finally to his obscure existence as just another peasant worker in the People's Republic.",
+      "runtime": 163
+    },
+    {
+      "name": "Of Gods and Men",
+      "size": 41424067,
+      "keywords": [
+        "monk",
+        "sunrise",
+        "medicine",
+        "hostage",
+        "evacuation",
+        "koran",
+        "protection",
+        "french",
+        "community",
+        "peace",
+        "faith",
+        "based on true story",
+        "religion",
+        "terrorism"
+      ],
+      "user_rating": 6.5,
+      "votes": 91,
+      "release_year": 2010,
+      "overview": "French drama based on the 1996 kidnapping and killing of seven monks in Algeria. A group of Trappist monks reside in the monastery of Tibhirine in Algeria, where they live in harmony with the largely muslim population. When a bloody conflict between Algeria's army and Muslim Jihadi insurgents disrupts the peace, they are forced to consider fleeing the monastery and deserting the villagers they have ministered to. In the face of deadly violence the monks wrestle with their faith and their convictions, eventually deciding to stay and help their neighbours keep the army and the insurgents at bay.",
+      "runtime": 120
+    },
+    {
+      "name": "Reds",
+      "size": 40382659,
+      "keywords": [
+        "journalist",
+        "russian revolution 1917"
+      ],
+      "user_rating": 7.1,
+      "votes": 67,
+      "release_year": 1981,
+      "overview": "A radical American journalist becomes involved with the Communist revolution in Russia and hopes to bring its spirit and idealism to the United States.",
+      "runtime": 195
+    },
+    {
+      "name": "Agora",
+      "size": 39041505,
+      "keywords": [
+        "christianity",
+        "philosophy",
+        "egypt",
+        "new love",
+        "war",
+        "cult",
+        "historical figure",
+        "history",
+        "sword fight",
+        "ancient world",
+        "destiny",
+        "fall in love",
+        "hypatia",
+        "misogyny",
+        "persecution",
+        "library of alexandria",
+        "political unrest",
+        "impossible love",
+        "false history",
+        "power relations",
+        "unfulfillment",
+        "master and servant",
+        "love and romance",
+        "unfulfilled love"
+      ],
+      "user_rating": 6.9,
+      "votes": 395,
+      "release_year": 2009,
+      "overview": "A historical drama set in Roman Egypt, concerning philosopher Hypatia of Alexandria and her relationship with her slave Davus, who is torn between his love for her and the possibility of gaining his freedom by joining the rising tide of Christianity.",
+      "runtime": 127
+    },
+    {
+      "name": "Hotel Rwanda",
+      "size": 38000000,
+      "keywords": [
+        "rwanda",
+        "refugee",
+        "refugee camp",
+        "militia",
+        "murder",
+        "slaughter",
+        "dead body",
+        "atrocity",
+        "african",
+        "cruelty",
+        "violence",
+        "united nations",
+        "genocide in rwanda",
+        "death"
+      ],
+      "user_rating": 7.5,
+      "votes": 793,
+      "release_year": 2004,
+      "overview": "Inspired by true events, this film takes place in Rwanda in the 1990s when more than a million Tutsis were killed in a genocide that went mostly unnoticed by the rest of the world. Hotel owner Paul Rusesabagina houses over a thousand refuges in his hotel in attempt to save their lives.",
+      "runtime": 121
+    },
+    {
+      "name": "Tom Jones",
+      "size": 37600000,
+      "keywords": [
+        "from rags to riches",
+        "tutor",
+        "squire"
+      ],
+      "user_rating": 6.1,
+      "votes": 39,
+      "release_year": 1963,
+      "overview": "Tom loves Sophie and Sophie loves Tom. But Tom and Sophie are of differering classes. Can they find a way through the mayhem to be true to love?",
+      "runtime": 128
+    },
+    {
+      "name": "K-19: The Widowmaker",
+      "size": 35168966,
+      "keywords": [
+        "submarine",
+        "soviet union",
+        "core melt",
+        "north atlantic",
+        "nuclear",
+        "woman director"
+      ],
+      "user_rating": 6.1,
+      "votes": 264,
+      "release_year": 2002,
+      "overview": "When Russia's first nuclear submarine malfunctions on its maiden voyage, the crew must race to save the ship and prevent a nuclear disaster.",
+      "runtime": 138
+    },
+    {
+      "name": "Woodstock",
+      "size": 34505110,
+      "keywords": [
+        "hippie",
+        "free love",
+        "musical",
+        "music",
+        "woodstock",
+        "music festival",
+        "rock music",
+        "summer"
+      ],
+      "user_rating": 7.1,
+      "votes": 66,
+      "release_year": 1970,
+      "overview": "An intimate look at the Woodstock Music & Art Festival held in Bethel, NY in 1969, from preparation through cleanup, with historic access to insiders, blistering concert footage, and portraits of the concertgoers; negative and positive aspects are shown, from drug use by performers to naked fans sliding in the mud, from the collapse of the fences by the unexpected hordes to the surreal arrival of National Guard helicopters with food and medical assistance for the impromptu city of 500,000.",
+      "runtime": 225
+    },
+    {
+      "name": "Steve Jobs",
+      "size": 34441873,
+      "keywords": [
+        "biography",
+        "computer",
+        "father daughter relationship",
+        "apple computer",
+        "steve jobs",
+        "based on true events"
+      ],
+      "user_rating": 6.8,
+      "votes": 1573,
+      "release_year": 2015,
+      "overview": "Set backstage at three iconic product launches and ending in 1998 with the unveiling of the iMac, Steve Jobs takes us behind the scenes of the digital revolution to paint an intimate portrait of the brilliant man at its epicenter.",
+      "runtime": 122
+    },
+    {
+      "name": "The Bridge on the River Kwai",
+      "size": 33300000,
+      "keywords": [
+        "japan",
+        "resistance",
+        "japanese",
+        "river",
+        "prisoners of war",
+        "thailand",
+        "bridge",
+        "officer"
+      ],
+      "user_rating": 7.7,
+      "votes": 542,
+      "release_year": 1957,
+      "overview": "The classic story of English POWs in Burma forced to build a bridge to aid the war effort of their Japanese captors. British and American intelligence officers conspire to blow up the structure, but Col. Nicholson , the commander who supervised the bridge's construction, has acquired a sense of pride in his creation and tries to foil their plans.",
+      "runtime": 161
+    },
+    {
+      "name": "Airlift",
+      "size": 32000000,
+      "keywords": [
+        "evacuation",
+        "war",
+        "based on true story",
+        "iraq war"
+      ],
+      "user_rating": 7.3,
+      "votes": 57,
+      "release_year": 2016,
+      "overview": "When Iraq invades Kuwait in August, 1990, a callous Indian businessman becomes the spokesperson for more than 170,000 stranded countrymen.",
+      "runtime": 126
+    },
+    {
+      "name": "The New World",
+      "size": 30536013,
+      "keywords": [
+        "chief",
+        "colonialism",
+        "new world"
+      ],
+      "user_rating": 6.4,
+      "votes": 330,
+      "release_year": 2005,
+      "overview": "A drama about explorer John Smith and the clash between Native Americans and English settlers in the 17th century.",
+      "runtime": 135
+    },
+    {
+      "name": "Quo Vadis",
+      "size": 30000000,
+      "keywords": [
+        "ancient rome",
+        "epic",
+        "kaiser nero"
+      ],
+      "user_rating": 7,
+      "votes": 63,
+      "release_year": 1951,
+      "overview": "Set against the back drop of Rome in crisis, General Marcus Vinicius returns to the city from the battle fields and falls in love with a Christian woman, Lygia. Caught in the grip of insanity, Nero's atrocities become more extreme and he burns Rome, laying the blame on the Christians. Vinicius races to save Lygia from the wrath of Nero as the empire of Rome collapses around them.",
+      "runtime": 171
+    },
+    {
+      "name": "Tora! Tora! Tora!",
+      "size": 29548291,
+      "keywords": [
+        "japan",
+        "world war ii",
+        "pearl harbor",
+        "soldier",
+        "imperial japan"
+      ],
+      "user_rating": 6.9,
+      "votes": 147,
+      "release_year": 1970,
+      "overview": "In the summer of 1941, the United States and Japan seem on the brink of war after constant embargos and failed diplomacy come to no end. \"Tora! Tora! Tora!\", named after the code words use by the lead Japanese pilot to indicate they had surprised the Americans, covers the days leading up to the attack on Pearl Harbor, which plunged America into the Second World War.",
+      "runtime": 144
+    },
+    {
+      "name": "In the Valley of Elah",
+      "size": 29541790,
+      "keywords": [
+        "father son relationship",
+        "detective",
+        "war crimes",
+        "patriotism",
+        "homicide",
+        "investigation",
+        "iraq",
+        "military service",
+        "police",
+        "cover-up",
+        "disappearance",
+        "murder investigation"
+      ],
+      "user_rating": 6.6,
+      "votes": 261,
+      "release_year": 2007,
+      "overview": "A career officer and his wife work with a police detective to uncover the truth behind their son's disappearance following his return from a tour of duty in Iraq.",
+      "runtime": 124
+    },
+    {
+      "name": "W.",
+      "size": 29506464,
+      "keywords": [
+        "usa",
+        "white house",
+        "usa president",
+        "george w. bush",
+        "president",
+        "iraq war"
+      ],
+      "user_rating": 6.1,
+      "votes": 143,
+      "release_year": 2008,
+      "overview": "Whether you love him or hate him, there is no question that George W. Bush is one of the most controversial public figures in recent memory. W takes viewers through Bush’s eventful life -- his struggles and triumphs, how he found both his wife and his faith, and of course the critical days leading up to Bush’s decision to invade Iraq.",
+      "runtime": 131
+    },
+    {
+      "name": "A Man for All Seasons",
+      "size": 28350000,
+      "keywords": [
+        "england",
+        "pope",
+        "beheading",
+        "death penalty",
+        "thomas more",
+        "protestant church",
+        "thomas cromwell",
+        "oath",
+        "henry viii"
+      ],
+      "user_rating": 7.5,
+      "votes": 89,
+      "release_year": 1966,
+      "overview": "A Man for All Seasons is the filmed version of the life of Thomas More. An English man comes to Sir Thomas More to ask if he can divorce his wife since King Henry VIII has made it illegal. Sir Thomas More stands up in opposition to the King even though he knows he’s risking his own life. An award winning film from 1966.",
+      "runtime": 120
+    },
+    {
+      "name": "The Young Victoria",
+      "size": 27409889,
+      "keywords": [
+        "royal family",
+        "biography",
+        "royalty",
+        "period drama",
+        "queen victoria",
+        "prince albert",
+        "19th century",
+        "british monarchy"
+      ],
+      "user_rating": 7,
+      "votes": 322,
+      "release_year": 2009,
+      "overview": "From Academy Award® winners Graham King and Martin Scorsese, along with the makers of Gosford Park and The Departed, comes the story of Queen Victoria’s early rise to power. From an object of a royal power-struggle to her romantic courtship and legendary marriage to Prince Albert, Emily Blunt (The Devil Wears Prada) gives a stunning performance as the young Victoria. Packed with drama, romance, breath-taking cinematography, lavish costumes and featuring an outstanding British cast including Jim Broadbent, Harriet Walter, Mark Strong, Paul Bettany, Miranda Richardson, and Rupert Friend, The Young Victoria has captivated British audiences, and is the film that Company magazine called “an epic British film, which will sweep you up in her remarkable story.”",
+      "runtime": 105
+    },
+    {
+      "name": "Mandela: Long Walk to Freedom",
+      "size": 27330000,
+      "keywords": [
+        "prison",
+        "south africa",
+        "apartheid",
+        "biography",
+        "nelson mandela",
+        "historical figure"
+      ],
+      "user_rating": 6.5,
+      "votes": 224,
+      "release_year": 2013,
+      "overview": "A chronicle of Nelson Mandela's life journey from his childhood in a rural village through to his inauguration as the first democratically elected president of South Africa.",
+      "runtime": 141
+    },
+    {
+      "name": "A Passage to India",
+      "size": 27187653,
+      "keywords": [
+        "doctor",
+        "india",
+        "english",
+        "magistrate",
+        "1920s",
+        "mosque"
+      ],
+      "user_rating": 6.9,
+      "votes": 67,
+      "release_year": 1984,
+      "overview": "The film is set during the period of growing influence of the Indian independence movement in the British Raj. It begins with the arrival in India of a British woman, Miss Adela Quested (Judy Davis), who is joining her fiancé, a city magistrate named Ronny Heaslop (Nigel Havers). She and Ronny's mother, Mrs. Moore (Peggy Ashcroft), befriend an Indian doctor, Aziz H. Ahmed (Victor Banerjee).",
+      "runtime": 163
+    },
+    {
+      "name": "Mongol: The Rise of Genghis Khan",
+      "size": 26527510,
+      "keywords": [
+        "mongolia",
+        "genghis khan"
+      ],
+      "user_rating": 6.5,
+      "votes": 158,
+      "release_year": 2007,
+      "overview": "The story recounts the early life of Genghis Khan, a slave who went on to conquer half the world in the 11th century.",
+      "runtime": 120
+    },
+    {
+      "name": "The Elephant Man",
+      "size": 26010864,
+      "keywords": [
+        "exploitation",
+        "biography",
+        "hospital",
+        "curiosity",
+        "sideshow",
+        "disfigurement",
+        "physical deformity",
+        "freak",
+        "19th century",
+        "dignity"
+      ],
+      "user_rating": 7.9,
+      "votes": 719,
+      "release_year": 1980,
+      "overview": "A Victorian surgeon rescues a heavily disfigured man being mistreated by his \"owner\" as a side-show freak. Behind his monstrous façade, there is revealed a person of great intelligence and sensitivity. Based on the true story of Joseph Merrick (called John Merrick in the film), a severely deformed man in 19th century London.",
+      "runtime": 124
+    },
+    {
+      "name": "The Alamo",
+      "size": 25819961,
+      "keywords": [
+        "texas",
+        "officer",
+        "uprising",
+        "alamo",
+        "mexican"
+      ],
+      "user_rating": 5.8,
+      "votes": 106,
+      "release_year": 2004,
+      "overview": "Based on the 1836 standoff between a group of Texan and Tejano men, led by Davy Crockett and Jim Bowie, and Mexican dictator Santa Anna's forces at the Alamo in San Antonio, Texas.",
+      "runtime": 137
+    },
+    {
+      "name": "Free State of Jones",
+      "size": 25035950,
+      "keywords": [
+        "slavery",
+        "american civil war"
+      ],
+      "user_rating": 6.6,
+      "votes": 428,
+      "release_year": 2016,
+      "overview": "In 1863, Mississippi farmer Newt Knight serves as a medic for the Confederate Army. Opposed to slavery, Knight would rather help the wounded than fight the Union. After his nephew dies in battle, Newt returns home to Jones County to safeguard his family but is soon branded an outlaw deserter. Forced to flee, he finds refuge with a group of runaway slaves hiding out in the swamps. Forging an alliance with the slaves and other farmers, Knight leads a rebellion that would forever change history.",
+      "runtime": 139
+    }
+  ],
+  "links": [
+    {
+      "source": "Saving Private Ryan",
+      "target": "The Last Samurai",
+      "value": 2
+    },
+    {
+      "source": "Saving Private Ryan",
+      "target": "Pearl Harbor",
+      "value": 3
+    },
+    {
+      "source": "Saving Private Ryan",
+      "target": "Patton",
+      "value": 2
+    },
+    {
+      "source": "Saving Private Ryan",
+      "target": "Gandhi",
+      "value": 2
+    },
+    {
+      "source": "Saving Private Ryan",
+      "target": "The Longest Day",
+      "value": 2
+    },
+    {
+      "source": "The Last Samurai",
+      "target": "The Patriot",
+      "value": 2
+    },
+    {
+      "source": "The Last Samurai",
+      "target": "The Last Emperor",
+      "value": 3
+    },
+    {
+      "source": "The Last Samurai",
+      "target": "Tora! Tora! Tora!",
+      "value": 2
+    },
+    {
+      "source": "Pearl Harbor",
+      "target": "Tora! Tora! Tora!",
+      "value": 2
+    },
+    {
+      "source": "The King's Speech",
+      "target": "The Young Victoria",
+      "value": 2
+    },
+    {
+      "source": "Schindler's List",
+      "target": "The Imitation Game",
+      "value": 2
+    },
+    {
+      "source": "Schindler's List",
+      "target": "The Monuments Men",
+      "value": 2
+    },
+    {
+      "source": "Schindler's List",
+      "target": "Patton",
+      "value": 2
+    },
+    {
+      "source": "The Imitation Game",
+      "target": "Patton",
+      "value": 2
+    },
+    {
+      "source": "The Imitation Game",
+      "target": "Milk",
+      "value": 2
+    },
+    {
+      "source": "The Patriot",
+      "target": "Of Gods and Men",
+      "value": 2
+    },
+    {
+      "source": "JFK",
+      "target": "Zero Dark Thirty",
+      "value": 2
+    },
+    {
+      "source": "JFK",
+      "target": "We Were Soldiers",
+      "value": 2
+    },
+    {
+      "source": "JFK",
+      "target": "Malcolm X",
+      "value": 2
+    },
+    {
+      "source": "Valkyrie",
+      "target": "Zero Dark Thirty",
+      "value": 2
+    },
+    {
+      "source": "Valkyrie",
+      "target": "Downfall",
+      "value": 3
+    },
+    {
+      "source": "Alexander",
+      "target": "Agora",
+      "value": 2
+    },
+    {
+      "source": "Memoirs of a Geisha",
+      "target": "Windtalkers",
+      "value": 2
+    },
+    {
+      "source": "Memoirs of a Geisha",
+      "target": "Tora! Tora! Tora!",
+      "value": 2
+    },
+    {
+      "source": "Zero Dark Thirty",
+      "target": "Munich",
+      "value": 2
+    },
+    {
+      "source": "Invictus",
+      "target": "Gandhi",
+      "value": 2
+    },
+    {
+      "source": "Invictus",
+      "target": "Miracle",
+      "value": 2
+    },
+    {
+      "source": "Invictus",
+      "target": "Mandela: Long Walk to Freedom",
+      "value": 3
+    },
+    {
+      "source": "We Were Soldiers",
+      "target": "The Thin Red Line",
+      "value": 3
+    },
+    {
+      "source": "We Were Soldiers",
+      "target": "In the Heart of the Sea",
+      "value": 2
+    },
+    {
+      "source": "We Were Soldiers",
+      "target": "13 Hours: The Secret Soldiers of Benghazi",
+      "value": 3
+    },
+    {
+      "source": "We Were Soldiers",
+      "target": "The Longest Day",
+      "value": 2
+    },
+    {
+      "source": "Cinderella Man",
+      "target": "Eddie the Eagle",
+      "value": 2
+    },
+    {
+      "source": "The Thin Red Line",
+      "target": "Patton",
+      "value": 2
+    },
+    {
+      "source": "The Thin Red Line",
+      "target": "Das Boot",
+      "value": 2
+    },
+    {
+      "source": "The Thin Red Line",
+      "target": "Windtalkers",
+      "value": 3
+    },
+    {
+      "source": "The Thin Red Line",
+      "target": "Flags of Our Fathers",
+      "value": 2
+    },
+    {
+      "source": "The Thin Red Line",
+      "target": "The Longest Day",
+      "value": 3
+    },
+    {
+      "source": "The Thin Red Line",
+      "target": "Tora! Tora! Tora!",
+      "value": 2
+    },
+    {
+      "source": "In the Heart of the Sea",
+      "target": "13 Hours: The Secret Soldiers of Benghazi",
+      "value": 2
+    },
+    {
+      "source": "In the Heart of the Sea",
+      "target": "The Finest Hours",
+      "value": 2
+    },
+    {
+      "source": "Downfall",
+      "target": "Patton",
+      "value": 2
+    },
+    {
+      "source": "Downfall",
+      "target": "Flags of Our Fathers",
+      "value": 2
+    },
+    {
+      "source": "Patton",
+      "target": "J. Edgar",
+      "value": 2
+    },
+    {
+      "source": "Patton",
+      "target": "The Longest Day",
+      "value": 3
+    },
+    {
+      "source": "Patton",
+      "target": "Malcolm X",
+      "value": 2
+    },
+    {
+      "source": "Patton",
+      "target": "Agora",
+      "value": 2
+    },
+    {
+      "source": "Patton",
+      "target": "Mandela: Long Walk to Freedom",
+      "value": 2
+    },
+    {
+      "source": "J. Edgar",
+      "target": "Malcolm X",
+      "value": 2
+    },
+    {
+      "source": "J. Edgar",
+      "target": "Mandela: Long Walk to Freedom",
+      "value": 2
+    },
+    {
+      "source": "Gandhi",
+      "target": "Lawrence of Arabia",
+      "value": 2
+    },
+    {
+      "source": "Gandhi",
+      "target": "Mandela: Long Walk to Freedom",
+      "value": 2
+    },
+    {
+      "source": "Windtalkers",
+      "target": "Tora! Tora! Tora!",
+      "value": 2
+    },
+    {
+      "source": "13 Hours: The Secret Soldiers of Benghazi",
+      "target": "Dallas Buyers Club",
+      "value": 2
+    },
+    {
+      "source": "13 Hours: The Secret Soldiers of Benghazi",
+      "target": "Eddie the Eagle",
+      "value": 2
+    },
+    {
+      "source": "Flags of Our Fathers",
+      "target": "Miracle",
+      "value": 2
+    },
+    {
+      "source": "Miracle",
+      "target": "Eddie the Eagle",
+      "value": 2
+    },
+    {
+      "source": "Chariots of Fire",
+      "target": "Eddie the Eagle",
+      "value": 2
+    },
+    {
+      "source": "Dallas Buyers Club",
+      "target": "Eddie the Eagle",
+      "value": 2
+    },
+    {
+      "source": "The Longest Day",
+      "target": "Tora! Tora! Tora!",
+      "value": 2
+    },
+    {
+      "source": "Malcolm X",
+      "target": "Mandela: Long Walk to Freedom",
+      "value": 3
+    },
+    {
+      "source": "Of Gods and Men",
+      "target": "Airlift",
+      "value": 2
+    },
+    {
+      "source": "The Young Victoria",
+      "target": "The Elephant Man",
+      "value": 2
+    }
+  ]
+}
