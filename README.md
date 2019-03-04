@@ -1,6 +1,6 @@
 # The Movie Database
 
-This project uses [D3](https://d3js.org/) v5 to visualize various aspects of the [TMDb dataset](https://www.kaggle.com/tmdb/tmdb-movie-metadata). Specifically, there are 3 visualization techniques involved: a [zoomable pack layout](http://mbostock.github.io/d3/talk/20111116/pack-hierarchy.html) for the overview, a [force-directed graph](https://observablehq.com/@d3/force-directed-graph) linked to the overview, and a [liquid fill gauge](http://bl.ocks.org/brattonc/5e5ce9beee483220e2f6) connected to the graph.
+This project uses [D3](https://d3js.org/) v5 to visualize various aspects of movies in the [TMDb dataset](https://www.kaggle.com/tmdb/tmdb-movie-metadata). Specifically, there are 3 visualization techniques involved: a [zoomable pack layout](http://mbostock.github.io/d3/talk/20111116/pack-hierarchy.html) for the overview, a [force-directed graph](https://observablehq.com/@d3/force-directed-graph) linked to the overview, and a [liquid fill gauge](http://bl.ocks.org/brattonc/5e5ce9beee483220e2f6) connected to the graph.
 
 ## Folders and Files
 
